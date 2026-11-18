@@ -1,0 +1,2268 @@
+index,Area_Name,Year,Group_Name,Sub_Group_Name,Cases_Registered_under_Human_Rights_Violations,Policemen_Chargesheeted,Policemen_Convicted
+0,Andhra Pradesh,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+1,Arunachal Pradesh,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+2,Assam,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+3,Bihar,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+4,Chandigarh,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+5,Chhattisgarh,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+6,Gujarat,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+7,Haryana,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+8,Himachal Pradesh,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+9,Jammu & Kashmir,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+10,Jharkhand,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+11,Karnataka,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+12,Madhya Pradesh,2001,HR_Disappearance of Persons,01. Disappearance of Persons,2.0,2.0,
+13,Maharashtra,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+14,Meghalaya,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+15,Nagaland,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+16,Odisha,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+17,Uttar Pradesh,2001,HR_Disappearance of Persons,01. Disappearance of Persons,1.0,1.0,
+18,West Bengal,2001,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+19,Andhra Pradesh,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+20,Assam,2002,HR_Disappearance of Persons,01. Disappearance of Persons,1.0,1.0,0.0
+21,Bihar,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+22,Chandigarh,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+23,Chhattisgarh,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+24,Daman & Diu,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+25,Gujarat,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+26,Haryana,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+27,Himachal Pradesh,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+28,Jammu & Kashmir,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+29,Karnataka,2002,HR_Disappearance of Persons,01. Disappearance of Persons,1.0,0.0,0.0
+30,Madhya Pradesh,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+31,Maharashtra,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+32,Meghalaya,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+33,Nagaland,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+34,Odisha,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+35,Punjab,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+36,Rajasthan,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,,
+37,Tamil Nadu,2002,HR_Disappearance of Persons,01. Disappearance of Persons,3.0,3.0,
+38,West Bengal,2002,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+39,Andhra Pradesh,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+40,Arunachal Pradesh,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+41,Assam,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+42,Bihar,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+43,Chandigarh,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+44,Chhattisgarh,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+45,Daman & Diu,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+46,Gujarat,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+47,Haryana,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+48,Himachal Pradesh,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+49,Jammu & Kashmir,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+50,Karnataka,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+51,Maharashtra,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+52,Meghalaya,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+53,Nagaland,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+54,Odisha,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+55,Punjab,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+56,West Bengal,2003,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+57,Andhra Pradesh,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+58,Arunachal Pradesh,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+59,Bihar,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+60,Chhattisgarh,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+61,Gujarat,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+62,Himachal Pradesh,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+63,Jammu & Kashmir,2004,HR_Disappearance of Persons,01. Disappearance of Persons,1.0,,
+64,Karnataka,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+65,Madhya Pradesh,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+66,Maharashtra,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+67,Manipur,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+68,Meghalaya,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+69,Mizoram,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+70,Nagaland,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+71,Odisha,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+72,Punjab,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+73,Tamil Nadu,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+74,Uttar Pradesh,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+75,West Bengal,2004,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+76,Andhra Pradesh,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+77,Arunachal Pradesh,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+78,Assam,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+79,Chandigarh,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+80,Chhattisgarh,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+81,Gujarat,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+82,Haryana,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+83,Himachal Pradesh,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+84,Jammu & Kashmir,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+85,Jharkhand,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+86,Karnataka,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+87,Madhya Pradesh,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+88,Maharashtra,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+89,Manipur,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+90,Meghalaya,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+91,Mizoram,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+92,Nagaland,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+93,Odisha,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+94,Punjab,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+95,Uttar Pradesh,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+96,West Bengal,2005,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+97,Andhra Pradesh,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+98,Arunachal Pradesh,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+99,Assam,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+100,Chandigarh,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+101,Chhattisgarh,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+102,Gujarat,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+103,Himachal Pradesh,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+104,Jammu & Kashmir,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+105,Jharkhand,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+106,Karnataka,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+107,Madhya Pradesh,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+108,Manipur,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+109,Meghalaya,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+110,Mizoram,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+111,Nagaland,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+112,Odisha,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+113,Tamil Nadu,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,,
+114,Uttar Pradesh,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+115,West Bengal,2006,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+116,Andhra Pradesh,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+117,Arunachal Pradesh,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+118,Assam,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+119,Bihar,2007,HR_Disappearance of Persons,01. Disappearance of Persons,1.0,0.0,0.0
+120,Chhattisgarh,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+121,Gujarat,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+122,Haryana,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+123,Himachal Pradesh,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+124,Jammu & Kashmir,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+125,Karnataka,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+126,Kerala,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+127,Madhya Pradesh,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+128,Maharashtra,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+129,Manipur,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+130,Meghalaya,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+131,Mizoram,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+132,Nagaland,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+133,Odisha,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+134,Tamil Nadu,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+135,Tripura,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+136,Uttar Pradesh,2007,HR_Disappearance of Persons,01. Disappearance of Persons,1.0,,
+137,West Bengal,2007,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+138,Andhra Pradesh,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+139,Arunachal Pradesh,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+140,Assam,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+141,Bihar,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+142,Chandigarh,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+143,Chhattisgarh,2008,HR_Disappearance of Persons,01. Disappearance of Persons,2.0,0.0,0.0
+144,Gujarat,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+145,Haryana,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+146,Himachal Pradesh,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+147,Jammu & Kashmir,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+148,Karnataka,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+149,Maharashtra,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+150,Manipur,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+151,Meghalaya,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+152,Mizoram,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+153,Nagaland,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+154,Odisha,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+155,West Bengal,2008,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+156,Andhra Pradesh,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+157,Arunachal Pradesh,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+158,Assam,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+159,Bihar,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+160,Chandigarh,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+161,Chhattisgarh,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+162,Gujarat,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+163,Haryana,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+164,Himachal Pradesh,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+165,Jammu & Kashmir,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+166,Karnataka,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+167,Maharashtra,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+168,Manipur,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+169,Meghalaya,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+170,Nagaland,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+171,Odisha,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+172,Tamil Nadu,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+173,West Bengal,2009,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+174,Andhra Pradesh,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+175,Arunachal Pradesh,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+176,Bihar,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+177,Chhattisgarh,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+178,Gujarat,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+179,Haryana,2010,HR_Disappearance of Persons,01. Disappearance of Persons,,0.0,
+180,Himachal Pradesh,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+181,Jammu & Kashmir,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+182,Karnataka,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+183,Maharashtra,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+184,Manipur,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+185,Meghalaya,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+186,Nagaland,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+187,Odisha,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+188,Uttar Pradesh,2010,HR_Disappearance of Persons,01. Disappearance of Persons,1.0,5.0,0.0
+189,West Bengal,2010,HR_Disappearance of Persons,01. Disappearance of Persons,0.0,0.0,0.0
+190,Andhra Pradesh,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,2.0,1.0,0.0
+191,Arunachal Pradesh,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+192,Assam,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+193,Bihar,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+194,Chandigarh,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+195,Chhattisgarh,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+196,Gujarat,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+197,Haryana,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+198,Himachal Pradesh,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+199,Jammu & Kashmir,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+200,Jharkhand,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+201,Karnataka,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,2.0,4.0,0.0
+202,Maharashtra,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+203,Meghalaya,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+204,Nagaland,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+205,Odisha,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,2.0,0.0
+206,Rajasthan,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,,
+207,Uttar Pradesh,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,,
+208,West Bengal,2001,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+209,Andhra Pradesh,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+210,Assam,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+211,Bihar,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+212,Chandigarh,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,,0.0,0.0
+213,Chhattisgarh,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+214,Daman & Diu,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+215,Gujarat,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+216,Haryana,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+217,Himachal Pradesh,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+218,Jammu & Kashmir,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+219,Karnataka,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,2.0,0.0,0.0
+220,Madhya Pradesh,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+221,Maharashtra,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,4.0,0.0
+222,Meghalaya,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+223,Nagaland,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+224,Odisha,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+225,Punjab,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+226,Uttar Pradesh,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,5.0,,
+227,West Bengal,2002,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+228,Andhra Pradesh,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+229,Arunachal Pradesh,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,3.0,0.0,0.0
+230,Assam,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+231,Bihar,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+232,Chandigarh,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+233,Chhattisgarh,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+234,Daman & Diu,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+235,Gujarat,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+236,Haryana,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+237,Himachal Pradesh,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+238,Jammu & Kashmir,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+239,Karnataka,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+240,Maharashtra,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+241,Meghalaya,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+242,Nagaland,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+243,Odisha,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+244,Punjab,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+245,Uttar Pradesh,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,,
+246,West Bengal,2003,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+247,Andhra Pradesh,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+248,Arunachal Pradesh,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+249,Bihar,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+250,Chhattisgarh,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+251,Gujarat,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+252,Himachal Pradesh,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+253,Karnataka,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+254,Madhya Pradesh,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+255,Maharashtra,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+256,Manipur,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+257,Meghalaya,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+258,Mizoram,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+259,Nagaland,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+260,Odisha,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+261,Punjab,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+262,Tamil Nadu,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+263,West Bengal,2004,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+264,Andhra Pradesh,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+265,Arunachal Pradesh,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+266,Assam,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+267,Chandigarh,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+268,Chhattisgarh,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+269,Gujarat,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+270,Haryana,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+271,Himachal Pradesh,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+272,Jammu & Kashmir,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+273,Jharkhand,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+274,Karnataka,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+275,Madhya Pradesh,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+276,Maharashtra,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+277,Manipur,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+278,Meghalaya,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+279,Mizoram,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+280,Nagaland,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+281,Odisha,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+282,Punjab,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+283,Uttar Pradesh,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+284,West Bengal,2005,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+285,Andhra Pradesh,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+286,Arunachal Pradesh,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+287,Assam,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+288,Chandigarh,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+289,Chhattisgarh,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+290,Gujarat,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+291,Himachal Pradesh,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+292,Jammu & Kashmir,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+293,Jharkhand,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+294,Karnataka,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+295,Madhya Pradesh,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+296,Manipur,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+297,Meghalaya,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+298,Mizoram,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+299,Nagaland,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+300,Odisha,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+301,Tamil Nadu,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,,
+302,Uttar Pradesh,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+303,West Bengal,2006,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+304,Andhra Pradesh,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+305,Arunachal Pradesh,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+306,Assam,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+307,Bihar,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+308,Chhattisgarh,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+309,Gujarat,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+310,Haryana,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+311,Himachal Pradesh,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+312,Jammu & Kashmir,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+313,Karnataka,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+314,Kerala,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+315,Madhya Pradesh,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+316,Maharashtra,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+317,Manipur,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+318,Meghalaya,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+319,Mizoram,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+320,Nagaland,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+321,Odisha,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+322,Tamil Nadu,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+323,Tripura,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+324,Uttar Pradesh,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,11.0,,
+325,West Bengal,2007,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+326,Andhra Pradesh,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+327,Arunachal Pradesh,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+328,Assam,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+329,Bihar,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+330,Chhattisgarh,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,10.0,0.0,0.0
+331,Gujarat,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+332,Haryana,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+333,Himachal Pradesh,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+334,Jammu & Kashmir,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+335,Karnataka,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+336,Maharashtra,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+337,Manipur,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+338,Meghalaya,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+339,Mizoram,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+340,Nagaland,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+341,Odisha,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+342,West Bengal,2008,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+343,Andhra Pradesh,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+344,Arunachal Pradesh,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+345,Assam,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+346,Bihar,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+347,Chandigarh,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+348,Chhattisgarh,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+349,Gujarat,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+350,Haryana,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+351,Himachal Pradesh,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+352,Jammu & Kashmir,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+353,Karnataka,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+354,Maharashtra,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+355,Manipur,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+356,Meghalaya,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+357,Nagaland,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+358,Odisha,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+359,Tamil Nadu,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+360,West Bengal,2009,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+361,Andhra Pradesh,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+362,Arunachal Pradesh,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+363,Bihar,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+364,Chhattisgarh,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+365,Gujarat,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+366,Himachal Pradesh,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+367,Jammu & Kashmir,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+368,Karnataka,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+369,Maharashtra,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+370,Manipur,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+371,Meghalaya,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+372,Nagaland,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+373,Odisha,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+374,Uttar Pradesh,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,1.0,0.0,0.0
+375,West Bengal,2010,HR_Illegal detention/arrests,02. Illegal Detention/Arrests,0.0,0.0,0.0
+376,Andhra Pradesh,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+377,Arunachal Pradesh,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+378,Assam,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+379,Bihar,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+380,Chandigarh,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+381,Chhattisgarh,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+382,Gujarat,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+383,Haryana,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+384,Himachal Pradesh,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+385,Jammu & Kashmir,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+386,Jharkhand,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+387,Karnataka,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+388,Maharashtra,2001,HR_Fake encounter killings,03. Fake Encounter Killings,1.0,0.0,0.0
+389,Meghalaya,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+390,Nagaland,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+391,Odisha,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+392,Uttar Pradesh,2001,HR_Fake encounter killings,03. Fake Encounter Killings,1.0,11.0,
+393,West Bengal,2001,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+394,Andhra Pradesh,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+395,Assam,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+396,Bihar,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+397,Chandigarh,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+398,Chhattisgarh,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+399,Daman & Diu,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+400,Gujarat,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+401,Haryana,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+402,Himachal Pradesh,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+403,Jammu & Kashmir,2002,HR_Fake encounter killings,03. Fake Encounter Killings,1.0,0.0,0.0
+404,Karnataka,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+405,Madhya Pradesh,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+406,Maharashtra,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+407,Meghalaya,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+408,Nagaland,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+409,Odisha,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+410,Punjab,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+411,Uttar Pradesh,2002,HR_Fake encounter killings,03. Fake Encounter Killings,1.0,3.0,
+412,West Bengal,2002,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+413,Andhra Pradesh,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+414,Arunachal Pradesh,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+415,Assam,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+416,Bihar,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+417,Chandigarh,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+418,Chhattisgarh,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+419,Daman & Diu,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+420,Gujarat,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+421,Haryana,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+422,Himachal Pradesh,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+423,Jammu & Kashmir,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+424,Karnataka,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+425,Maharashtra,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+426,Meghalaya,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+427,Nagaland,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+428,Odisha,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+429,Punjab,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+430,West Bengal,2003,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+431,Andhra Pradesh,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+432,Arunachal Pradesh,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+433,Bihar,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+434,Chhattisgarh,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+435,Gujarat,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+436,Himachal Pradesh,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+437,Karnataka,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+438,Madhya Pradesh,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+439,Maharashtra,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+440,Manipur,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+441,Meghalaya,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+442,Mizoram,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+443,Nagaland,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+444,Odisha,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+445,Punjab,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+446,Tamil Nadu,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+447,West Bengal,2004,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+448,Andhra Pradesh,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+449,Arunachal Pradesh,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+450,Assam,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+451,Chandigarh,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+452,Chhattisgarh,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+453,Gujarat,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+454,Haryana,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+455,Himachal Pradesh,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+456,Jammu & Kashmir,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+457,Jharkhand,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+458,Karnataka,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+459,Madhya Pradesh,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+460,Maharashtra,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+461,Manipur,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+462,Meghalaya,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+463,Mizoram,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+464,Nagaland,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+465,Odisha,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+466,Punjab,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+467,Uttar Pradesh,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+468,West Bengal,2005,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+469,Andhra Pradesh,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+470,Arunachal Pradesh,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+471,Assam,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+472,Chandigarh,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+473,Chhattisgarh,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+474,Delhi,2006,HR_Fake encounter killings,03. Fake Encounter Killings,1.0,7.0,
+475,Gujarat,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+476,Himachal Pradesh,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+477,Jammu & Kashmir,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+478,Jharkhand,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+479,Karnataka,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+480,Madhya Pradesh,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+481,Manipur,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+482,Meghalaya,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+483,Mizoram,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+484,Nagaland,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+485,Odisha,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+486,Tamil Nadu,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,,
+487,Uttar Pradesh,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+488,West Bengal,2006,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+489,Andhra Pradesh,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+490,Arunachal Pradesh,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+491,Assam,2007,HR_Fake encounter killings,03. Fake Encounter Killings,2.0,0.0,0.0
+492,Bihar,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+493,Chhattisgarh,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+494,Gujarat,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+495,Haryana,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+496,Himachal Pradesh,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+497,Jammu & Kashmir,2007,HR_Fake encounter killings,03. Fake Encounter Killings,5.0,7.0,0.0
+498,Karnataka,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+499,Kerala,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+500,Madhya Pradesh,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+501,Maharashtra,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+502,Manipur,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+503,Meghalaya,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+504,Mizoram,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+505,Nagaland,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+506,Odisha,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+507,Tamil Nadu,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+508,Tripura,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+509,Uttar Pradesh,2007,HR_Fake encounter killings,03. Fake Encounter Killings,3.0,9.0,
+510,West Bengal,2007,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+511,Andhra Pradesh,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+512,Arunachal Pradesh,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+513,Assam,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+514,Bihar,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+515,Chhattisgarh,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+516,Gujarat,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+517,Haryana,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+518,Himachal Pradesh,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+519,Jammu & Kashmir,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+520,Karnataka,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+521,Maharashtra,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+522,Manipur,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+523,Meghalaya,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+524,Mizoram,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+525,Nagaland,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+526,Odisha,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+527,West Bengal,2008,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+528,Andhra Pradesh,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+529,Arunachal Pradesh,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+530,Assam,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+531,Bihar,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+532,Chandigarh,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+533,Chhattisgarh,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+534,Gujarat,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+535,Haryana,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+536,Himachal Pradesh,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+537,Jammu & Kashmir,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+538,Karnataka,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+539,Maharashtra,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+540,Manipur,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+541,Meghalaya,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+542,Nagaland,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+543,Odisha,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+544,Tamil Nadu,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+545,West Bengal,2009,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+546,Andhra Pradesh,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+547,Arunachal Pradesh,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+548,Assam,2010,HR_Fake encounter killings,03. Fake Encounter Killings,1.0,,
+549,Bihar,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+550,Chhattisgarh,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+551,Gujarat,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+552,Himachal Pradesh,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+553,Jammu & Kashmir,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+554,Karnataka,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+555,Maharashtra,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+556,Manipur,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+557,Meghalaya,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+558,Nagaland,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+559,Odisha,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+560,West Bengal,2010,HR_Fake encounter killings,03. Fake Encounter Killings,0.0,0.0,0.0
+561,Andhra Pradesh,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+562,Arunachal Pradesh,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+563,Assam,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+564,Bihar,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+565,Chandigarh,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+566,Chhattisgarh,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+567,Gujarat,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+568,Haryana,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+569,Himachal Pradesh,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+570,Jammu & Kashmir,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+571,Jharkhand,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+572,Karnataka,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+573,Maharashtra,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+574,Meghalaya,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+575,Nagaland,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+576,Odisha,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,2.0,2.0,0.0
+577,West Bengal,2001,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+578,Andhra Pradesh,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+579,Assam,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+580,Bihar,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+581,Chandigarh,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+582,Chhattisgarh,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,5.0,3.0,0.0
+583,Daman & Diu,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+584,Gujarat,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+585,Haryana,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+586,Himachal Pradesh,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+587,Jammu & Kashmir,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+588,Karnataka,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+589,Madhya Pradesh,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+590,Maharashtra,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+591,Meghalaya,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+592,Nagaland,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+593,Odisha,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+594,Punjab,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+595,West Bengal,2002,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+596,Andhra Pradesh,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+597,Arunachal Pradesh,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+598,Assam,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+599,Bihar,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+600,Chandigarh,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+601,Chhattisgarh,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+602,Daman & Diu,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+603,Gujarat,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+604,Haryana,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+605,Himachal Pradesh,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+606,Jammu & Kashmir,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+607,Karnataka,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+608,Maharashtra,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+609,Meghalaya,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+610,Nagaland,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+611,Odisha,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+612,Punjab,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+613,West Bengal,2003,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+614,Andhra Pradesh,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+615,Arunachal Pradesh,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+616,Bihar,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+617,Chhattisgarh,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+618,Gujarat,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+619,Himachal Pradesh,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+620,Jammu & Kashmir,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,1.0,1.0,
+621,Karnataka,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+622,Madhya Pradesh,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+623,Maharashtra,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+624,Manipur,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+625,Meghalaya,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+626,Mizoram,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+627,Nagaland,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+628,Odisha,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+629,Punjab,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+630,Tamil Nadu,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+631,West Bengal,2004,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+632,Andhra Pradesh,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+633,Arunachal Pradesh,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+634,Assam,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,1.0,0.0,0.0
+635,Chandigarh,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+636,Chhattisgarh,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+637,Gujarat,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+638,Haryana,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+639,Himachal Pradesh,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+640,Jammu & Kashmir,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+641,Jharkhand,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+642,Karnataka,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+643,Madhya Pradesh,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+644,Maharashtra,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+645,Manipur,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+646,Meghalaya,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+647,Mizoram,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+648,Nagaland,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+649,Odisha,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+650,Punjab,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+651,Uttar Pradesh,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+652,West Bengal,2005,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+653,Andhra Pradesh,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+654,Arunachal Pradesh,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+655,Assam,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,1.0,0.0,0.0
+656,Chandigarh,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+657,Chhattisgarh,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+658,Gujarat,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+659,Himachal Pradesh,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+660,Jammu & Kashmir,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+661,Jharkhand,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+662,Karnataka,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+663,Madhya Pradesh,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+664,Manipur,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+665,Meghalaya,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+666,Mizoram,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+667,Nagaland,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+668,Odisha,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+669,Tamil Nadu,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,,
+670,Uttar Pradesh,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+671,West Bengal,2006,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+672,Andhra Pradesh,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+673,Arunachal Pradesh,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+674,Assam,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+675,Bihar,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+676,Chhattisgarh,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+677,Gujarat,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+678,Haryana,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+679,Himachal Pradesh,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+680,Jammu & Kashmir,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+681,Karnataka,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+682,Kerala,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+683,Madhya Pradesh,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+684,Maharashtra,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+685,Manipur,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+686,Meghalaya,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+687,Mizoram,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+688,Nagaland,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+689,Odisha,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+690,Tamil Nadu,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+691,Tripura,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+692,West Bengal,2007,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+693,Andhra Pradesh,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+694,Arunachal Pradesh,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+695,Assam,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,1.0,0.0,0.0
+696,Bihar,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+697,Chhattisgarh,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,3.0,0.0,0.0
+698,Gujarat,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+699,Haryana,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+700,Himachal Pradesh,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+701,Jammu & Kashmir,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+702,Karnataka,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+703,Maharashtra,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+704,Manipur,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+705,Meghalaya,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+706,Mizoram,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+707,Nagaland,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+708,Odisha,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+709,West Bengal,2008,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+710,Andhra Pradesh,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+711,Arunachal Pradesh,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+712,Assam,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+713,Bihar,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+714,Chandigarh,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+715,Chhattisgarh,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+716,Gujarat,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+717,Haryana,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+718,Himachal Pradesh,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+719,Jammu & Kashmir,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+720,Karnataka,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+721,Maharashtra,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+722,Manipur,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+723,Meghalaya,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+724,Nagaland,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+725,Odisha,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+726,Tamil Nadu,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+727,West Bengal,2009,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+728,Andhra Pradesh,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+729,Arunachal Pradesh,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+730,Assam,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,1.0,,
+731,Bihar,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+732,Chhattisgarh,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+733,Gujarat,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+734,Himachal Pradesh,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+735,Jammu & Kashmir,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+736,Karnataka,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+737,Maharashtra,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+738,Manipur,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+739,Meghalaya,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+740,Nagaland,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+741,Odisha,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+742,West Bengal,2010,HR_Violation against Terrorists/Extremists,04. Violation Against Terrorists/Extremists,0.0,0.0,0.0
+743,Andhra Pradesh,2001,HR_Extortion,05. Extortion,1.0,0.0,0.0
+744,Arunachal Pradesh,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+745,Assam,2001,HR_Extortion,05. Extortion,2.0,0.0,0.0
+746,Bihar,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+747,Chandigarh,2001,HR_Extortion,05. Extortion,0.0,0.0,
+748,Chhattisgarh,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+749,Delhi,2001,HR_Extortion,05. Extortion,3.0,1.0,
+750,Gujarat,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+751,Haryana,2001,HR_Extortion,05. Extortion,3.0,4.0,0.0
+752,Himachal Pradesh,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+753,Jammu & Kashmir,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+754,Jharkhand,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+755,Karnataka,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+756,Maharashtra,2001,HR_Extortion,05. Extortion,3.0,1.0,0.0
+757,Meghalaya,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+758,Nagaland,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+759,Odisha,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+760,West Bengal,2001,HR_Extortion,05. Extortion,0.0,0.0,0.0
+761,Andhra Pradesh,2002,HR_Extortion,05. Extortion,2.0,0.0,0.0
+762,Assam,2002,HR_Extortion,05. Extortion,2.0,1.0,0.0
+763,Bihar,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+764,Chandigarh,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+765,Chhattisgarh,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+766,Daman & Diu,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+767,Gujarat,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+768,Haryana,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+769,Himachal Pradesh,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+770,Jammu & Kashmir,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+771,Karnataka,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+772,Madhya Pradesh,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+773,Maharashtra,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+774,Meghalaya,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+775,Nagaland,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+776,Odisha,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+777,Punjab,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+778,West Bengal,2002,HR_Extortion,05. Extortion,0.0,0.0,0.0
+779,Andhra Pradesh,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+780,Arunachal Pradesh,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+781,Assam,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+782,Bihar,2003,HR_Extortion,05. Extortion,3.0,0.0,0.0
+783,Chandigarh,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+784,Chhattisgarh,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+785,Daman & Diu,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+786,Gujarat,2003,HR_Extortion,05. Extortion,1.0,1.0,0.0
+787,Haryana,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+788,Himachal Pradesh,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+789,Jammu & Kashmir,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+790,Karnataka,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+791,Madhya Pradesh,2003,HR_Extortion,05. Extortion,1.0,1.0,1.0
+792,Maharashtra,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+793,Meghalaya,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+794,Nagaland,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+795,Odisha,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+796,Punjab,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+797,Tamil Nadu,2003,HR_Extortion,05. Extortion,1.0,,
+798,West Bengal,2003,HR_Extortion,05. Extortion,0.0,0.0,0.0
+799,Andhra Pradesh,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+800,Arunachal Pradesh,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+801,Bihar,2004,HR_Extortion,05. Extortion,3.0,3.0,0.0
+802,Chhattisgarh,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+803,Gujarat,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+804,Himachal Pradesh,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+805,Karnataka,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+806,Madhya Pradesh,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+807,Maharashtra,2004,HR_Extortion,05. Extortion,1.0,0.0,0.0
+808,Manipur,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+809,Meghalaya,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+810,Mizoram,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+811,Nagaland,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+812,Odisha,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+813,Punjab,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+814,Tamil Nadu,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+815,West Bengal,2004,HR_Extortion,05. Extortion,0.0,0.0,0.0
+816,Andhra Pradesh,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+817,Arunachal Pradesh,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+818,Assam,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+819,Chandigarh,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+820,Chhattisgarh,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+821,Gujarat,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+822,Haryana,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+823,Himachal Pradesh,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+824,Jammu & Kashmir,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+825,Jharkhand,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+826,Karnataka,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+827,Madhya Pradesh,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+828,Maharashtra,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+829,Manipur,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+830,Meghalaya,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+831,Mizoram,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+832,Nagaland,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+833,Odisha,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+834,Punjab,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+835,Uttar Pradesh,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+836,West Bengal,2005,HR_Extortion,05. Extortion,0.0,0.0,0.0
+837,Andhra Pradesh,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+838,Arunachal Pradesh,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+839,Assam,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+840,Chandigarh,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+841,Chhattisgarh,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+842,Gujarat,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+843,Himachal Pradesh,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+844,Jammu & Kashmir,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+845,Jharkhand,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+846,Karnataka,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+847,Madhya Pradesh,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+848,Manipur,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+849,Meghalaya,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+850,Mizoram,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+851,Nagaland,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+852,Odisha,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+853,Tamil Nadu,2006,HR_Extortion,05. Extortion,0.0,,
+854,Uttar Pradesh,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+855,West Bengal,2006,HR_Extortion,05. Extortion,0.0,0.0,0.0
+856,Andhra Pradesh,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+857,Arunachal Pradesh,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+858,Assam,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+859,Bihar,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+860,Chhattisgarh,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+861,Goa,2007,HR_Extortion,05. Extortion,1.0,,
+862,Gujarat,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+863,Haryana,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+864,Himachal Pradesh,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+865,Jammu & Kashmir,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+866,Karnataka,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+867,Kerala,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+868,Madhya Pradesh,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+869,Maharashtra,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+870,Manipur,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+871,Meghalaya,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+872,Mizoram,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+873,Nagaland,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+874,Odisha,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+875,Tamil Nadu,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+876,Tripura,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+877,Uttar Pradesh,2007,HR_Extortion,05. Extortion,1.0,,
+878,West Bengal,2007,HR_Extortion,05. Extortion,0.0,0.0,0.0
+879,Andhra Pradesh,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+880,Arunachal Pradesh,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+881,Assam,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+882,Bihar,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+883,Chhattisgarh,2008,HR_Extortion,05. Extortion,38.0,0.0,0.0
+884,Delhi,2008,HR_Extortion,05. Extortion,1.0,1.0,
+885,Gujarat,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+886,Haryana,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+887,Himachal Pradesh,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+888,Jammu & Kashmir,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+889,Karnataka,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+890,Maharashtra,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+891,Manipur,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+892,Meghalaya,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+893,Mizoram,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+894,Nagaland,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+895,Odisha,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+896,West Bengal,2008,HR_Extortion,05. Extortion,0.0,0.0,0.0
+897,Andhra Pradesh,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+898,Arunachal Pradesh,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+899,Assam,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+900,Bihar,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+901,Chandigarh,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+902,Chhattisgarh,2009,HR_Extortion,05. Extortion,5.0,5.0,4.0
+903,Delhi,2009,HR_Extortion,05. Extortion,4.0,4.0,
+904,Gujarat,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+905,Haryana,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+906,Himachal Pradesh,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+907,Jammu & Kashmir,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+908,Karnataka,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+909,Kerala,2009,HR_Extortion,05. Extortion,1.0,1.0,
+910,Maharashtra,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+911,Manipur,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+912,Meghalaya,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+913,Nagaland,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+914,Odisha,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+915,Tamil Nadu,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+916,West Bengal,2009,HR_Extortion,05. Extortion,0.0,0.0,0.0
+917,Andhra Pradesh,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+918,Arunachal Pradesh,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+919,Bihar,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+920,Chhattisgarh,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+921,Gujarat,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+922,Himachal Pradesh,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+923,Jammu & Kashmir,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+924,Karnataka,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+925,Kerala,2010,HR_Extortion,05. Extortion,0.0,0.0,
+926,Maharashtra,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+927,Manipur,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+928,Meghalaya,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+929,Nagaland,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+930,Odisha,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+931,Uttar Pradesh,2010,HR_Extortion,05. Extortion,1.0,,
+932,West Bengal,2010,HR_Extortion,05. Extortion,0.0,0.0,0.0
+933,Andhra Pradesh,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+934,Arunachal Pradesh,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+935,Assam,2001,HR_Torture,06. Torture,3.0,0.0,0.0
+936,Bihar,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+937,Chandigarh,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+938,Chhattisgarh,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+939,Gujarat,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+940,Haryana,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+941,Himachal Pradesh,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+942,Jammu & Kashmir,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+943,Jharkhand,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+944,Karnataka,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+945,Madhya Pradesh,2001,HR_Torture,06. Torture,1.0,1.0,
+946,Maharashtra,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+947,Meghalaya,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+948,Nagaland,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+949,Odisha,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+950,Punjab,2001,HR_Torture,06. Torture,2.0,,
+951,Uttar Pradesh,2001,HR_Torture,06. Torture,3.0,22.0,
+952,West Bengal,2001,HR_Torture,06. Torture,0.0,0.0,0.0
+953,Andhra Pradesh,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+954,Assam,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+955,Bihar,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+956,Chandigarh,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+957,Chhattisgarh,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+958,Daman & Diu,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+959,Gujarat,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+960,Haryana,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+961,Himachal Pradesh,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+962,Jammu & Kashmir,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+963,Karnataka,2002,HR_Torture,06. Torture,1.0,0.0,0.0
+964,Madhya Pradesh,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+965,Maharashtra,2002,HR_Torture,06. Torture,1.0,0.0,0.0
+966,Meghalaya,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+967,Nagaland,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+968,Odisha,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+969,Punjab,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+970,Rajasthan,2002,HR_Torture,06. Torture,1.0,1.0,
+971,West Bengal,2002,HR_Torture,06. Torture,0.0,0.0,0.0
+972,Andhra Pradesh,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+973,Arunachal Pradesh,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+974,Assam,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+975,Bihar,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+976,Chandigarh,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+977,Chhattisgarh,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+978,Daman & Diu,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+979,Gujarat,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+980,Haryana,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+981,Himachal Pradesh,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+982,Jammu & Kashmir,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+983,Karnataka,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+984,Maharashtra,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+985,Meghalaya,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+986,Nagaland,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+987,Odisha,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+988,Punjab,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+989,West Bengal,2003,HR_Torture,06. Torture,0.0,0.0,0.0
+990,Andhra Pradesh,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+991,Arunachal Pradesh,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+992,Bihar,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+993,Chhattisgarh,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+994,Gujarat,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+995,Himachal Pradesh,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+996,Karnataka,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+997,Madhya Pradesh,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+998,Maharashtra,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+999,Manipur,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+1000,Meghalaya,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+1001,Mizoram,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+1002,Nagaland,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+1003,Odisha,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+1004,Punjab,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+1005,Tamil Nadu,2004,HR_Torture,06. Torture,1.0,1.0,0.0
+1006,West Bengal,2004,HR_Torture,06. Torture,0.0,0.0,0.0
+1007,Andhra Pradesh,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1008,Arunachal Pradesh,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1009,Assam,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1010,Chandigarh,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1011,Chhattisgarh,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1012,Gujarat,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1013,Haryana,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1014,Himachal Pradesh,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1015,Jammu & Kashmir,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1016,Jharkhand,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1017,Karnataka,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1018,Kerala,2005,HR_Torture,06. Torture,3.0,,
+1019,Madhya Pradesh,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1020,Maharashtra,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1021,Manipur,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1022,Meghalaya,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1023,Mizoram,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1024,Nagaland,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1025,Odisha,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1026,Punjab,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1027,Uttar Pradesh,2005,HR_Torture,06. Torture,0.0,0.0,0.0
+1028,West Bengal,2005,HR_Torture,06. Torture,5.0,4.0,0.0
+1029,Andhra Pradesh,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1030,Arunachal Pradesh,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1031,Assam,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1032,Chandigarh,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1033,Chhattisgarh,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1034,Gujarat,2006,HR_Torture,06. Torture,1.0,1.0,0.0
+1035,Himachal Pradesh,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1036,Jammu & Kashmir,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1037,Jharkhand,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1038,Karnataka,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1039,Madhya Pradesh,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1040,Manipur,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1041,Meghalaya,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1042,Mizoram,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1043,Nagaland,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1044,Odisha,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1045,Tamil Nadu,2006,HR_Torture,06. Torture,0.0,,
+1046,Uttar Pradesh,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1047,West Bengal,2006,HR_Torture,06. Torture,0.0,0.0,0.0
+1048,Andhra Pradesh,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1049,Arunachal Pradesh,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1050,Assam,2007,HR_Torture,06. Torture,3.0,0.0,0.0
+1051,Bihar,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1052,Chhattisgarh,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1053,Gujarat,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1054,Haryana,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1055,Himachal Pradesh,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1056,Jammu & Kashmir,2007,HR_Torture,06. Torture,1.0,0.0,0.0
+1057,Karnataka,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1058,Kerala,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1059,Madhya Pradesh,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1060,Maharashtra,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1061,Manipur,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1062,Meghalaya,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1063,Mizoram,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1064,Nagaland,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1065,Odisha,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1066,Tamil Nadu,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1067,Tripura,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1068,Uttar Pradesh,2007,HR_Torture,06. Torture,1.0,,
+1069,West Bengal,2007,HR_Torture,06. Torture,0.0,0.0,0.0
+1070,Andhra Pradesh,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1071,Arunachal Pradesh,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1072,Assam,2008,HR_Torture,06. Torture,4.0,0.0,0.0
+1073,Bihar,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1074,Chhattisgarh,2008,HR_Torture,06. Torture,53.0,0.0,1.0
+1075,Gujarat,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1076,Haryana,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1077,Himachal Pradesh,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1078,Jammu & Kashmir,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1079,Karnataka,2008,HR_Torture,06. Torture,1.0,0.0,0.0
+1080,Maharashtra,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1081,Manipur,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1082,Meghalaya,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1083,Mizoram,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1084,Nagaland,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1085,Odisha,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1086,Uttar Pradesh,2008,HR_Torture,06. Torture,1.0,3.0,0.0
+1087,West Bengal,2008,HR_Torture,06. Torture,0.0,0.0,0.0
+1088,Andhra Pradesh,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1089,Arunachal Pradesh,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1090,Assam,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1091,Bihar,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1092,Chandigarh,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1093,Chhattisgarh,2009,HR_Torture,06. Torture,4.0,4.0,2.0
+1094,Gujarat,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1095,Haryana,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1096,Himachal Pradesh,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1097,Jammu & Kashmir,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1098,Karnataka,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1099,Maharashtra,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1100,Manipur,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1101,Meghalaya,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1102,Nagaland,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1103,Odisha,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1104,Tamil Nadu,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1105,West Bengal,2009,HR_Torture,06. Torture,0.0,0.0,0.0
+1106,Andhra Pradesh,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1107,Arunachal Pradesh,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1108,Assam,2010,HR_Torture,06. Torture,3.0,,
+1109,Bihar,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1110,Chhattisgarh,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1111,Gujarat,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1112,Haryana,2010,HR_Torture,06. Torture,1.0,1.0,0.0
+1113,Himachal Pradesh,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1114,Jammu & Kashmir,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1115,Karnataka,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1116,Maharashtra,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1117,Manipur,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1118,Meghalaya,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1119,Nagaland,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1120,Odisha,2010,HR_Torture,06. Torture,0.0,0.0,0.0
+1121,Uttar Pradesh,2010,HR_Torture,06. Torture,1.0,,
+1122,West Bengal,2010,HR_Torture,06. Torture,1.0,0.0,0.0
+1123,Andhra Pradesh,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1124,Arunachal Pradesh,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1125,Assam,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1126,Bihar,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1127,Chandigarh,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1128,Chhattisgarh,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1129,Gujarat,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1130,Haryana,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1131,Himachal Pradesh,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1132,Jammu & Kashmir,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1133,Jharkhand,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1134,Karnataka,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1135,Maharashtra,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1136,Meghalaya,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1137,Nagaland,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1138,Odisha,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1139,Punjab,2001,HR_False implication,07. False Implication,1.0,,
+1140,West Bengal,2001,HR_False implication,07. False Implication,0.0,0.0,0.0
+1141,Andhra Pradesh,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1142,Assam,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1143,Bihar,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1144,Chandigarh,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1145,Chhattisgarh,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1146,Daman & Diu,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1147,Gujarat,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1148,Haryana,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1149,Himachal Pradesh,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1150,Jammu & Kashmir,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1151,Karnataka,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1152,Madhya Pradesh,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1153,Maharashtra,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1154,Meghalaya,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1155,Nagaland,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1156,Odisha,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1157,Punjab,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1158,West Bengal,2002,HR_False implication,07. False Implication,0.0,0.0,0.0
+1159,Andhra Pradesh,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1160,Arunachal Pradesh,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1161,Assam,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1162,Bihar,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1163,Chandigarh,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1164,Chhattisgarh,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1165,Daman & Diu,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1166,Gujarat,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1167,Haryana,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1168,Himachal Pradesh,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1169,Jammu & Kashmir,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1170,Karnataka,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1171,Maharashtra,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1172,Meghalaya,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1173,Nagaland,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1174,Odisha,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1175,Punjab,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1176,West Bengal,2003,HR_False implication,07. False Implication,0.0,0.0,0.0
+1177,Andhra Pradesh,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1178,Arunachal Pradesh,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1179,Bihar,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1180,Chhattisgarh,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1181,Gujarat,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1182,Himachal Pradesh,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1183,Karnataka,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1184,Madhya Pradesh,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1185,Maharashtra,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1186,Manipur,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1187,Meghalaya,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1188,Mizoram,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1189,Nagaland,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1190,Odisha,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1191,Punjab,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1192,Tamil Nadu,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1193,West Bengal,2004,HR_False implication,07. False Implication,0.0,0.0,0.0
+1194,Andhra Pradesh,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1195,Arunachal Pradesh,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1196,Assam,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1197,Chandigarh,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1198,Chhattisgarh,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1199,Gujarat,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1200,Haryana,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1201,Himachal Pradesh,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1202,Jammu & Kashmir,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1203,Jharkhand,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1204,Karnataka,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1205,Madhya Pradesh,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1206,Maharashtra,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1207,Manipur,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1208,Meghalaya,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1209,Mizoram,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1210,Nagaland,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1211,Odisha,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1212,Punjab,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1213,Uttar Pradesh,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1214,West Bengal,2005,HR_False implication,07. False Implication,0.0,0.0,0.0
+1215,Andhra Pradesh,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1216,Arunachal Pradesh,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1217,Assam,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1218,Chandigarh,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1219,Chhattisgarh,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1220,Gujarat,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1221,Himachal Pradesh,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1222,Jammu & Kashmir,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1223,Jharkhand,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1224,Karnataka,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1225,Madhya Pradesh,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1226,Manipur,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1227,Meghalaya,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1228,Mizoram,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1229,Nagaland,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1230,Odisha,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1231,Tamil Nadu,2006,HR_False implication,07. False Implication,0.0,,
+1232,Uttar Pradesh,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1233,West Bengal,2006,HR_False implication,07. False Implication,0.0,0.0,0.0
+1234,Andhra Pradesh,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1235,Arunachal Pradesh,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1236,Assam,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1237,Bihar,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1238,Chhattisgarh,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1239,Gujarat,2007,HR_False implication,07. False Implication,1.0,1.0,0.0
+1240,Haryana,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1241,Himachal Pradesh,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1242,Jammu & Kashmir,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1243,Karnataka,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1244,Kerala,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1245,Madhya Pradesh,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1246,Maharashtra,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1247,Manipur,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1248,Meghalaya,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1249,Mizoram,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1250,Nagaland,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1251,Odisha,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1252,Tamil Nadu,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1253,Tripura,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1254,Uttar Pradesh,2007,HR_False implication,07. False Implication,1.0,,
+1255,West Bengal,2007,HR_False implication,07. False Implication,0.0,0.0,0.0
+1256,Andhra Pradesh,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1257,Arunachal Pradesh,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1258,Assam,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1259,Bihar,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1260,Chhattisgarh,2008,HR_False implication,07. False Implication,25.0,0.0,0.0
+1261,Gujarat,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1262,Haryana,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1263,Himachal Pradesh,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1264,Jammu & Kashmir,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1265,Karnataka,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1266,Maharashtra,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1267,Manipur,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1268,Meghalaya,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1269,Mizoram,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1270,Nagaland,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1271,Odisha,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1272,West Bengal,2008,HR_False implication,07. False Implication,0.0,0.0,0.0
+1273,Andhra Pradesh,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1274,Arunachal Pradesh,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1275,Assam,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1276,Bihar,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1277,Chandigarh,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1278,Chhattisgarh,2009,HR_False implication,07. False Implication,1.0,1.0,1.0
+1279,Gujarat,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1280,Haryana,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1281,Himachal Pradesh,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1282,Jammu & Kashmir,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1283,Karnataka,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1284,Maharashtra,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1285,Manipur,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1286,Meghalaya,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1287,Nagaland,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1288,Odisha,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1289,Tamil Nadu,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1290,West Bengal,2009,HR_False implication,07. False Implication,0.0,0.0,0.0
+1291,Andhra Pradesh,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1292,Arunachal Pradesh,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1293,Bihar,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1294,Chhattisgarh,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1295,Gujarat,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1296,Himachal Pradesh,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1297,Jammu & Kashmir,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1298,Karnataka,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1299,Maharashtra,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1300,Manipur,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1301,Meghalaya,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1302,Nagaland,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1303,Odisha,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1304,West Bengal,2010,HR_False implication,07. False Implication,0.0,0.0,0.0
+1305,Andhra Pradesh,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1306,Arunachal Pradesh,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1307,Assam,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1308,Bihar,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1309,Chandigarh,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1310,Chhattisgarh,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1311,Gujarat,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1312,Haryana,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1313,Himachal Pradesh,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1314,Jammu & Kashmir,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1315,Jharkhand,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1316,Karnataka,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1317,Maharashtra,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1318,Meghalaya,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1319,Nagaland,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1320,Odisha,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1321,West Bengal,2001,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1322,Andhra Pradesh,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1323,Assam,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1324,Bihar,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1325,Chandigarh,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1326,Chhattisgarh,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1327,Daman & Diu,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1328,Gujarat,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1329,Haryana,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1330,Himachal Pradesh,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1331,Jammu & Kashmir,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1332,Karnataka,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1333,Madhya Pradesh,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1334,Maharashtra,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1335,Meghalaya,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1336,Nagaland,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1337,Odisha,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1338,Punjab,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1339,Tamil Nadu,2002,HR_Failure in taking action,08. Failure in Taking Action,2.0,2.0,
+1340,West Bengal,2002,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1341,Andhra Pradesh,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1342,Arunachal Pradesh,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1343,Assam,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1344,Bihar,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1345,Chandigarh,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1346,Chhattisgarh,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1347,Daman & Diu,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1348,Gujarat,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1349,Haryana,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1350,Himachal Pradesh,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1351,Jammu & Kashmir,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1352,Karnataka,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1353,Maharashtra,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1354,Meghalaya,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1355,Nagaland,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1356,Odisha,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1357,Punjab,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1358,West Bengal,2003,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1359,Andhra Pradesh,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1360,Arunachal Pradesh,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1361,Bihar,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1362,Chhattisgarh,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1363,Gujarat,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1364,Himachal Pradesh,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1365,Karnataka,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1366,Madhya Pradesh,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1367,Maharashtra,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1368,Manipur,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1369,Meghalaya,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1370,Mizoram,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1371,Nagaland,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1372,Odisha,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1373,Punjab,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1374,Tamil Nadu,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1375,West Bengal,2004,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1376,Andhra Pradesh,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1377,Arunachal Pradesh,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1378,Assam,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1379,Chandigarh,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1380,Chhattisgarh,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1381,Gujarat,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1382,Haryana,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1383,Himachal Pradesh,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1384,Jammu & Kashmir,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1385,Jharkhand,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1386,Karnataka,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1387,Madhya Pradesh,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1388,Maharashtra,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1389,Manipur,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1390,Meghalaya,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1391,Mizoram,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1392,Nagaland,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1393,Odisha,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1394,Punjab,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1395,Uttar Pradesh,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1396,West Bengal,2005,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1397,Andhra Pradesh,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1398,Arunachal Pradesh,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1399,Assam,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1400,Chandigarh,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1401,Chhattisgarh,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1402,Gujarat,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1403,Himachal Pradesh,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1404,Jammu & Kashmir,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1405,Jharkhand,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1406,Karnataka,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1407,Madhya Pradesh,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1408,Manipur,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1409,Meghalaya,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1410,Mizoram,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1411,Nagaland,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1412,Odisha,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1413,Tamil Nadu,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,,
+1414,Uttar Pradesh,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1415,West Bengal,2006,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1416,Andhra Pradesh,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1417,Arunachal Pradesh,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1418,Assam,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1419,Bihar,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1420,Chhattisgarh,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1421,Gujarat,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1422,Haryana,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1423,Himachal Pradesh,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1424,Jammu & Kashmir,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1425,Karnataka,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1426,Kerala,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1427,Madhya Pradesh,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1428,Maharashtra,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1429,Manipur,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1430,Meghalaya,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1431,Mizoram,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1432,Nagaland,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1433,Odisha,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1434,Tamil Nadu,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1435,Tripura,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1436,West Bengal,2007,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1437,Andhra Pradesh,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1438,Arunachal Pradesh,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1439,Assam,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1440,Bihar,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1441,Chhattisgarh,2008,HR_Failure in taking action,08. Failure in Taking Action,33.0,0.0,3.0
+1442,Gujarat,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1443,Haryana,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1444,Himachal Pradesh,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1445,Jammu & Kashmir,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1446,Karnataka,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1447,Maharashtra,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1448,Manipur,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1449,Meghalaya,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1450,Mizoram,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1451,Nagaland,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1452,Odisha,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1453,West Bengal,2008,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1454,Andhra Pradesh,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1455,Arunachal Pradesh,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1456,Assam,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1457,Bihar,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1458,Chandigarh,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1459,Chhattisgarh,2009,HR_Failure in taking action,08. Failure in Taking Action,5.0,5.0,4.0
+1460,Gujarat,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1461,Haryana,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1462,Himachal Pradesh,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1463,Jammu & Kashmir,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1464,Karnataka,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1465,Maharashtra,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1466,Manipur,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1467,Meghalaya,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1468,Nagaland,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1469,Odisha,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1470,Tamil Nadu,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1471,West Bengal,2009,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1472,Andhra Pradesh,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1473,Arunachal Pradesh,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1474,Bihar,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1475,Chhattisgarh,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1476,Gujarat,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1477,Himachal Pradesh,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1478,Jammu & Kashmir,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1479,Karnataka,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1480,Maharashtra,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1481,Manipur,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1482,Meghalaya,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1483,Nagaland,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1484,Odisha,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1485,West Bengal,2010,HR_Failure in taking action,08. Failure in Taking Action,0.0,0.0,0.0
+1486,Andhra Pradesh,2001,HR_Indignity to Women,09. Indignity to Women,2.0,2.0,0.0
+1487,Arunachal Pradesh,2001,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1488,Assam,2001,HR_Indignity to Women,09. Indignity to Women,1.0,0.0,0.0
+1489,Bihar,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1490,Chandigarh,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1491,Chhattisgarh,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1492,Delhi,2001,HR_Indignity to Women,09. Indignity to Women,3.0,3.0,
+1493,Gujarat,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1494,Haryana,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1495,Himachal Pradesh,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1496,Jammu & Kashmir,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1497,Jharkhand,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1498,Karnataka,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1499,Maharashtra,2001,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1500,Meghalaya,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1501,Nagaland,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1502,Odisha,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1503,Uttar Pradesh,2001,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,
+1504,West Bengal,2001,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1505,Andhra Pradesh,2002,HR_Indignity to Women,09. Indignity to Women,9.0,4.0,0.0
+1506,Assam,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1507,Bihar,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1508,Chandigarh,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1509,Chhattisgarh,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1510,Daman & Diu,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1511,Gujarat,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1512,Haryana,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1513,Himachal Pradesh,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1514,Jammu & Kashmir,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1515,Karnataka,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1516,Madhya Pradesh,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1517,Maharashtra,2002,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1518,Meghalaya,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1519,Nagaland,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1520,Odisha,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1521,Punjab,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1522,West Bengal,2002,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1523,Andhra Pradesh,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1524,Arunachal Pradesh,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1525,Assam,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1526,Bihar,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1527,Chandigarh,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1528,Chhattisgarh,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1529,Daman & Diu,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1530,Gujarat,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1531,Haryana,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1532,Himachal Pradesh,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1533,Jammu & Kashmir,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1534,Karnataka,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1535,Madhya Pradesh,2003,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,1.0
+1536,Maharashtra,2003,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1537,Meghalaya,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1538,Nagaland,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1539,Odisha,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1540,Punjab,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1541,West Bengal,2003,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1542,Andhra Pradesh,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1543,Arunachal Pradesh,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1544,Bihar,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1545,Chhattisgarh,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1546,Gujarat,2004,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1547,Himachal Pradesh,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1548,Karnataka,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1549,Madhya Pradesh,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1550,Maharashtra,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1551,Manipur,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1552,Meghalaya,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1553,Mizoram,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1554,Nagaland,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1555,Odisha,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1556,Punjab,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1557,Tamil Nadu,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1558,West Bengal,2004,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1559,Andhra Pradesh,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1560,Arunachal Pradesh,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1561,Assam,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1562,Chandigarh,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1563,Chhattisgarh,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1564,Gujarat,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1565,Haryana,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1566,Himachal Pradesh,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1567,Jammu & Kashmir,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1568,Jharkhand,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1569,Karnataka,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1570,Madhya Pradesh,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1571,Maharashtra,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1572,Manipur,2005,HR_Indignity to Women,09. Indignity to Women,2.0,0.0,0.0
+1573,Meghalaya,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1574,Mizoram,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1575,Nagaland,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1576,Odisha,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1577,Punjab,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1578,Uttar Pradesh,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1579,West Bengal,2005,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1580,Andhra Pradesh,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1581,Arunachal Pradesh,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1582,Assam,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1583,Chandigarh,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1584,Chhattisgarh,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1585,Gujarat,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1586,Himachal Pradesh,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1587,Jammu & Kashmir,2006,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1588,Jharkhand,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1589,Karnataka,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1590,Madhya Pradesh,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1591,Maharashtra,2006,HR_Indignity to Women,09. Indignity to Women,2.0,2.0,
+1592,Manipur,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1593,Meghalaya,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1594,Mizoram,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1595,Nagaland,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1596,Odisha,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1597,Tamil Nadu,2006,HR_Indignity to Women,09. Indignity to Women,0.0,,
+1598,Uttar Pradesh,2006,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1599,West Bengal,2006,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1600,Andhra Pradesh,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1601,Arunachal Pradesh,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1602,Assam,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1603,Bihar,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1604,Chhattisgarh,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1605,Gujarat,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1606,Haryana,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1607,Himachal Pradesh,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1608,Jammu & Kashmir,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1609,Karnataka,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1610,Kerala,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1611,Madhya Pradesh,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1612,Maharashtra,2007,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1613,Manipur,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1614,Meghalaya,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1615,Mizoram,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1616,Nagaland,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1617,Odisha,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1618,Tamil Nadu,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1619,Tripura,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1620,West Bengal,2007,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1621,Andhra Pradesh,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1622,Arunachal Pradesh,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1623,Assam,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1624,Bihar,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1625,Chhattisgarh,2008,HR_Indignity to Women,09. Indignity to Women,3.0,0.0,0.0
+1626,Gujarat,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1627,Haryana,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1628,Himachal Pradesh,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1629,Jammu & Kashmir,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1630,Karnataka,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1631,Kerala,2008,HR_Indignity to Women,09. Indignity to Women,2.0,,
+1632,Maharashtra,2008,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1633,Manipur,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1634,Meghalaya,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1635,Mizoram,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1636,Nagaland,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1637,Odisha,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1638,West Bengal,2008,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1639,Andhra Pradesh,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1640,Arunachal Pradesh,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1641,Assam,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1642,Bihar,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1643,Chandigarh,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1644,Chhattisgarh,2009,HR_Indignity to Women,09. Indignity to Women,1.0,1.0,0.0
+1645,Gujarat,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1646,Haryana,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1647,Himachal Pradesh,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1648,Jammu & Kashmir,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1649,Karnataka,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1650,Maharashtra,2009,HR_Indignity to Women,09. Indignity to Women,2.0,2.0,0.0
+1651,Manipur,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1652,Meghalaya,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1653,Nagaland,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1654,Odisha,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1655,Tamil Nadu,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1656,West Bengal,2009,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1657,Andhra Pradesh,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1658,Arunachal Pradesh,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1659,Bihar,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1660,Chhattisgarh,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1661,Gujarat,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1662,Himachal Pradesh,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1663,Jammu & Kashmir,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1664,Karnataka,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1665,Maharashtra,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1666,Manipur,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1667,Meghalaya,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1668,Nagaland,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1669,Odisha,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1670,West Bengal,2010,HR_Indignity to Women,09. Indignity to Women,0.0,0.0,0.0
+1671,Andhra Pradesh,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,22.0,14.0,2.0
+1672,Arunachal Pradesh,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1673,Assam,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1674,Bihar,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1675,Chandigarh,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1676,Chhattisgarh,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1677,Gujarat,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1678,Haryana,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,0.0,0.0
+1679,Himachal Pradesh,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1680,Jammu & Kashmir,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1681,Jharkhand,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,1.0,0.0
+1682,Karnataka,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,13.0,1.0,0.0
+1683,Maharashtra,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1684,Meghalaya,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1685,Nagaland,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1686,Odisha,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1687,Rajasthan,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,3.0,3.0,
+1688,Uttar Pradesh,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,1.0,
+1689,Uttarakhand,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,,
+1690,West Bengal,2001,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1691,Andhra Pradesh,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,5.0,6.0,0.0
+1692,Assam,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1693,Bihar,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1694,Chandigarh,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1695,Chhattisgarh,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1696,Daman & Diu,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1697,Gujarat,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1698,Haryana,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1699,Himachal Pradesh,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1700,Jammu & Kashmir,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1701,Karnataka,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1702,Madhya Pradesh,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1703,Maharashtra,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,1.0,0.0
+1704,Meghalaya,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1705,Nagaland,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1706,Odisha,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,7.0,2.0,0.0
+1707,Punjab,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1708,Rajasthan,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,,
+1709,Tamil Nadu,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,1.0,
+1710,West Bengal,2002,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1711,Andhra Pradesh,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,19.0,8.0,0.0
+1712,Arunachal Pradesh,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1713,Assam,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1714,Bihar,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1715,Chandigarh,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1716,Chhattisgarh,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1717,Daman & Diu,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1718,Gujarat,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1719,Haryana,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1720,Himachal Pradesh,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1721,Jammu & Kashmir,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1722,Karnataka,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,8.0,2.0,0.0
+1723,Madhya Pradesh,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,1.0,1.0
+1724,Maharashtra,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1725,Meghalaya,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1726,Nagaland,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1727,Odisha,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,3.0,0.0,0.0
+1728,Punjab,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1729,West Bengal,2003,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1730,Andhra Pradesh,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,20.0,2.0,0.0
+1731,Arunachal Pradesh,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1732,Bihar,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1733,Chhattisgarh,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1734,Gujarat,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,2.0,0.0
+1735,Himachal Pradesh,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1736,Karnataka,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1737,Madhya Pradesh,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1738,Maharashtra,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,1.0,0.0
+1739,Manipur,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1740,Meghalaya,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1741,Mizoram,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1742,Nagaland,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1743,Odisha,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,3.0,2.0,0.0
+1744,Punjab,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1745,Tamil Nadu,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1746,West Bengal,2004,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1747,Andhra Pradesh,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1748,Arunachal Pradesh,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1749,Assam,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1750,Chandigarh,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1751,Chhattisgarh,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1752,Gujarat,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1753,Haryana,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1754,Himachal Pradesh,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1755,Jammu & Kashmir,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1756,Jharkhand,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,0.0,0.0
+1757,Karnataka,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1758,Madhya Pradesh,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1759,Maharashtra,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1760,Manipur,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1761,Meghalaya,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1762,Mizoram,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1763,Nagaland,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1764,Odisha,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,0.0,0.0
+1765,Punjab,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1766,Tamil Nadu,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,1.0,
+1767,Uttar Pradesh,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1768,West Bengal,2005,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1769,Andhra Pradesh,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1770,Arunachal Pradesh,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1771,Assam,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1772,Chandigarh,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1773,Chhattisgarh,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1774,Gujarat,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1775,Himachal Pradesh,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1776,Jammu & Kashmir,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1777,Jharkhand,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,0.0,0.0
+1778,Karnataka,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1779,Madhya Pradesh,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1780,Maharashtra,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,3.0,1.0,
+1781,Manipur,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1782,Meghalaya,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1783,Mizoram,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1784,Nagaland,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1785,Odisha,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1786,Tamil Nadu,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,,
+1787,Uttar Pradesh,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1788,West Bengal,2006,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1789,Andhra Pradesh,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1790,Arunachal Pradesh,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1791,Assam,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1792,Bihar,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1793,Chhattisgarh,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1794,Gujarat,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,10.0,10.0,0.0
+1795,Haryana,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1796,Himachal Pradesh,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1797,Jammu & Kashmir,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1798,Karnataka,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1799,Kerala,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1800,Madhya Pradesh,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1801,Maharashtra,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,0.0,0.0
+1802,Manipur,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1803,Meghalaya,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1804,Mizoram,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1805,Nagaland,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1806,Odisha,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1807,Tamil Nadu,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1808,Tripura,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1809,West Bengal,2007,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1810,Andhra Pradesh,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1811,Arunachal Pradesh,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1812,Assam,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1813,Bihar,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1814,Chhattisgarh,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,0.0,0.0
+1815,Gujarat,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1816,Haryana,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1817,Himachal Pradesh,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1818,Jammu & Kashmir,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1819,Karnataka,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1820,Maharashtra,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1821,Manipur,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1822,Meghalaya,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1823,Mizoram,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1824,Nagaland,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1825,Odisha,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1826,West Bengal,2008,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1827,Andhra Pradesh,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1828,Arunachal Pradesh,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1829,Assam,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1830,Bihar,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1831,Chandigarh,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1832,Chhattisgarh,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1833,Gujarat,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1834,Haryana,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1835,Himachal Pradesh,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1836,Jammu & Kashmir,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1837,Karnataka,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1838,Maharashtra,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1839,Manipur,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1840,Meghalaya,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1841,Nagaland,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1842,Odisha,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,6.0,0.0,0.0
+1843,Tamil Nadu,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1844,West Bengal,2009,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1845,Andhra Pradesh,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1846,Arunachal Pradesh,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1847,Bihar,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1848,Chhattisgarh,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1849,Gujarat,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1850,Himachal Pradesh,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1851,Jammu & Kashmir,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1852,Karnataka,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1853,Maharashtra,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,1.0,0.0,0.0
+1854,Manipur,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1855,Meghalaya,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1856,Nagaland,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1857,Odisha,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,5.0,1.0,0.0
+1858,West Bengal,2010,HR_Atrocities on SC/ST,10. Atrocities on SC/ST,0.0,0.0,0.0
+1859,Andhra Pradesh,2001,HR_Others Violations by Police,11. Others,18.0,12.0,0.0
+1860,Arunachal Pradesh,2001,HR_Others Violations by Police,11. Others,10.0,5.0,0.0
+1861,Assam,2001,HR_Others Violations by Police,11. Others,29.0,0.0,0.0
+1862,Bihar,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1863,Chandigarh,2001,HR_Others Violations by Police,11. Others,1.0,0.0,0.0
+1864,Chhattisgarh,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1865,Gujarat,2001,HR_Others Violations by Police,11. Others,12.0,8.0,0.0
+1866,Haryana,2001,HR_Others Violations by Police,11. Others,1.0,1.0,0.0
+1867,Himachal Pradesh,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1868,Jammu & Kashmir,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1869,Jharkhand,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1870,Karnataka,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1871,Madhya Pradesh,2001,HR_Others Violations by Police,11. Others,1.0,1.0,
+1872,Maharashtra,2001,HR_Others Violations by Police,11. Others,7.0,6.0,0.0
+1873,Meghalaya,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1874,Nagaland,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1875,Odisha,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1876,Punjab,2001,HR_Others Violations by Police,11. Others,8.0,5.0,0.0
+1877,Uttar Pradesh,2001,HR_Others Violations by Police,11. Others,7.0,17.0,
+1878,West Bengal,2001,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1879,Andhra Pradesh,2002,HR_Others Violations by Police,11. Others,9.0,4.0,0.0
+1880,Assam,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1881,Bihar,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1882,Chandigarh,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1883,Chhattisgarh,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1884,Daman & Diu,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1885,Gujarat,2002,HR_Others Violations by Police,11. Others,14.0,12.0,0.0
+1886,Haryana,2002,HR_Others Violations by Police,11. Others,1.0,1.0,0.0
+1887,Himachal Pradesh,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1888,Jammu & Kashmir,2002,HR_Others Violations by Police,11. Others,4.0,2.0,0.0
+1889,Karnataka,2002,HR_Others Violations by Police,11. Others,1.0,0.0,0.0
+1890,Madhya Pradesh,2002,HR_Others Violations by Police,11. Others,1.0,0.0,0.0
+1891,Maharashtra,2002,HR_Others Violations by Police,11. Others,6.0,3.0,0.0
+1892,Meghalaya,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1893,Nagaland,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1894,Odisha,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1895,Punjab,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1896,Rajasthan,2002,HR_Others Violations by Police,11. Others,2.0,,
+1897,Uttar Pradesh,2002,HR_Others Violations by Police,11. Others,3.0,4.0,
+1898,West Bengal,2002,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1899,Andhra Pradesh,2003,HR_Others Violations by Police,11. Others,3.0,2.0,0.0
+1900,Arunachal Pradesh,2003,HR_Others Violations by Police,11. Others,4.0,0.0,0.0
+1901,Assam,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1902,Bihar,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1903,Chandigarh,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1904,Chhattisgarh,2003,HR_Others Violations by Police,11. Others,7.0,0.0,7.0
+1905,Daman & Diu,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1906,Gujarat,2003,HR_Others Violations by Police,11. Others,15.0,5.0,0.0
+1907,Haryana,2003,HR_Others Violations by Police,11. Others,2.0,0.0,0.0
+1908,Himachal Pradesh,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1909,Jammu & Kashmir,2003,HR_Others Violations by Police,11. Others,1.0,0.0,0.0
+1910,Karnataka,2003,HR_Others Violations by Police,11. Others,4.0,0.0,0.0
+1911,Maharashtra,2003,HR_Others Violations by Police,11. Others,1.0,1.0,0.0
+1912,Meghalaya,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1913,Nagaland,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1914,Odisha,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1915,Puducherry,2003,HR_Others Violations by Police,11. Others,1.0,,
+1916,Punjab,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1917,Rajasthan,2003,HR_Others Violations by Police,11. Others,1.0,,
+1918,West Bengal,2003,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1919,Andhra Pradesh,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1920,Arunachal Pradesh,2004,HR_Others Violations by Police,11. Others,2.0,0.0,0.0
+1921,Bihar,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1922,Chhattisgarh,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1923,Gujarat,2004,HR_Others Violations by Police,11. Others,6.0,3.0,0.0
+1924,Himachal Pradesh,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1925,Jammu & Kashmir,2004,HR_Others Violations by Police,11. Others,1.0,,
+1926,Karnataka,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1927,Madhya Pradesh,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1928,Maharashtra,2004,HR_Others Violations by Police,11. Others,1.0,6.0,0.0
+1929,Manipur,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1930,Meghalaya,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1931,Mizoram,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1932,Nagaland,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1933,Odisha,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1934,Punjab,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1935,Tamil Nadu,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1936,West Bengal,2004,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1937,Andhra Pradesh,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1938,Arunachal Pradesh,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1939,Assam,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1940,Chandigarh,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1941,Chhattisgarh,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1942,Gujarat,2005,HR_Others Violations by Police,11. Others,11.0,10.0,0.0
+1943,Haryana,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1944,Himachal Pradesh,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1945,Jammu & Kashmir,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1946,Jharkhand,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1947,Karnataka,2005,HR_Others Violations by Police,11. Others,1.0,2.0,0.0
+1948,Madhya Pradesh,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1949,Maharashtra,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1950,Manipur,2005,HR_Others Violations by Police,11. Others,1.0,0.0,0.0
+1951,Meghalaya,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1952,Mizoram,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1953,Nagaland,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1954,Odisha,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1955,Punjab,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1956,Tamil Nadu,2005,HR_Others Violations by Police,11. Others,2.0,1.0,
+1957,Uttar Pradesh,2005,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1958,West Bengal,2005,HR_Others Violations by Police,11. Others,4.0,3.0,0.0
+1959,Andhra Pradesh,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1960,Arunachal Pradesh,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1961,Assam,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1962,Chandigarh,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1963,Chhattisgarh,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1964,Goa,2006,HR_Others Violations by Police,11. Others,1.0,1.0,
+1965,Gujarat,2006,HR_Others Violations by Police,11. Others,14.0,12.0,0.0
+1966,Himachal Pradesh,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1967,Jammu & Kashmir,2006,HR_Others Violations by Police,11. Others,2.0,2.0,0.0
+1968,Jharkhand,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1969,Karnataka,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1970,Kerala,2006,HR_Others Violations by Police,11. Others,1.0,,
+1971,Madhya Pradesh,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1972,Manipur,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1973,Meghalaya,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1974,Mizoram,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1975,Nagaland,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1976,Odisha,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1977,Tamil Nadu,2006,HR_Others Violations by Police,11. Others,0.0,,
+1978,Uttar Pradesh,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1979,West Bengal,2006,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1980,Andhra Pradesh,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1981,Arunachal Pradesh,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1982,Assam,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1983,Bihar,2007,HR_Others Violations by Police,11. Others,1.0,0.0,0.0
+1984,Chhattisgarh,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1985,Gujarat,2007,HR_Others Violations by Police,11. Others,10.0,9.0,0.0
+1986,Haryana,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1987,Himachal Pradesh,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1988,Jammu & Kashmir,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1989,Karnataka,2007,HR_Others Violations by Police,11. Others,2.0,0.0,0.0
+1990,Kerala,2007,HR_Others Violations by Police,11. Others,1.0,0.0,0.0
+1991,Madhya Pradesh,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1992,Maharashtra,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1993,Manipur,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1994,Meghalaya,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1995,Mizoram,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1996,Nagaland,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1997,Odisha,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1998,Tamil Nadu,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+1999,Tripura,2007,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2000,Uttar Pradesh,2007,HR_Others Violations by Police,11. Others,4.0,,
+2001,West Bengal,2007,HR_Others Violations by Police,11. Others,2.0,0.0,0.0
+2002,Andhra Pradesh,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2003,Arunachal Pradesh,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2004,Assam,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2005,Bihar,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2006,Chhattisgarh,2008,HR_Others Violations by Police,11. Others,65.0,1.0,4.0
+2007,Gujarat,2008,HR_Others Violations by Police,11. Others,6.0,6.0,0.0
+2008,Haryana,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2009,Himachal Pradesh,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2010,Jammu & Kashmir,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2011,Karnataka,2008,HR_Others Violations by Police,11. Others,1.0,0.0,0.0
+2012,Maharashtra,2008,HR_Others Violations by Police,11. Others,2.0,2.0,0.0
+2013,Manipur,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2014,Meghalaya,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2015,Mizoram,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2016,Nagaland,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2017,Odisha,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2018,West Bengal,2008,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2019,Andhra Pradesh,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2020,Arunachal Pradesh,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2021,Assam,2009,HR_Others Violations by Police,11. Others,96.0,0.0,0.0
+2022,Bihar,2009,HR_Others Violations by Police,11. Others,9.0,5.0,4.0
+2023,Chandigarh,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2024,Chhattisgarh,2009,HR_Others Violations by Police,11. Others,51.0,51.0,43.0
+2025,Gujarat,2009,HR_Others Violations by Police,11. Others,2.0,0.0,0.0
+2026,Haryana,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2027,Himachal Pradesh,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2028,Jammu & Kashmir,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2029,Karnataka,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2030,Maharashtra,2009,HR_Others Violations by Police,11. Others,4.0,4.0,0.0
+2031,Manipur,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2032,Meghalaya,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2033,Nagaland,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2034,Odisha,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2035,Tamil Nadu,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2036,West Bengal,2009,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2037,Andhra Pradesh,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2038,Arunachal Pradesh,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2039,Bihar,2010,HR_Others Violations by Police,11. Others,9.0,5.0,4.0
+2040,Chhattisgarh,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2041,Goa,2010,HR_Others Violations by Police,11. Others,1.0,,
+2042,Gujarat,2010,HR_Others Violations by Police,11. Others,7.0,2.0,0.0
+2043,Himachal Pradesh,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2044,Jammu & Kashmir,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2045,Karnataka,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2046,Maharashtra,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2047,Manipur,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2048,Meghalaya,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2049,Nagaland,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2050,Odisha,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2051,Uttar Pradesh,2010,HR_Others Violations by Police,11. Others,2.0,0.0,0.0
+2052,West Bengal,2010,HR_Others Violations by Police,11. Others,0.0,0.0,0.0
+2053,Andhra Pradesh,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),45.0,29.0,2.0
+2054,Arunachal Pradesh,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),11.0,6.0,0.0
+2055,Assam,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),35.0,0.0,0.0
+2056,Bihar,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2057,Chandigarh,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2058,Chhattisgarh,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2059,Delhi,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),6.0,4.0,
+2060,Gujarat,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),12.0,8.0,0.0
+2061,Haryana,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),6.0,5.0,0.0
+2062,Himachal Pradesh,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2063,Jammu & Kashmir,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2064,Jharkhand,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,1.0,0.0
+2065,Karnataka,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),15.0,5.0,0.0
+2066,Madhya Pradesh,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),4.0,4.0,
+2067,Maharashtra,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),13.0,8.0,0.0
+2068,Meghalaya,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2069,Nagaland,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2070,Odisha,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,4.0,0.0
+2071,Punjab,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),11.0,5.0,
+2072,Rajasthan,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),4.0,3.0,
+2073,Uttar Pradesh,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),15.0,53.0,
+2074,Uttarakhand,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,,
+2075,West Bengal,2001,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2076,Andhra Pradesh,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),26.0,14.0,0.0
+2077,Assam,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,2.0,0.0
+2078,Bihar,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2079,Chandigarh,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2080,Chhattisgarh,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),5.0,3.0,0.0
+2081,Daman & Diu,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2082,Gujarat,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),14.0,12.0,0.0
+2083,Haryana,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,1.0,0.0
+2084,Himachal Pradesh,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2085,Jammu & Kashmir,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),5.0,2.0,0.0
+2086,Karnataka,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),5.0,0.0,0.0
+2087,Madhya Pradesh,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2088,Maharashtra,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),10.0,9.0,0.0
+2089,Meghalaya,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2090,Nagaland,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2091,Odisha,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),7.0,2.0,0.0
+2092,Punjab,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2093,Rajasthan,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,1.0,
+2094,Tamil Nadu,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),6.0,6.0,
+2095,Uttar Pradesh,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),9.0,7.0,
+2096,West Bengal,2002,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2097,Andhra Pradesh,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),22.0,10.0,0.0
+2098,Arunachal Pradesh,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),7.0,0.0,0.0
+2099,Assam,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2100,Bihar,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,0.0,0.0
+2101,Chandigarh,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2102,Chhattisgarh,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),7.0,0.0,7.0
+2103,Daman & Diu,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2104,Gujarat,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),16.0,6.0,0.0
+2105,Haryana,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,0.0,0.0
+2106,Himachal Pradesh,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2107,Jammu & Kashmir,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2108,Karnataka,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),12.0,2.0,0.0
+2109,Madhya Pradesh,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,3.0,3.0
+2110,Maharashtra,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,2.0,0.0
+2111,Meghalaya,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2112,Nagaland,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2113,Odisha,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),4.0,0.0,0.0
+2114,Puducherry,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,,
+2115,Punjab,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2116,Rajasthan,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,,
+2117,Tamil Nadu,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,,
+2118,Uttar Pradesh,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,,
+2119,West Bengal,2003,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2120,Andhra Pradesh,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),20.0,2.0,0.0
+2121,Arunachal Pradesh,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,0.0,0.0
+2122,Bihar,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,3.0,0.0
+2123,Chhattisgarh,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2124,Gujarat,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),8.0,6.0,0.0
+2125,Himachal Pradesh,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2126,Jammu & Kashmir,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,1.0,
+2127,Karnataka,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2128,Madhya Pradesh,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2129,Maharashtra,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,7.0,0.0
+2130,Manipur,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2131,Meghalaya,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2132,Mizoram,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2133,Nagaland,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2134,Odisha,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),4.0,2.0,0.0
+2135,Punjab,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2136,Tamil Nadu,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,1.0,0.0
+2137,West Bengal,2004,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2138,Andhra Pradesh,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2139,Arunachal Pradesh,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2140,Assam,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2141,Chandigarh,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2142,Chhattisgarh,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2143,Gujarat,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),11.0,10.0,0.0
+2144,Haryana,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2145,Himachal Pradesh,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2146,Jammu & Kashmir,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2147,Jharkhand,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2148,Karnataka,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,2.0,0.0
+2149,Kerala,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,,
+2150,Madhya Pradesh,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2151,Maharashtra,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2152,Manipur,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,0.0,0.0
+2153,Meghalaya,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2154,Mizoram,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2155,Nagaland,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2156,Odisha,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,0.0,0.0
+2157,Punjab,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2158,Tamil Nadu,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,2.0,
+2159,Uttar Pradesh,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2160,West Bengal,2005,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),9.0,7.0,0.0
+2161,Andhra Pradesh,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2162,Arunachal Pradesh,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2163,Assam,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2164,Chandigarh,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2165,Chhattisgarh,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2166,Delhi,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,7.0,
+2167,Goa,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,1.0,
+2168,Gujarat,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),15.0,13.0,0.0
+2169,Himachal Pradesh,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2170,Jammu & Kashmir,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,3.0,0.0
+2171,Jharkhand,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2172,Karnataka,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2173,Kerala,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,,
+2174,Madhya Pradesh,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2175,Maharashtra,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),5.0,3.0,
+2176,Manipur,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2177,Meghalaya,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2178,Mizoram,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2179,Nagaland,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2180,Odisha,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2181,Tamil Nadu,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,,
+2182,Uttar Pradesh,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2183,West Bengal,2006,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,1.0,0.0
+2184,Andhra Pradesh,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2185,Arunachal Pradesh,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2186,Assam,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),5.0,0.0,0.0
+2187,Bihar,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,0.0,0.0
+2188,Chhattisgarh,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2189,Goa,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,,
+2190,Gujarat,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),21.0,20.0,0.0
+2191,Haryana,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2192,Himachal Pradesh,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2193,Jammu & Kashmir,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),6.0,7.0,0.0
+2194,Karnataka,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,0.0,0.0
+2195,Kerala,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2196,Madhya Pradesh,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2197,Maharashtra,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,1.0,0.0
+2198,Manipur,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2199,Meghalaya,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2200,Mizoram,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2201,Nagaland,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2202,Odisha,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2203,Tamil Nadu,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2204,Tripura,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2205,Uttar Pradesh,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),22.0,9.0,
+2206,West Bengal,2007,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,0.0,0.0
+2207,Andhra Pradesh,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2208,Arunachal Pradesh,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2209,Assam,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),5.0,0.0,0.0
+2210,Bihar,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2211,Chandigarh,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2212,Chhattisgarh,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),233.0,1.0,8.0
+2213,Delhi,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,1.0,
+2214,Gujarat,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),6.0,6.0,0.0
+2215,Haryana,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2216,Himachal Pradesh,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2217,Jammu & Kashmir,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2218,Karnataka,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,0.0,0.0
+2219,Kerala,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,,
+2220,Maharashtra,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),3.0,3.0,0.0
+2221,Manipur,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2222,Meghalaya,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2223,Mizoram,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2224,Nagaland,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2225,Odisha,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2226,Uttar Pradesh,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,3.0,0.0
+2227,West Bengal,2008,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2228,Andhra Pradesh,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2229,Arunachal Pradesh,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2230,Assam,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),96.0,0.0,0.0
+2231,Bihar,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),9.0,5.0,4.0
+2232,Chandigarh,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2233,Chhattisgarh,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),67.0,67.0,54.0
+2234,Delhi,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),4.0,4.0,
+2235,Gujarat,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),2.0,0.0,0.0
+2236,Haryana,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2237,Himachal Pradesh,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2238,Jammu & Kashmir,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2239,Karnataka,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2240,Kerala,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,1.0,
+2241,Maharashtra,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),6.0,6.0,0.0
+2242,Manipur,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2243,Meghalaya,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2244,Nagaland,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2245,Odisha,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),6.0,0.0,0.0
+2246,Tamil Nadu,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2247,West Bengal,2009,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2248,Andhra Pradesh,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2249,Arunachal Pradesh,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2250,Assam,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),5.0,,
+2251,Bihar,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),9.0,5.0,4.0
+2252,Chhattisgarh,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2253,Goa,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,,
+2254,Gujarat,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),8.0,2.0,0.0
+2255,Haryana,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,1.0,0.0
+2256,Himachal Pradesh,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2257,Jammu & Kashmir,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2258,Karnataka,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2259,Kerala,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,
+2260,Maharashtra,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0
+2261,Manipur,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2262,Meghalaya,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2263,Nagaland,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),0.0,0.0,0.0
+2264,Odisha,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),5.0,1.0,0.0
+2265,Uttar Pradesh,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),6.0,5.0,0.0
+2266,West Bengal,2010,HR_Total Violations by Police,12. Total (Sum of 1-11 Above),1.0,0.0,0.0

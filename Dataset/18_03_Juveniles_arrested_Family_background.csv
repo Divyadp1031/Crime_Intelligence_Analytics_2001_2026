@@ -1,0 +1,351 @@
+index,Area_Name,Year,Sub_Group_Name,Family_back_ground_Homeless,Family_back_ground_Living_with_guardian,Family_back_ground_Living_with_parents,Family_back_ground_Total
+0,Andaman & Nicobar Islands,2001,3. Family Background,0,0,16,16
+1,Andhra Pradesh,2001,3. Family Background,552,287,726,1565
+2,Arunachal Pradesh,2001,3. Family Background,0,58,79,137
+3,Assam,2001,3. Family Background,21,74,158,253
+4,Bihar,2001,3. Family Background,43,101,442,586
+5,Chandigarh,2001,3. Family Background,0,4,67,71
+6,Chhattisgarh,2001,3. Family Background,37,143,1182,1362
+7,Dadra & Nagar Haveli,2001,3. Family Background,0,0,2,2
+8,Daman & Diu,2001,3. Family Background,2,0,0,2
+9,Delhi,2001,3. Family Background,88,84,686,858
+10,Goa,2001,3. Family Background,1,6,86,93
+11,Gujarat,2001,3. Family Background,918,182,3270,4370
+12,Haryana,2001,3. Family Background,35,84,1896,2015
+13,Himachal Pradesh,2001,3. Family Background,0,5,137,142
+14,Jammu & Kashmir,2001,3. Family Background,0,0,2,2
+15,Jharkhand,2001,3. Family Background,80,58,160,298
+16,Karnataka,2001,3. Family Background,39,111,693,843
+17,Kerala,2001,3. Family Background,16,28,88,132
+18,Lakshadweep,2001,3. Family Background,0,0,1,1
+19,Madhya Pradesh,2001,3. Family Background,116,1527,5685,7328
+20,Maharashtra,2001,3. Family Background,168,503,4319,4990
+21,Manipur,2001,3. Family Background,0,0,0,0
+22,Meghalaya,2001,3. Family Background,2,25,39,66
+23,Mizoram,2001,3. Family Background,2,14,33,49
+24,Nagaland,2001,3. Family Background,2,3,21,26
+25,Odisha,2001,3. Family Background,7,41,164,212
+26,Puducherry,2001,3. Family Background,0,0,3,3
+27,Punjab,2001,3. Family Background,0,0,29,29
+28,Rajasthan,2001,3. Family Background,36,217,2992,3245
+29,Sikkim,2001,3. Family Background,0,5,12,17
+30,Tamil Nadu,2001,3. Family Background,334,473,3748,4555
+31,Tripura,2001,3. Family Background,14,2,4,20
+32,Uttar Pradesh,2001,3. Family Background,20,32,204,256
+33,Uttarakhand,2001,3. Family Background,0,0,57,57
+34,West Bengal,2001,3. Family Background,0,8,19,27
+35,Andaman & Nicobar Islands,2002,3. Family Background,0,0,6,6
+36,Andhra Pradesh,2002,3. Family Background,703,374,1007,2084
+37,Arunachal Pradesh,2002,3. Family Background,1,18,113,132
+38,Assam,2002,3. Family Background,34,103,195,332
+39,Bihar,2002,3. Family Background,46,116,498,660
+40,Chandigarh,2002,3. Family Background,0,0,75,75
+41,Chhattisgarh,2002,3. Family Background,83,207,1117,1407
+42,Dadra & Nagar Haveli,2002,3. Family Background,0,0,0,0
+43,Daman & Diu,2002,3. Family Background,0,0,0,0
+44,Delhi,2002,3. Family Background,132,136,924,1192
+45,Goa,2002,3. Family Background,3,5,60,68
+46,Gujarat,2002,3. Family Background,157,237,2941,3335
+47,Haryana,2002,3. Family Background,84,216,2211,2511
+48,Himachal Pradesh,2002,3. Family Background,0,44,77,121
+49,Jammu & Kashmir,2002,3. Family Background,0,0,3,3
+50,Jharkhand,2002,3. Family Background,157,174,415,746
+51,Karnataka,2002,3. Family Background,12,35,230,277
+52,Kerala,2002,3. Family Background,21,39,174,234
+53,Lakshadweep,2002,3. Family Background,0,0,0,0
+54,Madhya Pradesh,2002,3. Family Background,156,2330,6050,8536
+55,Maharashtra,2002,3. Family Background,162,587,4630,5379
+56,Manipur,2002,3. Family Background,0,0,0,0
+57,Meghalaya,2002,3. Family Background,0,30,38,68
+58,Mizoram,2002,3. Family Background,0,19,41,60
+59,Nagaland,2002,3. Family Background,0,5,9,14
+60,Odisha,2002,3. Family Background,4,30,158,192
+61,Puducherry,2002,3. Family Background,0,0,16,16
+62,Punjab,2002,3. Family Background,24,10,122,156
+63,Rajasthan,2002,3. Family Background,30,188,1719,1937
+64,Sikkim,2002,3. Family Background,0,1,1,2
+65,Tamil Nadu,2002,3. Family Background,376,777,4929,6082
+66,Tripura,2002,3. Family Background,2,1,4,7
+67,Uttar Pradesh,2002,3. Family Background,8,7,81,96
+68,Uttarakhand,2002,3. Family Background,0,1,33,34
+69,West Bengal,2002,3. Family Background,1,2,14,17
+70,Andaman & Nicobar Islands,2003,3. Family Background,0,0,9,9
+71,Andhra Pradesh,2003,3. Family Background,732,380,1561,2673
+72,Arunachal Pradesh,2003,3. Family Background,0,98,98,196
+73,Assam,2003,3. Family Background,18,143,217,378
+74,Bihar,2003,3. Family Background,32,68,192,292
+75,Chandigarh,2003,3. Family Background,3,0,113,116
+76,Chhattisgarh,2003,3. Family Background,128,112,1362,1602
+77,Dadra & Nagar Haveli,2003,3. Family Background,0,0,2,2
+78,Daman & Diu,2003,3. Family Background,0,0,2,2
+79,Delhi,2003,3. Family Background,64,60,678,802
+80,Goa,2003,3. Family Background,1,1,85,87
+81,Gujarat,2003,3. Family Background,163,251,2303,2717
+82,Haryana,2003,3. Family Background,97,189,1740,2026
+83,Himachal Pradesh,2003,3. Family Background,0,22,102,124
+84,Jammu & Kashmir,2003,3. Family Background,0,0,18,18
+85,Jharkhand,2003,3. Family Background,0,446,375,821
+86,Karnataka,2003,3. Family Background,79,82,197,358
+87,Kerala,2003,3. Family Background,21,92,651,764
+88,Lakshadweep,2003,3. Family Background,0,0,0,0
+89,Madhya Pradesh,2003,3. Family Background,219,947,6506,7672
+90,Maharashtra,2003,3. Family Background,116,834,4120,5070
+91,Manipur,2003,3. Family Background,0,0,0,0
+92,Meghalaya,2003,3. Family Background,2,11,22,35
+93,Mizoram,2003,3. Family Background,0,4,78,82
+94,Nagaland,2003,3. Family Background,0,0,1,1
+95,Odisha,2003,3. Family Background,13,65,235,313
+96,Puducherry,2003,3. Family Background,4,3,33,40
+97,Punjab,2003,3. Family Background,0,1,131,132
+98,Rajasthan,2003,3. Family Background,91,100,1671,1862
+99,Sikkim,2003,3. Family Background,0,0,17,17
+100,Tamil Nadu,2003,3. Family Background,350,783,3762,4895
+101,Tripura,2003,3. Family Background,0,0,0,0
+102,Uttar Pradesh,2003,3. Family Background,2,5,54,61
+103,Uttarakhand,2003,3. Family Background,0,0,30,30
+104,West Bengal,2003,3. Family Background,21,32,70,123
+105,Andaman & Nicobar Islands,2004,3. Family Background,0,5,8,13
+106,Andhra Pradesh,2004,3. Family Background,902,361,933,2196
+107,Arunachal Pradesh,2004,3. Family Background,0,23,68,91
+108,Assam,2004,3. Family Background,25,48,258,331
+109,Bihar,2004,3. Family Background,21,29,186,236
+110,Chandigarh,2004,3. Family Background,16,31,62,109
+111,Chhattisgarh,2004,3. Family Background,27,267,1708,2002
+112,Dadra & Nagar Haveli,2004,3. Family Background,0,0,4,4
+113,Daman & Diu,2004,3. Family Background,0,0,0,0
+114,Delhi,2004,3. Family Background,63,409,437,909
+115,Goa,2004,3. Family Background,3,2,69,74
+116,Gujarat,2004,3. Family Background,157,270,2262,2689
+117,Haryana,2004,3. Family Background,17,82,1578,1677
+118,Himachal Pradesh,2004,3. Family Background,0,2,115,117
+119,Jammu & Kashmir,2004,3. Family Background,1,0,10,11
+120,Jharkhand,2004,3. Family Background,0,442,380,822
+121,Karnataka,2004,3. Family Background,16,94,330,440
+122,Kerala,2004,3. Family Background,19,71,292,382
+123,Lakshadweep,2004,3. Family Background,0,0,0,0
+124,Madhya Pradesh,2004,3. Family Background,402,970,6061,7433
+125,Maharashtra,2004,3. Family Background,134,665,4697,5496
+126,Manipur,2004,3. Family Background,0,0,0,0
+127,Meghalaya,2004,3. Family Background,0,9,46,55
+128,Mizoram,2004,3. Family Background,115,201,502,818
+129,Nagaland,2004,3. Family Background,0,0,3,3
+130,Odisha,2004,3. Family Background,19,37,303,359
+131,Puducherry,2004,3. Family Background,43,0,12,55
+132,Punjab,2004,3. Family Background,0,2,94,96
+133,Rajasthan,2004,3. Family Background,12,166,1697,1875
+134,Sikkim,2004,3. Family Background,0,0,13,13
+135,Tamil Nadu,2004,3. Family Background,288,662,1423,2373
+136,Tripura,2004,3. Family Background,0,0,0,0
+137,Uttar Pradesh,2004,3. Family Background,13,47,75,135
+138,Uttarakhand,2004,3. Family Background,0,0,36,36
+139,West Bengal,2004,3. Family Background,27,27,39,93
+140,Andaman & Nicobar Islands,2005,3. Family Background,0,3,7,10
+141,Andhra Pradesh,2005,3. Family Background,980,402,1046,2428
+142,Arunachal Pradesh,2005,3. Family Background,0,78,69,147
+143,Assam,2005,3. Family Background,24,95,254,373
+144,Bihar,2005,3. Family Background,12,60,265,337
+145,Chandigarh,2005,3. Family Background,0,0,116,116
+146,Chhattisgarh,2005,3. Family Background,20,536,2581,3137
+147,Dadra & Nagar Haveli,2005,3. Family Background,0,0,19,19
+148,Daman & Diu,2005,3. Family Background,0,0,1,1
+149,Delhi,2005,3. Family Background,100,278,872,1250
+150,Goa,2005,3. Family Background,4,1,61,66
+151,Gujarat,2005,3. Family Background,241,244,2263,2748
+152,Haryana,2005,3. Family Background,45,65,1513,1623
+153,Himachal Pradesh,2005,3. Family Background,0,2,192,194
+154,Jammu & Kashmir,2005,3. Family Background,0,0,7,7
+155,Jharkhand,2005,3. Family Background,26,548,486,1060
+156,Karnataka,2005,3. Family Background,19,12,211,242
+157,Kerala,2005,3. Family Background,26,41,397,464
+158,Lakshadweep,2005,3. Family Background,0,0,1,1
+159,Madhya Pradesh,2005,3. Family Background,232,844,5302,6378
+160,Maharashtra,2005,3. Family Background,385,664,5254,6303
+161,Manipur,2005,3. Family Background,0,0,0,0
+162,Meghalaya,2005,3. Family Background,1,21,85,107
+163,Mizoram,2005,3. Family Background,0,56,357,413
+164,Nagaland,2005,3. Family Background,0,0,3,3
+165,Odisha,2005,3. Family Background,75,79,501,655
+166,Puducherry,2005,3. Family Background,0,0,42,42
+167,Punjab,2005,3. Family Background,1,0,134,135
+168,Rajasthan,2005,3. Family Background,33,256,1669,1958
+169,Sikkim,2005,3. Family Background,0,0,24,24
+170,Tamil Nadu,2005,3. Family Background,470,209,1469,2148
+171,Tripura,2005,3. Family Background,0,0,0,0
+172,Uttar Pradesh,2005,3. Family Background,3,15,97,115
+173,Uttarakhand,2005,3. Family Background,0,4,35,39
+174,West Bengal,2005,3. Family Background,22,51,65,138
+175,Andaman & Nicobar Islands,2006,3. Family Background,0,6,85,91
+176,Andhra Pradesh,2006,3. Family Background,438,284,1157,1879
+177,Arunachal Pradesh,2006,3. Family Background,0,33,47,80
+178,Assam,2006,3. Family Background,47,220,272,539
+179,Bihar,2006,3. Family Background,10,23,206,239
+180,Chandigarh,2006,3. Family Background,6,3,98,107
+181,Chhattisgarh,2006,3. Family Background,78,389,1586,2053
+182,Dadra & Nagar Haveli,2006,3. Family Background,0,0,9,9
+183,Daman & Diu,2006,3. Family Background,0,1,4,5
+184,Delhi,2006,3. Family Background,77,416,1020,1513
+185,Goa,2006,3. Family Background,1,1,66,68
+186,Gujarat,2006,3. Family Background,215,224,2368,2807
+187,Haryana,2006,3. Family Background,32,64,1616,1712
+188,Himachal Pradesh,2006,3. Family Background,0,6,122,128
+189,Jammu & Kashmir,2006,3. Family Background,0,0,8,8
+190,Jharkhand,2006,3. Family Background,211,221,430,862
+191,Karnataka,2006,3. Family Background,26,51,582,659
+192,Kerala,2006,3. Family Background,11,26,407,444
+193,Lakshadweep,2006,3. Family Background,0,0,0,0
+194,Madhya Pradesh,2006,3. Family Background,400,1663,4751,6814
+195,Maharashtra,2006,3. Family Background,302,849,5507,6658
+196,Manipur,2006,3. Family Background,0,0,0,0
+197,Meghalaya,2006,3. Family Background,13,19,26,58
+198,Mizoram,2006,3. Family Background,0,21,68,89
+199,Nagaland,2006,3. Family Background,0,1,2,3
+200,Odisha,2006,3. Family Background,0,78,549,627
+201,Puducherry,2006,3. Family Background,0,0,37,37
+202,Punjab,2006,3. Family Background,0,0,159,159
+203,Rajasthan,2006,3. Family Background,22,101,1963,2086
+204,Sikkim,2006,3. Family Background,0,0,35,35
+205,Tamil Nadu,2006,3. Family Background,294,208,1472,1974
+206,Tripura,2006,3. Family Background,0,0,0,0
+207,Uttar Pradesh,2006,3. Family Background,0,13,159,172
+208,Uttarakhand,2006,3. Family Background,0,4,102,106
+209,West Bengal,2006,3. Family Background,14,33,77,124
+210,Andaman & Nicobar Islands,2007,3. Family Background,0,6,69,75
+211,Andhra Pradesh,2007,3. Family Background,367,251,1335,1953
+212,Arunachal Pradesh,2007,3. Family Background,0,55,50,105
+213,Assam,2007,3. Family Background,270,371,514,1155
+214,Bihar,2007,3. Family Background,66,297,1106,1469
+215,Chandigarh,2007,3. Family Background,2,4,112,118
+216,Chhattisgarh,2007,3. Family Background,150,350,1527,2027
+217,Dadra & Nagar Haveli,2007,3. Family Background,0,0,11,11
+218,Daman & Diu,2007,3. Family Background,0,3,11,14
+219,Delhi,2007,3. Family Background,114,145,711,970
+220,Goa,2007,3. Family Background,5,8,64,77
+221,Gujarat,2007,3. Family Background,261,260,2357,2878
+222,Haryana,2007,3. Family Background,46,104,1690,1840
+223,Himachal Pradesh,2007,3. Family Background,0,0,145,145
+224,Jammu & Kashmir,2007,3. Family Background,0,0,15,15
+225,Jharkhand,2007,3. Family Background,71,132,306,509
+226,Karnataka,2007,3. Family Background,24,81,512,617
+227,Kerala,2007,3. Family Background,20,44,611,675
+228,Lakshadweep,2007,3. Family Background,0,0,0,0
+229,Madhya Pradesh,2007,3. Family Background,389,1364,5597,7350
+230,Maharashtra,2007,3. Family Background,174,870,5792,6836
+231,Manipur,2007,3. Family Background,0,0,0,0
+232,Meghalaya,2007,3. Family Background,1,35,70,106
+233,Mizoram,2007,3. Family Background,0,0,91,91
+234,Nagaland,2007,3. Family Background,0,0,0,0
+235,Odisha,2007,3. Family Background,66,157,435,658
+236,Puducherry,2007,3. Family Background,0,3,59,62
+237,Punjab,2007,3. Family Background,0,0,129,129
+238,Rajasthan,2007,3. Family Background,25,200,1899,2124
+239,Sikkim,2007,3. Family Background,0,0,94,94
+240,Tamil Nadu,2007,3. Family Background,289,247,1185,1721
+241,Tripura,2007,3. Family Background,0,2,0,2
+242,Uttar Pradesh,2007,3. Family Background,0,46,381,427
+243,Uttarakhand,2007,3. Family Background,0,29,100,129
+244,West Bengal,2007,3. Family Background,14,35,96,145
+245,Andaman & Nicobar Islands,2008,3. Family Background,0,5,50,55
+246,Andhra Pradesh,2008,3. Family Background,272,229,1121,1622
+247,Arunachal Pradesh,2008,3. Family Background,0,16,69,85
+248,Assam,2008,3. Family Background,37,240,367,644
+249,Bihar,2008,3. Family Background,85,190,969,1244
+250,Chandigarh,2008,3. Family Background,4,3,155,162
+251,Chhattisgarh,2008,3. Family Background,18,210,2818,3046
+252,Dadra & Nagar Haveli,2008,3. Family Background,0,0,22,22
+253,Daman & Diu,2008,3. Family Background,0,2,9,11
+254,Delhi,2008,3. Family Background,46,57,420,523
+255,Goa,2008,3. Family Background,2,2,63,67
+256,Gujarat,2008,3. Family Background,155,245,2299,2699
+257,Haryana,2008,3. Family Background,223,113,1463,1799
+258,Himachal Pradesh,2008,3. Family Background,0,8,155,163
+259,Jammu & Kashmir,2008,3. Family Background,0,0,12,12
+260,Jharkhand,2008,3. Family Background,30,125,394,549
+261,Karnataka,2008,3. Family Background,4,79,432,515
+262,Kerala,2008,3. Family Background,2,47,727,776
+263,Lakshadweep,2008,3. Family Background,0,0,0,0
+264,Madhya Pradesh,2008,3. Family Background,305,1233,5570,7108
+265,Maharashtra,2008,3. Family Background,373,994,5652,7019
+266,Manipur,2008,3. Family Background,0,0,0,0
+267,Meghalaya,2008,3. Family Background,13,37,89,139
+268,Mizoram,2008,3. Family Background,0,8,62,70
+269,Nagaland,2008,3. Family Background,0,0,0,0
+270,Odisha,2008,3. Family Background,17,83,673,773
+271,Puducherry,2008,3. Family Background,0,0,55,55
+272,Punjab,2008,3. Family Background,0,0,113,113
+273,Rajasthan,2008,3. Family Background,39,195,2118,2352
+274,Sikkim,2008,3. Family Background,0,2,35,37
+275,Tamil Nadu,2008,3. Family Background,163,219,1211,1593
+276,Tripura,2008,3. Family Background,15,14,14,43
+277,Uttar Pradesh,2008,3. Family Background,2,40,305,347
+278,Uttarakhand,2008,3. Family Background,0,0,157,157
+279,West Bengal,2008,3. Family Background,43,456,208,707
+280,Andaman & Nicobar Islands,2009,3. Family Background,0,3,35,38
+281,Andhra Pradesh,2009,3. Family Background,116,258,1191,1565
+282,Arunachal Pradesh,2009,3. Family Background,0,72,67,139
+283,Assam,2009,3. Family Background,87,187,289,563
+284,Bihar,2009,3. Family Background,121,223,722,1066
+285,Chandigarh,2009,3. Family Background,4,2,129,135
+286,Chhattisgarh,2009,3. Family Background,191,481,2440,3112
+287,Dadra & Nagar Haveli,2009,3. Family Background,0,0,26,26
+288,Daman & Diu,2009,3. Family Background,0,1,2,3
+289,Delhi,2009,3. Family Background,26,76,484,586
+290,Goa,2009,3. Family Background,1,6,69,76
+291,Gujarat,2009,3. Family Background,155,262,2049,2466
+292,Haryana,2009,3. Family Background,223,50,1101,1374
+293,Himachal Pradesh,2009,3. Family Background,0,0,170,170
+294,Jammu & Kashmir,2009,3. Family Background,0,0,11,11
+295,Jharkhand,2009,3. Family Background,124,201,463,788
+296,Karnataka,2009,3. Family Background,10,27,245,282
+297,Kerala,2009,3. Family Background,33,35,639,707
+298,Lakshadweep,2009,3. Family Background,0,0,0,0
+299,Madhya Pradesh,2009,3. Family Background,331,1238,4617,6186
+300,Maharashtra,2009,3. Family Background,438,864,5670,6972
+301,Manipur,2009,3. Family Background,0,0,0,0
+302,Meghalaya,2009,3. Family Background,7,13,68,88
+303,Mizoram,2009,3. Family Background,0,0,20,20
+304,Nagaland,2009,3. Family Background,12,6,2,20
+305,Odisha,2009,3. Family Background,15,48,420,483
+306,Puducherry,2009,3. Family Background,0,3,78,81
+307,Punjab,2009,3. Family Background,0,3,230,233
+308,Rajasthan,2009,3. Family Background,21,196,2239,2456
+309,Sikkim,2009,3. Family Background,7,10,43,60
+310,Tamil Nadu,2009,3. Family Background,338,225,2358,2921
+311,Tripura,2009,3. Family Background,12,33,46,91
+312,Uttar Pradesh,2009,3. Family Background,0,23,452,475
+313,Uttarakhand,2009,3. Family Background,44,32,178,254
+314,West Bengal,2009,3. Family Background,36,79,80,195
+315,Andaman & Nicobar Islands,2010,3. Family Background,0,9,17,26
+316,Andhra Pradesh,2010,3. Family Background,172,235,1542,1949
+317,Arunachal Pradesh,2010,3. Family Background,0,54,27,81
+318,Assam,2010,3. Family Background,84,143,158,385
+319,Bihar,2010,3. Family Background,117,149,476,742
+320,Chandigarh,2010,3. Family Background,0,8,160,168
+321,Chhattisgarh,2010,3. Family Background,33,430,1893,2356
+322,Dadra & Nagar Haveli,2010,3. Family Background,0,0,19,19
+323,Daman & Diu,2010,3. Family Background,2,4,4,10
+324,Delhi,2010,3. Family Background,36,87,504,627
+325,Goa,2010,3. Family Background,0,2,75,77
+326,Gujarat,2010,3. Family Background,164,281,1676,2121
+327,Haryana,2010,3. Family Background,149,18,740,907
+328,Himachal Pradesh,2010,3. Family Background,0,4,214,218
+329,Jammu & Kashmir,2010,3. Family Background,0,1,26,27
+330,Jharkhand,2010,3. Family Background,3,5,96,104
+331,Karnataka,2010,3. Family Background,8,27,169,204
+332,Kerala,2010,3. Family Background,7,55,764,826
+333,Lakshadweep,2010,3. Family Background,0,0,0,0
+334,Madhya Pradesh,2010,3. Family Background,204,919,5326,6449
+335,Maharashtra,2010,3. Family Background,429,793,5166,6388
+336,Manipur,2010,3. Family Background,0,0,0,0
+337,Meghalaya,2010,3. Family Background,0,49,69,118
+338,Mizoram,2010,3. Family Background,0,2,114,116
+339,Nagaland,2010,3. Family Background,0,11,42,53
+340,Odisha,2010,3. Family Background,28,73,443,544
+341,Puducherry,2010,3. Family Background,0,3,46,49
+342,Punjab,2010,3. Family Background,2,21,223,246
+343,Rajasthan,2010,3. Family Background,43,165,2170,2378
+344,Sikkim,2010,3. Family Background,2,10,70,82
+345,Tamil Nadu,2010,3. Family Background,116,302,1226,1644
+346,Tripura,2010,3. Family Background,0,0,46,46
+347,Uttar Pradesh,2010,3. Family Background,13,98,741,852
+348,Uttarakhand,2010,3. Family Background,42,2,110,154
+349,West Bengal,2010,3. Family Background,18,122,197,337

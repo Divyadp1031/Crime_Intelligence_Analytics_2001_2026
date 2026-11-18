@@ -1,0 +1,701 @@
+index,Area_Name,Year,Group_Name,Age_18_25_Yrs,Age_25_35_Yrs,Age_35_45_Yrs,Age_45_55_Yrs,Age_Above_55_Yrs,Age_Total
+0,Andaman & Nicobar Islands,2001,Natural Deaths of Policemen while in Service,0,0,0,0,1,1
+1,Andhra Pradesh,2001,Natural Deaths of Policemen while in Service,7,39,100,76,11,233
+2,Arunachal Pradesh,2001,Natural Deaths of Policemen while in Service,0,2,0,0,0,2
+3,Assam,2001,Natural Deaths of Policemen while in Service,0,2,4,8,3,17
+4,Bihar,2001,Natural Deaths of Policemen while in Service,0,7,22,27,13,69
+5,Chandigarh,2001,Natural Deaths of Policemen while in Service,0,2,4,4,0,10
+6,Chhattisgarh,2001,Natural Deaths of Policemen while in Service,1,4,10,7,0,22
+7,Dadra & Nagar Haveli,2001,Natural Deaths of Policemen while in Service,0,0,0,1,0,1
+8,Daman & Diu,2001,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+9,Delhi,2001,Natural Deaths of Policemen while in Service,7,19,44,24,28,122
+10,Goa,2001,Natural Deaths of Policemen while in Service,0,2,1,5,5,13
+11,Gujarat,2001,Natural Deaths of Policemen while in Service,0,18,40,41,8,107
+12,Haryana,2001,Natural Deaths of Policemen while in Service,0,9,31,15,2,57
+13,Himachal Pradesh,2001,Natural Deaths of Policemen while in Service,0,1,3,4,0,8
+14,Jammu & Kashmir,2001,Natural Deaths of Policemen while in Service,0,2,8,4,0,14
+15,Jharkhand,2001,Natural Deaths of Policemen while in Service,1,1,1,9,1,13
+16,Karnataka,2001,Natural Deaths of Policemen while in Service,0,15,31,81,6,133
+17,Kerala,2001,Natural Deaths of Policemen while in Service,0,4,14,35,0,53
+18,Lakshadweep,2001,Natural Deaths of Policemen while in Service,0,0,0,1,1,2
+19,Madhya Pradesh,2001,Natural Deaths of Policemen while in Service,1,13,23,45,10,92
+20,Maharashtra,2001,Natural Deaths of Policemen while in Service,14,76,123,87,25,325
+21,Manipur,2001,Natural Deaths of Policemen while in Service,0,2,6,2,0,10
+22,Meghalaya,2001,Natural Deaths of Policemen while in Service,1,0,0,1,0,2
+23,Mizoram,2001,Natural Deaths of Policemen while in Service,0,2,2,1,0,5
+24,Nagaland,2001,Natural Deaths of Policemen while in Service,2,3,2,2,0,9
+25,Odisha,2001,Natural Deaths of Policemen while in Service,0,9,12,10,2,33
+26,Puducherry,2001,Natural Deaths of Policemen while in Service,0,0,4,5,0,9
+27,Punjab,2001,Natural Deaths of Policemen while in Service,1,29,41,37,1,109
+28,Rajasthan,2001,Natural Deaths of Policemen while in Service,5,10,37,23,6,81
+29,Sikkim,2001,Natural Deaths of Policemen while in Service,0,0,1,0,1,2
+30,Tamil Nadu,2001,Natural Deaths of Policemen while in Service,1,16,41,53,23,134
+31,Tripura,2001,Natural Deaths of Policemen while in Service,0,2,0,4,5,11
+32,Uttar Pradesh,2001,Natural Deaths of Policemen while in Service,0,6,18,33,12,69
+33,Uttarakhand,2001,Natural Deaths of Policemen while in Service,0,3,4,9,0,16
+34,West Bengal,2001,Natural Deaths of Policemen while in Service,5,21,49,90,76,241
+35,Andaman & Nicobar Islands,2002,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+36,Andhra Pradesh,2002,Natural Deaths of Policemen while in Service,3,30,55,110,14,212
+37,Arunachal Pradesh,2002,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+38,Assam,2002,Natural Deaths of Policemen while in Service,0,6,4,24,11,45
+39,Bihar,2002,Natural Deaths of Policemen while in Service,0,4,10,35,6,55
+40,Chandigarh,2002,Natural Deaths of Policemen while in Service,0,1,3,6,1,11
+41,Chhattisgarh,2002,Natural Deaths of Policemen while in Service,0,3,14,3,0,20
+42,Dadra & Nagar Haveli,2002,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+43,Daman & Diu,2002,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+44,Delhi,2002,Natural Deaths of Policemen while in Service,1,9,14,13,4,41
+45,Goa,2002,Natural Deaths of Policemen while in Service,0,1,8,0,1,10
+46,Gujarat,2002,Natural Deaths of Policemen while in Service,0,13,46,39,6,104
+47,Haryana,2002,Natural Deaths of Policemen while in Service,0,9,19,37,1,66
+48,Himachal Pradesh,2002,Natural Deaths of Policemen while in Service,2,1,3,5,4,15
+49,Jammu & Kashmir,2002,Natural Deaths of Policemen while in Service,0,3,4,9,3,19
+50,Jharkhand,2002,Natural Deaths of Policemen while in Service,2,6,11,11,1,31
+51,Karnataka,2002,Natural Deaths of Policemen while in Service,1,22,28,59,8,118
+52,Kerala,2002,Natural Deaths of Policemen while in Service,0,5,13,34,0,52
+53,Lakshadweep,2002,Natural Deaths of Policemen while in Service,0,0,0,0,1,1
+54,Madhya Pradesh,2002,Natural Deaths of Policemen while in Service,0,13,38,48,20,119
+55,Maharashtra,2002,Natural Deaths of Policemen while in Service,4,66,143,128,50,391
+56,Manipur,2002,Natural Deaths of Policemen while in Service,2,3,7,6,0,18
+57,Meghalaya,2002,Natural Deaths of Policemen while in Service,2,0,0,4,0,6
+58,Mizoram,2002,Natural Deaths of Policemen while in Service,0,1,3,4,0,8
+59,Nagaland,2002,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+60,Odisha,2002,Natural Deaths of Policemen while in Service,0,5,8,7,4,24
+61,Puducherry,2002,Natural Deaths of Policemen while in Service,0,0,3,1,4,8
+62,Punjab,2002,Natural Deaths of Policemen while in Service,4,27,39,37,3,110
+63,Rajasthan,2002,Natural Deaths of Policemen while in Service,1,17,19,21,5,63
+64,Sikkim,2002,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+65,Tamil Nadu,2002,Natural Deaths of Policemen while in Service,0,22,70,108,45,245
+66,Tripura,2002,Natural Deaths of Policemen while in Service,0,0,6,15,8,29
+67,Uttar Pradesh,2002,Natural Deaths of Policemen while in Service,1,7,42,33,9,92
+68,Uttarakhand,2002,Natural Deaths of Policemen while in Service,0,3,11,13,5,32
+69,West Bengal,2002,Natural Deaths of Policemen while in Service,2,4,25,22,6,59
+70,Andaman & Nicobar Islands,2003,Natural Deaths of Policemen while in Service,0,0,0,6,1,7
+71,Andhra Pradesh,2003,Natural Deaths of Policemen while in Service,6,43,73,160,15,297
+72,Arunachal Pradesh,2003,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+73,Assam,2003,Natural Deaths of Policemen while in Service,0,3,4,23,11,41
+74,Bihar,2003,Natural Deaths of Policemen while in Service,0,7,19,29,3,58
+75,Chandigarh,2003,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+76,Chhattisgarh,2003,Natural Deaths of Policemen while in Service,0,10,16,5,1,32
+77,Dadra & Nagar Haveli,2003,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+78,Daman & Diu,2003,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+79,Delhi,2003,Natural Deaths of Policemen while in Service,1,17,36,55,29,138
+80,Goa,2003,Natural Deaths of Policemen while in Service,1,1,3,4,1,10
+81,Gujarat,2003,Natural Deaths of Policemen while in Service,2,19,58,55,8,142
+82,Haryana,2003,Natural Deaths of Policemen while in Service,0,15,22,26,0,63
+83,Himachal Pradesh,2003,Natural Deaths of Policemen while in Service,1,4,6,3,2,16
+84,Jammu & Kashmir,2003,Natural Deaths of Policemen while in Service,0,1,8,11,6,26
+85,Jharkhand,2003,Natural Deaths of Policemen while in Service,1,2,2,1,2,8
+86,Karnataka,2003,Natural Deaths of Policemen while in Service,0,16,58,106,2,182
+87,Kerala,2003,Natural Deaths of Policemen while in Service,1,2,15,30,0,48
+88,Lakshadweep,2003,Natural Deaths of Policemen while in Service,0,0,1,0,1,2
+89,Madhya Pradesh,2003,Natural Deaths of Policemen while in Service,6,16,65,69,37,193
+90,Maharashtra,2003,Natural Deaths of Policemen while in Service,14,71,132,131,40,388
+91,Manipur,2003,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+92,Meghalaya,2003,Natural Deaths of Policemen while in Service,0,0,1,0,0,1
+93,Mizoram,2003,Natural Deaths of Policemen while in Service,1,4,7,4,0,16
+94,Nagaland,2003,Natural Deaths of Policemen while in Service,0,4,2,3,0,9
+95,Odisha,2003,Natural Deaths of Policemen while in Service,3,0,5,10,6,24
+96,Puducherry,2003,Natural Deaths of Policemen while in Service,0,1,2,4,1,8
+97,Punjab,2003,Natural Deaths of Policemen while in Service,0,19,38,50,6,113
+98,Rajasthan,2003,Natural Deaths of Policemen while in Service,4,13,46,30,4,97
+99,Sikkim,2003,Natural Deaths of Policemen while in Service,0,0,5,5,0,10
+100,Tamil Nadu,2003,Natural Deaths of Policemen while in Service,1,15,62,101,14,193
+101,Tripura,2003,Natural Deaths of Policemen while in Service,0,6,10,4,0,20
+102,Uttar Pradesh,2003,Natural Deaths of Policemen while in Service,0,14,29,26,4,73
+103,Uttarakhand,2003,Natural Deaths of Policemen while in Service,1,4,6,4,0,15
+104,West Bengal,2003,Natural Deaths of Policemen while in Service,2,17,37,118,93,267
+105,Andaman & Nicobar Islands,2004,Natural Deaths of Policemen while in Service,0,1,0,4,0,5
+106,Andhra Pradesh,2004,Natural Deaths of Policemen while in Service,3,23,77,113,8,224
+107,Arunachal Pradesh,2004,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+108,Assam,2004,Natural Deaths of Policemen while in Service,3,1,3,19,3,29
+109,Bihar,2004,Natural Deaths of Policemen while in Service,0,10,40,37,6,93
+110,Chandigarh,2004,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+111,Chhattisgarh,2004,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+112,Dadra & Nagar Haveli,2004,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+113,Daman & Diu,2004,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+114,Delhi,2004,Natural Deaths of Policemen while in Service,1,28,38,51,12,130
+115,Goa,2004,Natural Deaths of Policemen while in Service,3,2,4,1,4,14
+116,Gujarat,2004,Natural Deaths of Policemen while in Service,0,18,60,62,11,151
+117,Haryana,2004,Natural Deaths of Policemen while in Service,0,4,21,27,3,55
+118,Himachal Pradesh,2004,Natural Deaths of Policemen while in Service,0,1,5,5,3,14
+119,Jammu & Kashmir,2004,Natural Deaths of Policemen while in Service,0,4,13,2,1,20
+120,Jharkhand,2004,Natural Deaths of Policemen while in Service,2,6,11,11,1,31
+121,Karnataka,2004,Natural Deaths of Policemen while in Service,2,18,46,81,14,161
+122,Kerala,2004,Natural Deaths of Policemen while in Service,0,0,9,28,0,37
+123,Lakshadweep,2004,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+124,Madhya Pradesh,2004,Natural Deaths of Policemen while in Service,3,15,32,39,18,107
+125,Maharashtra,2004,Natural Deaths of Policemen while in Service,0,38,158,155,35,386
+126,Manipur,2004,Natural Deaths of Policemen while in Service,0,2,6,7,1,16
+127,Meghalaya,2004,Natural Deaths of Policemen while in Service,0,6,9,6,3,24
+128,Mizoram,2004,Natural Deaths of Policemen while in Service,0,1,2,1,0,4
+129,Nagaland,2004,Natural Deaths of Policemen while in Service,1,0,5,1,1,8
+130,Odisha,2004,Natural Deaths of Policemen while in Service,0,2,6,5,1,14
+131,Puducherry,2004,Natural Deaths of Policemen while in Service,0,0,2,5,3,10
+132,Punjab,2004,Natural Deaths of Policemen while in Service,0,29,63,45,8,145
+133,Rajasthan,2004,Natural Deaths of Policemen while in Service,0,23,35,30,6,94
+134,Sikkim,2004,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+135,Tamil Nadu,2004,Natural Deaths of Policemen while in Service,0,16,55,103,27,201
+136,Tripura,2004,Natural Deaths of Policemen while in Service,0,1,5,10,6,22
+137,Uttar Pradesh,2004,Natural Deaths of Policemen while in Service,1,8,16,19,11,55
+138,Uttarakhand,2004,Natural Deaths of Policemen while in Service,1,2,9,2,1,15
+139,West Bengal,2004,Natural Deaths of Policemen while in Service,0,13,31,46,52,142
+140,Andaman & Nicobar Islands,2005,Natural Deaths of Policemen while in Service,1,0,4,5,0,10
+141,Andhra Pradesh,2005,Natural Deaths of Policemen while in Service,1,28,47,107,12,195
+142,Arunachal Pradesh,2005,Natural Deaths of Policemen while in Service,0,0,2,0,0,2
+143,Assam,2005,Natural Deaths of Policemen while in Service,0,7,12,9,1,29
+144,Bihar,2005,Natural Deaths of Policemen while in Service,0,8,37,22,8,75
+145,Chandigarh,2005,Natural Deaths of Policemen while in Service,1,1,4,2,1,9
+146,Chhattisgarh,2005,Natural Deaths of Policemen while in Service,1,2,19,22,5,49
+147,Dadra & Nagar Haveli,2005,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+148,Daman & Diu,2005,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+149,Delhi,2005,Natural Deaths of Policemen while in Service,0,17,52,72,36,177
+150,Goa,2005,Natural Deaths of Policemen while in Service,0,3,2,6,2,13
+151,Gujarat,2005,Natural Deaths of Policemen while in Service,0,12,43,61,12,128
+152,Haryana,2005,Natural Deaths of Policemen while in Service,1,7,29,55,4,96
+153,Himachal Pradesh,2005,Natural Deaths of Policemen while in Service,0,1,7,10,1,19
+154,Jammu & Kashmir,2005,Natural Deaths of Policemen while in Service,1,7,5,6,1,20
+155,Jharkhand,2005,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+156,Karnataka,2005,Natural Deaths of Policemen while in Service,2,20,37,72,18,149
+157,Kerala,2005,Natural Deaths of Policemen while in Service,0,2,15,28,0,45
+158,Lakshadweep,2005,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+159,Madhya Pradesh,2005,Natural Deaths of Policemen while in Service,1,14,47,42,9,113
+160,Maharashtra,2005,Natural Deaths of Policemen while in Service,5,44,116,198,30,393
+161,Manipur,2005,Natural Deaths of Policemen while in Service,0,1,9,5,4,19
+162,Meghalaya,2005,Natural Deaths of Policemen while in Service,0,1,14,1,0,16
+163,Mizoram,2005,Natural Deaths of Policemen while in Service,0,2,8,0,0,10
+164,Nagaland,2005,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+165,Odisha,2005,Natural Deaths of Policemen while in Service,0,1,10,11,3,25
+166,Puducherry,2005,Natural Deaths of Policemen while in Service,0,0,5,5,1,11
+167,Punjab,2005,Natural Deaths of Policemen while in Service,2,32,65,52,16,167
+168,Rajasthan,2005,Natural Deaths of Policemen while in Service,1,9,23,24,12,69
+169,Sikkim,2005,Natural Deaths of Policemen while in Service,0,2,1,5,0,8
+170,Tamil Nadu,2005,Natural Deaths of Policemen while in Service,0,8,45,105,33,191
+171,Tripura,2005,Natural Deaths of Policemen while in Service,1,11,14,15,12,53
+172,Uttar Pradesh,2005,Natural Deaths of Policemen while in Service,0,7,44,49,20,120
+173,Uttarakhand,2005,Natural Deaths of Policemen while in Service,0,0,6,7,0,13
+174,West Bengal,2005,Natural Deaths of Policemen while in Service,3,7,28,102,65,205
+175,Andaman & Nicobar Islands,2006,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+176,Andhra Pradesh,2006,Natural Deaths of Policemen while in Service,4,32,86,158,31,311
+177,Arunachal Pradesh,2006,Natural Deaths of Policemen while in Service,0,0,0,2,0,2
+178,Assam,2006,Natural Deaths of Policemen while in Service,0,2,7,4,1,14
+179,Bihar,2006,Natural Deaths of Policemen while in Service,1,5,56,186,18,266
+180,Chandigarh,2006,Natural Deaths of Policemen while in Service,0,0,9,6,2,17
+181,Chhattisgarh,2006,Natural Deaths of Policemen while in Service,6,10,17,19,10,62
+182,Dadra & Nagar Haveli,2006,Natural Deaths of Policemen while in Service,0,0,0,1,0,1
+183,Daman & Diu,2006,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+184,Delhi,2006,Natural Deaths of Policemen while in Service,1,11,49,60,21,142
+185,Goa,2006,Natural Deaths of Policemen while in Service,0,1,2,7,1,11
+186,Gujarat,2006,Natural Deaths of Policemen while in Service,4,19,49,67,9,148
+187,Haryana,2006,Natural Deaths of Policemen while in Service,2,12,28,41,4,87
+188,Himachal Pradesh,2006,Natural Deaths of Policemen while in Service,0,2,8,6,0,16
+189,Jammu & Kashmir,2006,Natural Deaths of Policemen while in Service,0,8,6,4,0,18
+190,Jharkhand,2006,Natural Deaths of Policemen while in Service,2,7,7,18,8,42
+191,Karnataka,2006,Natural Deaths of Policemen while in Service,5,13,35,69,21,143
+192,Kerala,2006,Natural Deaths of Policemen while in Service,0,2,12,37,3,54
+193,Lakshadweep,2006,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+194,Madhya Pradesh,2006,Natural Deaths of Policemen while in Service,1,13,33,56,12,115
+195,Maharashtra,2006,Natural Deaths of Policemen while in Service,0,30,120,169,17,336
+196,Manipur,2006,Natural Deaths of Policemen while in Service,0,2,5,4,1,12
+197,Meghalaya,2006,Natural Deaths of Policemen while in Service,0,6,7,10,0,23
+198,Mizoram,2006,Natural Deaths of Policemen while in Service,0,4,12,2,2,20
+199,Nagaland,2006,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+200,Odisha,2006,Natural Deaths of Policemen while in Service,0,3,4,10,0,17
+201,Puducherry,2006,Natural Deaths of Policemen while in Service,0,0,3,8,2,13
+202,Punjab,2006,Natural Deaths of Policemen while in Service,0,35,73,59,1,168
+203,Rajasthan,2006,Natural Deaths of Policemen while in Service,2,13,30,43,6,94
+204,Sikkim,2006,Natural Deaths of Policemen while in Service,0,2,1,5,0,8
+205,Tamil Nadu,2006,Natural Deaths of Policemen while in Service,0,16,68,130,37,251
+206,Tripura,2006,Natural Deaths of Policemen while in Service,0,0,6,11,3,20
+207,Uttar Pradesh,2006,Natural Deaths of Policemen while in Service,1,9,55,38,15,118
+208,Uttarakhand,2006,Natural Deaths of Policemen while in Service,0,2,6,7,3,18
+209,West Bengal,2006,Natural Deaths of Policemen while in Service,1,9,29,94,88,221
+210,Andaman & Nicobar Islands,2007,Natural Deaths of Policemen while in Service,0,0,2,2,0,4
+211,Andhra Pradesh,2007,Natural Deaths of Policemen while in Service,2,19,68,118,34,241
+212,Arunachal Pradesh,2007,Natural Deaths of Policemen while in Service,0,0,2,1,0,3
+213,Assam,2007,Natural Deaths of Policemen while in Service,0,9,7,4,1,21
+214,Bihar,2007,Natural Deaths of Policemen while in Service,0,11,25,55,21,112
+215,Chandigarh,2007,Natural Deaths of Policemen while in Service,0,0,8,3,2,13
+216,Chhattisgarh,2007,Natural Deaths of Policemen while in Service,3,2,22,17,6,50
+217,Dadra & Nagar Haveli,2007,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+218,Daman & Diu,2007,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+219,Delhi,2007,Natural Deaths of Policemen while in Service,3,3,133,42,16,197
+220,Goa,2007,Natural Deaths of Policemen while in Service,2,3,2,5,0,12
+221,Gujarat,2007,Natural Deaths of Policemen while in Service,2,18,54,64,17,155
+222,Haryana,2007,Natural Deaths of Policemen while in Service,1,9,34,49,5,98
+223,Himachal Pradesh,2007,Natural Deaths of Policemen while in Service,0,4,9,7,2,22
+224,Jammu & Kashmir,2007,Natural Deaths of Policemen while in Service,0,5,6,9,0,20
+225,Jharkhand,2007,Natural Deaths of Policemen while in Service,6,1,18,13,3,41
+226,Karnataka,2007,Natural Deaths of Policemen while in Service,2,13,29,49,27,120
+227,Kerala,2007,Natural Deaths of Policemen while in Service,0,2,11,47,0,60
+228,Lakshadweep,2007,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+229,Madhya Pradesh,2007,Natural Deaths of Policemen while in Service,4,11,37,50,27,129
+230,Maharashtra,2007,Natural Deaths of Policemen while in Service,2,17,79,97,17,212
+231,Manipur,2007,Natural Deaths of Policemen while in Service,0,2,3,0,0,5
+232,Meghalaya,2007,Natural Deaths of Policemen while in Service,0,1,0,1,0,2
+233,Mizoram,2007,Natural Deaths of Policemen while in Service,0,2,2,6,3,13
+234,Nagaland,2007,Natural Deaths of Policemen while in Service,0,5,0,1,0,6
+235,Odisha,2007,Natural Deaths of Policemen while in Service,0,0,2,11,2,15
+236,Puducherry,2007,Natural Deaths of Policemen while in Service,0,0,2,3,4,9
+237,Punjab,2007,Natural Deaths of Policemen while in Service,1,22,41,59,13,136
+238,Rajasthan,2007,Natural Deaths of Policemen while in Service,0,16,21,38,12,87
+239,Sikkim,2007,Natural Deaths of Policemen while in Service,0,0,2,1,0,3
+240,Tamil Nadu,2007,Natural Deaths of Policemen while in Service,1,13,64,121,40,239
+241,Tripura,2007,Natural Deaths of Policemen while in Service,1,0,10,19,4,34
+242,Uttar Pradesh,2007,Natural Deaths of Policemen while in Service,9,19,46,103,52,229
+243,Uttarakhand,2007,Natural Deaths of Policemen while in Service,0,3,4,8,2,17
+244,West Bengal,2007,Natural Deaths of Policemen while in Service,0,3,17,39,39,98
+245,Andaman & Nicobar Islands,2008,Natural Deaths of Policemen while in Service,0,2,1,0,0,3
+246,Andhra Pradesh,2008,Natural Deaths of Policemen while in Service,1,14,61,67,18,161
+247,Arunachal Pradesh,2008,Natural Deaths of Policemen while in Service,0,0,1,4,1,6
+248,Assam,2008,Natural Deaths of Policemen while in Service,0,0,2,1,1,4
+249,Bihar,2008,Natural Deaths of Policemen while in Service,6,7,32,56,19,120
+250,Chandigarh,2008,Natural Deaths of Policemen while in Service,0,0,5,4,0,9
+251,Chhattisgarh,2008,Natural Deaths of Policemen while in Service,3,3,13,16,4,39
+252,Dadra & Nagar Haveli,2008,Natural Deaths of Policemen while in Service,0,0,2,0,0,2
+253,Daman & Diu,2008,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+254,Delhi,2008,Natural Deaths of Policemen while in Service,1,4,56,61,28,150
+255,Goa,2008,Natural Deaths of Policemen while in Service,0,1,4,5,3,13
+256,Gujarat,2008,Natural Deaths of Policemen while in Service,0,17,51,85,8,161
+257,Haryana,2008,Natural Deaths of Policemen while in Service,0,1,5,12,1,19
+258,Himachal Pradesh,2008,Natural Deaths of Policemen while in Service,0,1,5,3,0,9
+259,Jammu & Kashmir,2008,Natural Deaths of Policemen while in Service,0,1,8,13,1,23
+260,Jharkhand,2008,Natural Deaths of Policemen while in Service,1,2,12,17,3,35
+261,Karnataka,2008,Natural Deaths of Policemen while in Service,2,11,32,61,19,125
+262,Kerala,2008,Natural Deaths of Policemen while in Service,0,1,13,49,0,63
+263,Lakshadweep,2008,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+264,Madhya Pradesh,2008,Natural Deaths of Policemen while in Service,2,7,18,50,21,98
+265,Maharashtra,2008,Natural Deaths of Policemen while in Service,4,20,78,91,14,207
+266,Manipur,2008,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+267,Meghalaya,2008,Natural Deaths of Policemen while in Service,0,0,4,4,1,9
+268,Mizoram,2008,Natural Deaths of Policemen while in Service,0,1,2,2,0,5
+269,Nagaland,2008,Natural Deaths of Policemen while in Service,1,0,2,0,1,4
+270,Odisha,2008,Natural Deaths of Policemen while in Service,0,1,10,17,5,33
+271,Puducherry,2008,Natural Deaths of Policemen while in Service,0,0,4,2,2,8
+272,Punjab,2008,Natural Deaths of Policemen while in Service,1,18,57,80,5,161
+273,Rajasthan,2008,Natural Deaths of Policemen while in Service,2,9,19,36,17,83
+274,Sikkim,2008,Natural Deaths of Policemen while in Service,1,4,6,1,0,12
+275,Tamil Nadu,2008,Natural Deaths of Policemen while in Service,1,10,46,105,29,191
+276,Tripura,2008,Natural Deaths of Policemen while in Service,0,2,2,17,8,29
+277,Uttar Pradesh,2008,Natural Deaths of Policemen while in Service,3,14,83,143,76,319
+278,Uttarakhand,2008,Natural Deaths of Policemen while in Service,0,1,3,6,0,10
+279,West Bengal,2008,Natural Deaths of Policemen while in Service,1,12,36,40,42,131
+280,Andaman & Nicobar Islands,2009,Natural Deaths of Policemen while in Service,0,2,3,8,0,13
+281,Andhra Pradesh,2009,Natural Deaths of Policemen while in Service,4,24,72,82,22,204
+282,Arunachal Pradesh,2009,Natural Deaths of Policemen while in Service,0,0,1,0,0,1
+283,Assam,2009,Natural Deaths of Policemen while in Service,0,0,5,7,4,16
+284,Bihar,2009,Natural Deaths of Policemen while in Service,1,6,18,45,21,91
+285,Chandigarh,2009,Natural Deaths of Policemen while in Service,1,0,8,11,0,20
+286,Chhattisgarh,2009,Natural Deaths of Policemen while in Service,2,5,17,20,3,47
+287,Dadra & Nagar Haveli,2009,Natural Deaths of Policemen while in Service,0,0,0,1,0,1
+288,Daman & Diu,2009,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+289,Delhi,2009,Natural Deaths of Policemen while in Service,6,11,53,77,31,178
+290,Goa,2009,Natural Deaths of Policemen while in Service,1,3,5,3,0,12
+291,Gujarat,2009,Natural Deaths of Policemen while in Service,1,8,48,93,7,157
+292,Haryana,2009,Natural Deaths of Policemen while in Service,0,11,21,40,5,77
+293,Himachal Pradesh,2009,Natural Deaths of Policemen while in Service,0,0,2,3,1,6
+294,Jammu & Kashmir,2009,Natural Deaths of Policemen while in Service,2,7,13,9,7,38
+295,Jharkhand,2009,Natural Deaths of Policemen while in Service,0,8,9,15,9,41
+296,Karnataka,2009,Natural Deaths of Policemen while in Service,2,14,26,67,52,161
+297,Kerala,2009,Natural Deaths of Policemen while in Service,0,6,24,54,0,84
+298,Lakshadweep,2009,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+299,Madhya Pradesh,2009,Natural Deaths of Policemen while in Service,4,6,38,48,12,108
+300,Maharashtra,2009,Natural Deaths of Policemen while in Service,3,19,88,190,19,319
+301,Manipur,2009,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+302,Meghalaya,2009,Natural Deaths of Policemen while in Service,0,1,2,3,0,6
+303,Mizoram,2009,Natural Deaths of Policemen while in Service,0,0,1,1,0,2
+304,Nagaland,2009,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+305,Odisha,2009,Natural Deaths of Policemen while in Service,0,6,10,18,7,41
+306,Puducherry,2009,Natural Deaths of Policemen while in Service,0,0,0,6,3,9
+307,Punjab,2009,Natural Deaths of Policemen while in Service,0,33,89,65,6,193
+308,Rajasthan,2009,Natural Deaths of Policemen while in Service,3,10,32,39,16,100
+309,Sikkim,2009,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+310,Tamil Nadu,2009,Natural Deaths of Policemen while in Service,0,15,54,115,35,219
+311,Tripura,2009,Natural Deaths of Policemen while in Service,2,2,9,8,3,24
+312,Uttar Pradesh,2009,Natural Deaths of Policemen while in Service,1,16,84,177,98,376
+313,Uttarakhand,2009,Natural Deaths of Policemen while in Service,2,4,3,14,1,24
+314,West Bengal,2009,Natural Deaths of Policemen while in Service,0,3,8,49,28,88
+315,Andaman & Nicobar Islands,2010,Natural Deaths of Policemen while in Service,0,2,13,3,1,19
+316,Andhra Pradesh,2010,Natural Deaths of Policemen while in Service,2,25,63,84,25,199
+317,Arunachal Pradesh,2010,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+318,Assam,2010,Natural Deaths of Policemen while in Service,0,0,9,7,2,18
+319,Bihar,2010,Natural Deaths of Policemen while in Service,0,3,23,38,30,94
+320,Chandigarh,2010,Natural Deaths of Policemen while in Service,0,1,6,7,1,15
+321,Chhattisgarh,2010,Natural Deaths of Policemen while in Service,7,15,18,24,4,68
+322,Dadra & Nagar Haveli,2010,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+323,Daman & Diu,2010,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+324,Delhi,2010,Natural Deaths of Policemen while in Service,0,12,50,83,35,180
+325,Goa,2010,Natural Deaths of Policemen while in Service,0,2,3,3,2,10
+326,Gujarat,2010,Natural Deaths of Policemen while in Service,4,15,36,92,19,166
+327,Haryana,2010,Natural Deaths of Policemen while in Service,0,3,20,30,2,55
+328,Himachal Pradesh,2010,Natural Deaths of Policemen while in Service,0,0,4,7,1,12
+329,Jammu & Kashmir,2010,Natural Deaths of Policemen while in Service,0,7,10,11,3,31
+330,Jharkhand,2010,Natural Deaths of Policemen while in Service,1,12,17,26,9,65
+331,Karnataka,2010,Natural Deaths of Policemen while in Service,1,15,31,56,33,136
+332,Kerala,2010,Natural Deaths of Policemen while in Service,0,3,6,49,0,58
+333,Lakshadweep,2010,Natural Deaths of Policemen while in Service,0,0,0,0,0,0
+334,Madhya Pradesh,2010,Natural Deaths of Policemen while in Service,0,13,33,79,28,153
+335,Maharashtra,2010,Natural Deaths of Policemen while in Service,5,33,106,140,21,305
+336,Manipur,2010,Natural Deaths of Policemen while in Service,1,1,6,0,6,14
+337,Meghalaya,2010,Natural Deaths of Policemen while in Service,0,12,8,10,0,30
+338,Mizoram,2010,Natural Deaths of Policemen while in Service,0,0,4,3,2,9
+339,Nagaland,2010,Natural Deaths of Policemen while in Service,0,2,0,1,1,4
+340,Odisha,2010,Natural Deaths of Policemen while in Service,0,4,17,21,9,51
+341,Puducherry,2010,Natural Deaths of Policemen while in Service,0,0,0,11,1,12
+342,Punjab,2010,Natural Deaths of Policemen while in Service,0,21,99,62,19,201
+343,Rajasthan,2010,Natural Deaths of Policemen while in Service,3,13,37,37,12,102
+344,Sikkim,2010,Natural Deaths of Policemen while in Service,1,3,5,7,1,17
+345,Tamil Nadu,2010,Natural Deaths of Policemen while in Service,2,31,47,137,30,247
+346,Tripura,2010,Natural Deaths of Policemen while in Service,0,0,10,8,7,25
+347,Uttar Pradesh,2010,Natural Deaths of Policemen while in Service,4,18,90,213,131,456
+348,Uttarakhand,2010,Natural Deaths of Policemen while in Service,0,1,3,8,1,13
+349,West Bengal,2010,Natural Deaths of Policemen while in Service,0,7,19,50,86,162
+350,Andaman & Nicobar Islands,2001,Suicides by Police Personnel,0,0,0,0,1,1
+351,Andhra Pradesh,2001,Suicides by Police Personnel,0,6,4,0,1,11
+352,Arunachal Pradesh,2001,Suicides by Police Personnel,0,0,0,0,0,0
+353,Assam,2001,Suicides by Police Personnel,0,0,0,0,0,0
+354,Bihar,2001,Suicides by Police Personnel,0,0,0,3,0,3
+355,Chandigarh,2001,Suicides by Police Personnel,0,0,0,0,0,0
+356,Chhattisgarh,2001,Suicides by Police Personnel,0,2,3,3,0,8
+357,Dadra & Nagar Haveli,2001,Suicides by Police Personnel,0,0,0,0,0,0
+358,Daman & Diu,2001,Suicides by Police Personnel,0,0,0,0,0,0
+359,Delhi,2001,Suicides by Police Personnel,2,1,2,0,0,5
+360,Goa,2001,Suicides by Police Personnel,0,0,0,0,0,0
+361,Gujarat,2001,Suicides by Police Personnel,1,0,4,2,1,8
+362,Haryana,2001,Suicides by Police Personnel,0,1,1,0,0,2
+363,Himachal Pradesh,2001,Suicides by Police Personnel,0,0,2,1,0,3
+364,Jammu & Kashmir,2001,Suicides by Police Personnel,0,1,1,1,0,3
+365,Jharkhand,2001,Suicides by Police Personnel,0,0,0,0,0,0
+366,Karnataka,2001,Suicides by Police Personnel,0,0,5,2,1,8
+367,Kerala,2001,Suicides by Police Personnel,0,0,0,10,0,10
+368,Lakshadweep,2001,Suicides by Police Personnel,0,0,0,0,0,0
+369,Madhya Pradesh,2001,Suicides by Police Personnel,1,2,5,2,0,10
+370,Maharashtra,2001,Suicides by Police Personnel,0,10,7,3,0,20
+371,Manipur,2001,Suicides by Police Personnel,0,0,0,0,0,0
+372,Meghalaya,2001,Suicides by Police Personnel,0,0,0,0,0,0
+373,Mizoram,2001,Suicides by Police Personnel,0,0,0,0,0,0
+374,Nagaland,2001,Suicides by Police Personnel,0,1,0,0,0,1
+375,Odisha,2001,Suicides by Police Personnel,0,0,1,0,1,2
+376,Puducherry,2001,Suicides by Police Personnel,0,0,0,0,0,0
+377,Punjab,2001,Suicides by Police Personnel,0,1,0,0,0,1
+378,Rajasthan,2001,Suicides by Police Personnel,0,1,3,1,1,6
+379,Sikkim,2001,Suicides by Police Personnel,1,2,0,0,0,3
+380,Tamil Nadu,2001,Suicides by Police Personnel,0,2,0,1,0,3
+381,Tripura,2001,Suicides by Police Personnel,0,0,0,0,0,0
+382,Uttar Pradesh,2001,Suicides by Police Personnel,0,0,0,0,0,0
+383,Uttarakhand,2001,Suicides by Police Personnel,1,0,0,0,0,1
+384,West Bengal,2001,Suicides by Police Personnel,0,1,2,2,0,5
+385,Andaman & Nicobar Islands,2002,Suicides by Police Personnel,0,0,0,0,0,0
+386,Andhra Pradesh,2002,Suicides by Police Personnel,1,1,2,0,0,4
+387,Arunachal Pradesh,2002,Suicides by Police Personnel,0,0,0,0,0,0
+388,Assam,2002,Suicides by Police Personnel,0,0,0,0,0,0
+389,Bihar,2002,Suicides by Police Personnel,0,0,1,0,0,1
+390,Chandigarh,2002,Suicides by Police Personnel,0,0,0,0,0,0
+391,Chhattisgarh,2002,Suicides by Police Personnel,0,1,2,0,0,3
+392,Dadra & Nagar Haveli,2002,Suicides by Police Personnel,0,0,0,0,0,0
+393,Daman & Diu,2002,Suicides by Police Personnel,0,0,0,0,0,0
+394,Delhi,2002,Suicides by Police Personnel,0,2,1,0,0,3
+395,Goa,2002,Suicides by Police Personnel,0,0,0,0,0,0
+396,Gujarat,2002,Suicides by Police Personnel,0,2,1,1,0,4
+397,Haryana,2002,Suicides by Police Personnel,1,3,1,0,0,5
+398,Himachal Pradesh,2002,Suicides by Police Personnel,2,0,2,2,3,9
+399,Jammu & Kashmir,2002,Suicides by Police Personnel,0,1,2,0,0,3
+400,Jharkhand,2002,Suicides by Police Personnel,0,0,0,0,0,0
+401,Karnataka,2002,Suicides by Police Personnel,0,1,7,4,0,12
+402,Kerala,2002,Suicides by Police Personnel,0,1,4,8,0,13
+403,Lakshadweep,2002,Suicides by Police Personnel,0,0,0,0,0,0
+404,Madhya Pradesh,2002,Suicides by Police Personnel,0,2,3,5,0,10
+405,Maharashtra,2002,Suicides by Police Personnel,0,20,15,7,1,43
+406,Manipur,2002,Suicides by Police Personnel,0,0,0,0,0,0
+407,Meghalaya,2002,Suicides by Police Personnel,0,0,0,0,0,0
+408,Mizoram,2002,Suicides by Police Personnel,0,0,0,0,0,0
+409,Nagaland,2002,Suicides by Police Personnel,0,0,0,0,0,0
+410,Odisha,2002,Suicides by Police Personnel,0,0,0,0,0,0
+411,Puducherry,2002,Suicides by Police Personnel,0,0,0,0,0,0
+412,Punjab,2002,Suicides by Police Personnel,0,0,1,0,0,1
+413,Rajasthan,2002,Suicides by Police Personnel,0,2,1,1,1,5
+414,Sikkim,2002,Suicides by Police Personnel,0,0,0,0,0,0
+415,Tamil Nadu,2002,Suicides by Police Personnel,0,4,2,0,0,6
+416,Tripura,2002,Suicides by Police Personnel,0,0,1,1,0,2
+417,Uttar Pradesh,2002,Suicides by Police Personnel,0,1,1,3,1,6
+418,Uttarakhand,2002,Suicides by Police Personnel,0,0,0,0,0,0
+419,West Bengal,2002,Suicides by Police Personnel,0,1,2,3,1,7
+420,Andaman & Nicobar Islands,2003,Suicides by Police Personnel,0,0,0,0,0,0
+421,Andhra Pradesh,2003,Suicides by Police Personnel,0,5,3,1,0,9
+422,Arunachal Pradesh,2003,Suicides by Police Personnel,0,0,0,0,0,0
+423,Assam,2003,Suicides by Police Personnel,0,0,0,0,0,0
+424,Bihar,2003,Suicides by Police Personnel,0,1,0,0,0,1
+425,Chandigarh,2003,Suicides by Police Personnel,0,3,0,0,0,3
+426,Chhattisgarh,2003,Suicides by Police Personnel,0,0,0,0,0,0
+427,Dadra & Nagar Haveli,2003,Suicides by Police Personnel,0,0,0,0,0,0
+428,Daman & Diu,2003,Suicides by Police Personnel,0,0,0,0,0,0
+429,Delhi,2003,Suicides by Police Personnel,0,3,1,2,0,6
+430,Goa,2003,Suicides by Police Personnel,0,0,0,0,0,0
+431,Gujarat,2003,Suicides by Police Personnel,0,4,6,3,0,13
+432,Haryana,2003,Suicides by Police Personnel,0,0,1,0,0,1
+433,Himachal Pradesh,2003,Suicides by Police Personnel,1,2,3,2,1,9
+434,Jammu & Kashmir,2003,Suicides by Police Personnel,0,0,4,0,0,4
+435,Jharkhand,2003,Suicides by Police Personnel,0,1,0,1,0,2
+436,Karnataka,2003,Suicides by Police Personnel,0,0,5,4,0,9
+437,Kerala,2003,Suicides by Police Personnel,0,2,6,6,0,14
+438,Lakshadweep,2003,Suicides by Police Personnel,0,0,0,0,0,0
+439,Madhya Pradesh,2003,Suicides by Police Personnel,0,6,5,0,0,11
+440,Maharashtra,2003,Suicides by Police Personnel,4,7,13,8,1,33
+441,Manipur,2003,Suicides by Police Personnel,1,0,0,0,0,1
+442,Meghalaya,2003,Suicides by Police Personnel,0,0,0,0,0,0
+443,Mizoram,2003,Suicides by Police Personnel,0,1,0,0,0,1
+444,Nagaland,2003,Suicides by Police Personnel,0,2,0,0,0,2
+445,Odisha,2003,Suicides by Police Personnel,0,0,0,3,0,3
+446,Puducherry,2003,Suicides by Police Personnel,1,0,0,0,0,1
+447,Punjab,2003,Suicides by Police Personnel,0,1,0,0,0,1
+448,Rajasthan,2003,Suicides by Police Personnel,0,0,5,0,0,5
+449,Sikkim,2003,Suicides by Police Personnel,0,0,0,0,0,0
+450,Tamil Nadu,2003,Suicides by Police Personnel,0,2,6,7,2,17
+451,Tripura,2003,Suicides by Police Personnel,0,0,0,0,0,0
+452,Uttar Pradesh,2003,Suicides by Police Personnel,1,1,0,1,0,3
+453,Uttarakhand,2003,Suicides by Police Personnel,0,0,1,0,0,1
+454,West Bengal,2003,Suicides by Police Personnel,0,3,6,2,2,13
+455,Andaman & Nicobar Islands,2004,Suicides by Police Personnel,0,1,0,0,0,1
+456,Andhra Pradesh,2004,Suicides by Police Personnel,1,4,5,2,0,12
+457,Arunachal Pradesh,2004,Suicides by Police Personnel,0,0,0,0,0,0
+458,Assam,2004,Suicides by Police Personnel,0,0,1,0,0,1
+459,Bihar,2004,Suicides by Police Personnel,0,0,1,0,0,1
+460,Chandigarh,2004,Suicides by Police Personnel,0,0,0,0,0,0
+461,Chhattisgarh,2004,Suicides by Police Personnel,0,1,4,4,0,9
+462,Dadra & Nagar Haveli,2004,Suicides by Police Personnel,0,0,0,0,0,0
+463,Daman & Diu,2004,Suicides by Police Personnel,0,0,0,0,0,0
+464,Delhi,2004,Suicides by Police Personnel,0,0,1,4,0,5
+465,Goa,2004,Suicides by Police Personnel,0,0,0,0,0,0
+466,Gujarat,2004,Suicides by Police Personnel,0,3,3,2,0,8
+467,Haryana,2004,Suicides by Police Personnel,0,0,0,0,0,0
+468,Himachal Pradesh,2004,Suicides by Police Personnel,0,0,0,0,2,2
+469,Jammu & Kashmir,2004,Suicides by Police Personnel,0,1,1,0,0,2
+470,Jharkhand,2004,Suicides by Police Personnel,0,0,0,0,0,0
+471,Karnataka,2004,Suicides by Police Personnel,0,3,2,4,0,9
+472,Kerala,2004,Suicides by Police Personnel,0,0,3,13,0,16
+473,Lakshadweep,2004,Suicides by Police Personnel,0,0,0,0,0,0
+474,Madhya Pradesh,2004,Suicides by Police Personnel,1,2,6,1,0,10
+475,Maharashtra,2004,Suicides by Police Personnel,3,8,9,6,3,29
+476,Manipur,2004,Suicides by Police Personnel,0,0,0,0,0,0
+477,Meghalaya,2004,Suicides by Police Personnel,0,0,0,0,0,0
+478,Mizoram,2004,Suicides by Police Personnel,0,0,0,0,0,0
+479,Nagaland,2004,Suicides by Police Personnel,0,0,0,0,0,0
+480,Odisha,2004,Suicides by Police Personnel,0,1,0,0,0,1
+481,Puducherry,2004,Suicides by Police Personnel,0,0,0,0,0,0
+482,Punjab,2004,Suicides by Police Personnel,0,0,1,0,0,1
+483,Rajasthan,2004,Suicides by Police Personnel,2,2,1,2,0,7
+484,Sikkim,2004,Suicides by Police Personnel,0,0,0,0,0,0
+485,Tamil Nadu,2004,Suicides by Police Personnel,2,7,7,3,0,19
+486,Tripura,2004,Suicides by Police Personnel,0,2,0,0,0,2
+487,Uttar Pradesh,2004,Suicides by Police Personnel,1,3,4,1,4,13
+488,Uttarakhand,2004,Suicides by Police Personnel,0,0,0,0,0,0
+489,West Bengal,2004,Suicides by Police Personnel,0,0,1,0,0,1
+490,Andaman & Nicobar Islands,2005,Suicides by Police Personnel,1,0,0,0,0,1
+491,Andhra Pradesh,2005,Suicides by Police Personnel,0,1,6,2,0,9
+492,Arunachal Pradesh,2005,Suicides by Police Personnel,0,0,0,0,0,0
+493,Assam,2005,Suicides by Police Personnel,0,0,0,0,0,0
+494,Bihar,2005,Suicides by Police Personnel,0,1,0,0,0,1
+495,Chandigarh,2005,Suicides by Police Personnel,0,0,2,1,0,3
+496,Chhattisgarh,2005,Suicides by Police Personnel,0,0,0,0,0,0
+497,Dadra & Nagar Haveli,2005,Suicides by Police Personnel,0,0,0,0,0,0
+498,Daman & Diu,2005,Suicides by Police Personnel,0,0,0,0,0,0
+499,Delhi,2005,Suicides by Police Personnel,0,3,3,0,0,6
+500,Goa,2005,Suicides by Police Personnel,0,0,0,0,0,0
+501,Gujarat,2005,Suicides by Police Personnel,1,1,8,4,0,14
+502,Haryana,2005,Suicides by Police Personnel,0,2,3,2,0,7
+503,Himachal Pradesh,2005,Suicides by Police Personnel,0,0,0,0,0,0
+504,Jammu & Kashmir,2005,Suicides by Police Personnel,0,0,0,0,0,0
+505,Jharkhand,2005,Suicides by Police Personnel,0,0,0,0,0,0
+506,Karnataka,2005,Suicides by Police Personnel,0,3,7,1,1,12
+507,Kerala,2005,Suicides by Police Personnel,0,2,5,7,0,14
+508,Lakshadweep,2005,Suicides by Police Personnel,0,0,0,0,0,0
+509,Madhya Pradesh,2005,Suicides by Police Personnel,0,3,5,8,1,17
+510,Maharashtra,2005,Suicides by Police Personnel,0,4,14,6,2,26
+511,Manipur,2005,Suicides by Police Personnel,0,0,0,0,0,0
+512,Meghalaya,2005,Suicides by Police Personnel,0,0,0,0,0,0
+513,Mizoram,2005,Suicides by Police Personnel,0,0,0,0,0,0
+514,Nagaland,2005,Suicides by Police Personnel,0,0,0,0,0,0
+515,Odisha,2005,Suicides by Police Personnel,1,0,0,0,0,1
+516,Puducherry,2005,Suicides by Police Personnel,0,0,0,0,0,0
+517,Punjab,2005,Suicides by Police Personnel,0,5,11,10,3,29
+518,Rajasthan,2005,Suicides by Police Personnel,0,2,0,0,0,2
+519,Sikkim,2005,Suicides by Police Personnel,0,0,0,0,0,0
+520,Tamil Nadu,2005,Suicides by Police Personnel,0,8,8,8,0,24
+521,Tripura,2005,Suicides by Police Personnel,0,0,1,1,0,2
+522,Uttar Pradesh,2005,Suicides by Police Personnel,0,0,0,0,0,0
+523,Uttarakhand,2005,Suicides by Police Personnel,0,0,2,1,0,3
+524,West Bengal,2005,Suicides by Police Personnel,0,1,2,2,0,5
+525,Andaman & Nicobar Islands,2006,Suicides by Police Personnel,0,0,0,0,0,0
+526,Andhra Pradesh,2006,Suicides by Police Personnel,0,3,1,1,0,5
+527,Arunachal Pradesh,2006,Suicides by Police Personnel,0,0,0,0,0,0
+528,Assam,2006,Suicides by Police Personnel,0,0,0,0,0,0
+529,Bihar,2006,Suicides by Police Personnel,0,1,0,1,0,2
+530,Chandigarh,2006,Suicides by Police Personnel,0,0,0,0,0,0
+531,Chhattisgarh,2006,Suicides by Police Personnel,2,5,3,7,2,19
+532,Dadra & Nagar Haveli,2006,Suicides by Police Personnel,0,0,0,0,0,0
+533,Daman & Diu,2006,Suicides by Police Personnel,0,0,0,0,0,0
+534,Delhi,2006,Suicides by Police Personnel,0,1,5,2,1,9
+535,Goa,2006,Suicides by Police Personnel,0,2,0,0,0,2
+536,Gujarat,2006,Suicides by Police Personnel,0,3,3,2,0,8
+537,Haryana,2006,Suicides by Police Personnel,0,1,3,0,0,4
+538,Himachal Pradesh,2006,Suicides by Police Personnel,0,0,0,0,0,0
+539,Jammu & Kashmir,2006,Suicides by Police Personnel,0,1,0,0,0,1
+540,Jharkhand,2006,Suicides by Police Personnel,0,5,1,7,5,18
+541,Karnataka,2006,Suicides by Police Personnel,1,3,0,1,0,5
+542,Kerala,2006,Suicides by Police Personnel,0,6,4,6,0,16
+543,Lakshadweep,2006,Suicides by Police Personnel,0,0,0,0,0,0
+544,Madhya Pradesh,2006,Suicides by Police Personnel,0,4,3,6,0,13
+545,Maharashtra,2006,Suicides by Police Personnel,1,9,20,15,0,45
+546,Manipur,2006,Suicides by Police Personnel,0,0,1,0,0,1
+547,Meghalaya,2006,Suicides by Police Personnel,0,0,2,0,0,2
+548,Mizoram,2006,Suicides by Police Personnel,0,0,0,0,0,0
+549,Nagaland,2006,Suicides by Police Personnel,0,0,0,0,0,0
+550,Odisha,2006,Suicides by Police Personnel,0,2,0,1,0,3
+551,Puducherry,2006,Suicides by Police Personnel,0,0,1,1,0,2
+552,Punjab,2006,Suicides by Police Personnel,0,0,1,0,0,1
+553,Rajasthan,2006,Suicides by Police Personnel,0,1,1,2,1,5
+554,Sikkim,2006,Suicides by Police Personnel,0,0,0,0,0,0
+555,Tamil Nadu,2006,Suicides by Police Personnel,1,8,7,14,2,32
+556,Tripura,2006,Suicides by Police Personnel,0,0,0,0,1,1
+557,Uttar Pradesh,2006,Suicides by Police Personnel,0,1,1,2,1,5
+558,Uttarakhand,2006,Suicides by Police Personnel,0,0,0,0,0,0
+559,West Bengal,2006,Suicides by Police Personnel,0,1,2,4,2,9
+560,Andaman & Nicobar Islands,2007,Suicides by Police Personnel,0,1,0,0,0,1
+561,Andhra Pradesh,2007,Suicides by Police Personnel,1,2,2,15,4,24
+562,Arunachal Pradesh,2007,Suicides by Police Personnel,0,0,0,0,0,0
+563,Assam,2007,Suicides by Police Personnel,0,0,0,0,0,0
+564,Bihar,2007,Suicides by Police Personnel,0,0,1,2,0,3
+565,Chandigarh,2007,Suicides by Police Personnel,0,0,0,0,0,0
+566,Chhattisgarh,2007,Suicides by Police Personnel,1,0,3,2,0,6
+567,Dadra & Nagar Haveli,2007,Suicides by Police Personnel,0,0,0,0,0,0
+568,Daman & Diu,2007,Suicides by Police Personnel,0,0,0,0,0,0
+569,Delhi,2007,Suicides by Police Personnel,0,1,4,3,0,8
+570,Goa,2007,Suicides by Police Personnel,0,0,0,0,0,0
+571,Gujarat,2007,Suicides by Police Personnel,0,1,4,2,0,7
+572,Haryana,2007,Suicides by Police Personnel,0,0,2,0,0,2
+573,Himachal Pradesh,2007,Suicides by Police Personnel,0,0,0,1,0,1
+574,Jammu & Kashmir,2007,Suicides by Police Personnel,0,1,1,2,0,4
+575,Jharkhand,2007,Suicides by Police Personnel,0,0,0,0,0,0
+576,Karnataka,2007,Suicides by Police Personnel,2,4,5,10,3,24
+577,Kerala,2007,Suicides by Police Personnel,0,0,9,9,0,18
+578,Lakshadweep,2007,Suicides by Police Personnel,0,0,0,0,0,0
+579,Madhya Pradesh,2007,Suicides by Police Personnel,0,1,15,17,5,38
+580,Maharashtra,2007,Suicides by Police Personnel,2,3,25,8,1,39
+581,Manipur,2007,Suicides by Police Personnel,0,0,0,0,0,0
+582,Meghalaya,2007,Suicides by Police Personnel,0,0,1,1,0,2
+583,Mizoram,2007,Suicides by Police Personnel,0,0,0,0,0,0
+584,Nagaland,2007,Suicides by Police Personnel,0,1,1,0,0,2
+585,Odisha,2007,Suicides by Police Personnel,0,0,1,3,0,4
+586,Puducherry,2007,Suicides by Police Personnel,0,1,0,0,0,1
+587,Punjab,2007,Suicides by Police Personnel,0,0,2,0,0,2
+588,Rajasthan,2007,Suicides by Police Personnel,0,0,2,0,0,2
+589,Sikkim,2007,Suicides by Police Personnel,0,3,0,0,0,3
+590,Tamil Nadu,2007,Suicides by Police Personnel,1,7,4,4,0,16
+591,Tripura,2007,Suicides by Police Personnel,0,4,0,0,0,4
+592,Uttar Pradesh,2007,Suicides by Police Personnel,0,0,3,2,2,7
+593,Uttarakhand,2007,Suicides by Police Personnel,0,0,0,0,0,0
+594,West Bengal,2007,Suicides by Police Personnel,0,2,1,3,2,8
+595,Andaman & Nicobar Islands,2008,Suicides by Police Personnel,0,1,1,0,0,2
+596,Andhra Pradesh,2008,Suicides by Police Personnel,0,4,3,3,0,10
+597,Arunachal Pradesh,2008,Suicides by Police Personnel,0,0,0,0,0,0
+598,Assam,2008,Suicides by Police Personnel,0,0,0,0,0,0
+599,Bihar,2008,Suicides by Police Personnel,0,0,0,0,0,0
+600,Chandigarh,2008,Suicides by Police Personnel,0,0,0,0,0,0
+601,Chhattisgarh,2008,Suicides by Police Personnel,1,0,1,0,0,2
+602,Dadra & Nagar Haveli,2008,Suicides by Police Personnel,0,0,0,0,0,0
+603,Daman & Diu,2008,Suicides by Police Personnel,0,0,0,0,0,0
+604,Delhi,2008,Suicides by Police Personnel,1,2,2,0,0,5
+605,Goa,2008,Suicides by Police Personnel,0,0,0,0,0,0
+606,Gujarat,2008,Suicides by Police Personnel,0,1,2,3,0,6
+607,Haryana,2008,Suicides by Police Personnel,0,0,0,1,0,1
+608,Himachal Pradesh,2008,Suicides by Police Personnel,0,0,1,0,0,1
+609,Jammu & Kashmir,2008,Suicides by Police Personnel,0,0,0,0,0,0
+610,Jharkhand,2008,Suicides by Police Personnel,0,1,0,3,0,4
+611,Karnataka,2008,Suicides by Police Personnel,1,1,1,1,0,4
+612,Kerala,2008,Suicides by Police Personnel,0,1,3,10,0,14
+613,Lakshadweep,2008,Suicides by Police Personnel,0,0,0,0,0,0
+614,Madhya Pradesh,2008,Suicides by Police Personnel,0,1,1,6,1,9
+615,Maharashtra,2008,Suicides by Police Personnel,3,6,8,16,3,36
+616,Manipur,2008,Suicides by Police Personnel,0,0,0,0,0,0
+617,Meghalaya,2008,Suicides by Police Personnel,0,0,0,0,0,0
+618,Mizoram,2008,Suicides by Police Personnel,0,0,0,0,0,0
+619,Nagaland,2008,Suicides by Police Personnel,0,0,0,0,0,0
+620,Odisha,2008,Suicides by Police Personnel,0,0,1,1,0,2
+621,Puducherry,2008,Suicides by Police Personnel,0,0,0,0,0,0
+622,Punjab,2008,Suicides by Police Personnel,0,0,2,0,0,2
+623,Rajasthan,2008,Suicides by Police Personnel,1,1,0,0,4,6
+624,Sikkim,2008,Suicides by Police Personnel,0,2,2,0,0,4
+625,Tamil Nadu,2008,Suicides by Police Personnel,0,2,2,7,1,12
+626,Tripura,2008,Suicides by Police Personnel,1,0,0,1,0,2
+627,Uttar Pradesh,2008,Suicides by Police Personnel,0,3,3,2,0,8
+628,Uttarakhand,2008,Suicides by Police Personnel,0,0,0,1,0,1
+629,West Bengal,2008,Suicides by Police Personnel,0,1,4,3,0,8
+630,Andaman & Nicobar Islands,2009,Suicides by Police Personnel,0,1,0,0,1,2
+631,Andhra Pradesh,2009,Suicides by Police Personnel,2,1,4,1,0,8
+632,Arunachal Pradesh,2009,Suicides by Police Personnel,0,0,1,0,0,1
+633,Assam,2009,Suicides by Police Personnel,0,0,0,0,0,0
+634,Bihar,2009,Suicides by Police Personnel,0,0,0,0,0,0
+635,Chandigarh,2009,Suicides by Police Personnel,0,0,0,0,0,0
+636,Chhattisgarh,2009,Suicides by Police Personnel,2,0,2,0,0,4
+637,Dadra & Nagar Haveli,2009,Suicides by Police Personnel,0,0,0,0,0,0
+638,Daman & Diu,2009,Suicides by Police Personnel,0,0,0,0,0,0
+639,Delhi,2009,Suicides by Police Personnel,0,1,3,3,0,7
+640,Goa,2009,Suicides by Police Personnel,0,1,0,0,0,1
+641,Gujarat,2009,Suicides by Police Personnel,0,2,4,3,0,9
+642,Haryana,2009,Suicides by Police Personnel,1,5,4,7,0,17
+643,Himachal Pradesh,2009,Suicides by Police Personnel,0,0,1,0,0,1
+644,Jammu & Kashmir,2009,Suicides by Police Personnel,0,0,0,0,0,0
+645,Jharkhand,2009,Suicides by Police Personnel,0,1,0,0,0,1
+646,Karnataka,2009,Suicides by Police Personnel,0,2,0,2,1,5
+647,Kerala,2009,Suicides by Police Personnel,0,1,4,5,0,10
+648,Lakshadweep,2009,Suicides by Police Personnel,0,0,0,0,0,0
+649,Madhya Pradesh,2009,Suicides by Police Personnel,1,4,7,15,4,31
+650,Maharashtra,2009,Suicides by Police Personnel,1,3,10,9,0,23
+651,Manipur,2009,Suicides by Police Personnel,0,0,0,0,0,0
+652,Meghalaya,2009,Suicides by Police Personnel,0,1,0,0,0,1
+653,Mizoram,2009,Suicides by Police Personnel,0,0,0,0,0,0
+654,Nagaland,2009,Suicides by Police Personnel,0,0,0,0,0,0
+655,Odisha,2009,Suicides by Police Personnel,0,1,0,1,0,2
+656,Puducherry,2009,Suicides by Police Personnel,0,0,0,0,0,0
+657,Punjab,2009,Suicides by Police Personnel,0,0,2,0,0,2
+658,Rajasthan,2009,Suicides by Police Personnel,1,2,1,0,0,4
+659,Sikkim,2009,Suicides by Police Personnel,0,0,0,0,0,0
+660,Tamil Nadu,2009,Suicides by Police Personnel,0,7,3,6,1,17
+661,Tripura,2009,Suicides by Police Personnel,0,0,0,2,0,2
+662,Uttar Pradesh,2009,Suicides by Police Personnel,0,1,0,1,1,3
+663,Uttarakhand,2009,Suicides by Police Personnel,0,1,0,1,0,2
+664,West Bengal,2009,Suicides by Police Personnel,1,1,0,7,0,9
+665,Andaman & Nicobar Islands,2010,Suicides by Police Personnel,0,0,2,0,0,2
+666,Andhra Pradesh,2010,Suicides by Police Personnel,1,1,3,2,0,7
+667,Arunachal Pradesh,2010,Suicides by Police Personnel,0,0,0,0,0,0
+668,Assam,2010,Suicides by Police Personnel,0,0,1,0,0,1
+669,Bihar,2010,Suicides by Police Personnel,0,0,0,0,0,0
+670,Chandigarh,2010,Suicides by Police Personnel,0,0,0,0,0,0
+671,Chhattisgarh,2010,Suicides by Police Personnel,1,2,0,1,0,4
+672,Dadra & Nagar Haveli,2010,Suicides by Police Personnel,0,0,0,0,0,0
+673,Daman & Diu,2010,Suicides by Police Personnel,0,0,0,0,0,0
+674,Delhi,2010,Suicides by Police Personnel,0,0,3,1,0,4
+675,Goa,2010,Suicides by Police Personnel,0,0,0,0,0,0
+676,Gujarat,2010,Suicides by Police Personnel,2,2,3,7,1,15
+677,Haryana,2010,Suicides by Police Personnel,3,4,10,10,1,28
+678,Himachal Pradesh,2010,Suicides by Police Personnel,0,0,0,0,0,0
+679,Jammu & Kashmir,2010,Suicides by Police Personnel,0,0,0,2,1,3
+680,Jharkhand,2010,Suicides by Police Personnel,1,0,3,6,1,11
+681,Karnataka,2010,Suicides by Police Personnel,3,1,3,4,2,13
+682,Kerala,2010,Suicides by Police Personnel,0,1,3,5,0,9
+683,Lakshadweep,2010,Suicides by Police Personnel,0,0,0,0,0,0
+684,Madhya Pradesh,2010,Suicides by Police Personnel,0,1,1,3,0,5
+685,Maharashtra,2010,Suicides by Police Personnel,1,10,6,10,3,30
+686,Manipur,2010,Suicides by Police Personnel,0,0,0,0,0,0
+687,Meghalaya,2010,Suicides by Police Personnel,0,0,0,1,0,1
+688,Mizoram,2010,Suicides by Police Personnel,0,2,0,0,0,2
+689,Nagaland,2010,Suicides by Police Personnel,0,0,0,0,0,0
+690,Odisha,2010,Suicides by Police Personnel,0,0,0,0,0,0
+691,Puducherry,2010,Suicides by Police Personnel,0,0,0,0,0,0
+692,Punjab,2010,Suicides by Police Personnel,0,0,4,6,0,10
+693,Rajasthan,2010,Suicides by Police Personnel,0,2,3,0,0,5
+694,Sikkim,2010,Suicides by Police Personnel,0,0,0,0,0,0
+695,Tamil Nadu,2010,Suicides by Police Personnel,3,7,6,2,1,19
+696,Tripura,2010,Suicides by Police Personnel,0,2,0,1,0,3
+697,Uttar Pradesh,2010,Suicides by Police Personnel,0,2,1,3,0,6
+698,Uttarakhand,2010,Suicides by Police Personnel,0,0,0,0,0,0
+699,West Bengal,2010,Suicides by Police Personnel,0,7,2,1,1,11

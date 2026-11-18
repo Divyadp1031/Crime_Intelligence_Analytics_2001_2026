@@ -1,0 +1,351 @@
+index,Area_Name,Year,Sub_Group_Name,Recidivism_New_Delinquent,Recidivism_Old_Delinquent,Recidivism_Total
+0,Andaman & Nicobar Islands,2001,4. Recidivism,16,0,16
+1,Andhra Pradesh,2001,4. Recidivism,1392,173,1565
+2,Arunachal Pradesh,2001,4. Recidivism,130,7,137
+3,Assam,2001,4. Recidivism,248,5,253
+4,Bihar,2001,4. Recidivism,576,10,586
+5,Chandigarh,2001,4. Recidivism,71,0,71
+6,Chhattisgarh,2001,4. Recidivism,1210,152,1362
+7,Dadra & Nagar Haveli,2001,4. Recidivism,2,0,2
+8,Daman & Diu,2001,4. Recidivism,2,0,2
+9,Delhi,2001,4. Recidivism,835,23,858
+10,Goa,2001,4. Recidivism,93,0,93
+11,Gujarat,2001,4. Recidivism,4082,288,4370
+12,Haryana,2001,4. Recidivism,1955,60,2015
+13,Himachal Pradesh,2001,4. Recidivism,116,26,142
+14,Jammu & Kashmir,2001,4. Recidivism,2,0,2
+15,Jharkhand,2001,4. Recidivism,213,85,298
+16,Karnataka,2001,4. Recidivism,786,57,843
+17,Kerala,2001,4. Recidivism,132,0,132
+18,Lakshadweep,2001,4. Recidivism,1,0,1
+19,Madhya Pradesh,2001,4. Recidivism,3816,3512,7328
+20,Maharashtra,2001,4. Recidivism,4778,212,4990
+21,Manipur,2001,4. Recidivism,0,0,0
+22,Meghalaya,2001,4. Recidivism,59,7,66
+23,Mizoram,2001,4. Recidivism,39,10,49
+24,Nagaland,2001,4. Recidivism,12,14,26
+25,Odisha,2001,4. Recidivism,208,4,212
+26,Puducherry,2001,4. Recidivism,3,0,3
+27,Punjab,2001,4. Recidivism,20,9,29
+28,Rajasthan,2001,4. Recidivism,3087,158,3245
+29,Sikkim,2001,4. Recidivism,17,0,17
+30,Tamil Nadu,2001,4. Recidivism,4444,111,4555
+31,Tripura,2001,4. Recidivism,8,12,20
+32,Uttar Pradesh,2001,4. Recidivism,256,0,256
+33,Uttarakhand,2001,4. Recidivism,57,0,57
+34,West Bengal,2001,4. Recidivism,27,0,27
+35,Andaman & Nicobar Islands,2002,4. Recidivism,6,0,6
+36,Andhra Pradesh,2002,4. Recidivism,1676,408,2084
+37,Arunachal Pradesh,2002,4. Recidivism,132,0,132
+38,Assam,2002,4. Recidivism,296,36,332
+39,Bihar,2002,4. Recidivism,647,13,660
+40,Chandigarh,2002,4. Recidivism,75,0,75
+41,Chhattisgarh,2002,4. Recidivism,1208,199,1407
+42,Dadra & Nagar Haveli,2002,4. Recidivism,0,0,0
+43,Daman & Diu,2002,4. Recidivism,0,0,0
+44,Delhi,2002,4. Recidivism,1146,46,1192
+45,Goa,2002,4. Recidivism,67,1,68
+46,Gujarat,2002,4. Recidivism,3109,226,3335
+47,Haryana,2002,4. Recidivism,2421,90,2511
+48,Himachal Pradesh,2002,4. Recidivism,120,1,121
+49,Jammu & Kashmir,2002,4. Recidivism,3,0,3
+50,Jharkhand,2002,4. Recidivism,510,236,746
+51,Karnataka,2002,4. Recidivism,258,19,277
+52,Kerala,2002,4. Recidivism,230,4,234
+53,Lakshadweep,2002,4. Recidivism,0,0,0
+54,Madhya Pradesh,2002,4. Recidivism,6657,1879,8536
+55,Maharashtra,2002,4. Recidivism,5063,316,5379
+56,Manipur,2002,4. Recidivism,0,0,0
+57,Meghalaya,2002,4. Recidivism,62,6,68
+58,Mizoram,2002,4. Recidivism,42,18,60
+59,Nagaland,2002,4. Recidivism,12,2,14
+60,Odisha,2002,4. Recidivism,189,3,192
+61,Puducherry,2002,4. Recidivism,16,0,16
+62,Punjab,2002,4. Recidivism,155,1,156
+63,Rajasthan,2002,4. Recidivism,1852,85,1937
+64,Sikkim,2002,4. Recidivism,2,0,2
+65,Tamil Nadu,2002,4. Recidivism,5763,319,6082
+66,Tripura,2002,4. Recidivism,7,0,7
+67,Uttar Pradesh,2002,4. Recidivism,96,0,96
+68,Uttarakhand,2002,4. Recidivism,34,0,34
+69,West Bengal,2002,4. Recidivism,17,0,17
+70,Andaman & Nicobar Islands,2003,4. Recidivism,9,0,9
+71,Andhra Pradesh,2003,4. Recidivism,2376,297,2673
+72,Arunachal Pradesh,2003,4. Recidivism,173,23,196
+73,Assam,2003,4. Recidivism,327,51,378
+74,Bihar,2003,4. Recidivism,273,19,292
+75,Chandigarh,2003,4. Recidivism,116,0,116
+76,Chhattisgarh,2003,4. Recidivism,1533,69,1602
+77,Dadra & Nagar Haveli,2003,4. Recidivism,2,0,2
+78,Daman & Diu,2003,4. Recidivism,2,0,2
+79,Delhi,2003,4. Recidivism,737,65,802
+80,Goa,2003,4. Recidivism,77,10,87
+81,Gujarat,2003,4. Recidivism,2313,404,2717
+82,Haryana,2003,4. Recidivism,2012,14,2026
+83,Himachal Pradesh,2003,4. Recidivism,109,15,124
+84,Jammu & Kashmir,2003,4. Recidivism,18,0,18
+85,Jharkhand,2003,4. Recidivism,375,446,821
+86,Karnataka,2003,4. Recidivism,349,9,358
+87,Kerala,2003,4. Recidivism,749,15,764
+88,Lakshadweep,2003,4. Recidivism,0,0,0
+89,Madhya Pradesh,2003,4. Recidivism,7167,505,7672
+90,Maharashtra,2003,4. Recidivism,4674,396,5070
+91,Manipur,2003,4. Recidivism,0,0,0
+92,Meghalaya,2003,4. Recidivism,29,6,35
+93,Mizoram,2003,4. Recidivism,78,4,82
+94,Nagaland,2003,4. Recidivism,1,0,1
+95,Odisha,2003,4. Recidivism,310,3,313
+96,Puducherry,2003,4. Recidivism,40,0,40
+97,Punjab,2003,4. Recidivism,83,49,132
+98,Rajasthan,2003,4. Recidivism,1699,163,1862
+99,Sikkim,2003,4. Recidivism,17,0,17
+100,Tamil Nadu,2003,4. Recidivism,4804,91,4895
+101,Tripura,2003,4. Recidivism,0,0,0
+102,Uttar Pradesh,2003,4. Recidivism,60,1,61
+103,Uttarakhand,2003,4. Recidivism,30,0,30
+104,West Bengal,2003,4. Recidivism,123,0,123
+105,Andaman & Nicobar Islands,2004,4. Recidivism,13,0,13
+106,Andhra Pradesh,2004,4. Recidivism,1729,467,2196
+107,Arunachal Pradesh,2004,4. Recidivism,89,2,91
+108,Assam,2004,4. Recidivism,235,96,331
+109,Bihar,2004,4. Recidivism,219,17,236
+110,Chandigarh,2004,4. Recidivism,109,0,109
+111,Chhattisgarh,2004,4. Recidivism,1771,231,2002
+112,Dadra & Nagar Haveli,2004,4. Recidivism,4,0,4
+113,Daman & Diu,2004,4. Recidivism,0,0,0
+114,Delhi,2004,4. Recidivism,830,79,909
+115,Goa,2004,4. Recidivism,68,6,74
+116,Gujarat,2004,4. Recidivism,2363,326,2689
+117,Haryana,2004,4. Recidivism,1665,12,1677
+118,Himachal Pradesh,2004,4. Recidivism,117,0,117
+119,Jammu & Kashmir,2004,4. Recidivism,11,0,11
+120,Jharkhand,2004,4. Recidivism,381,441,822
+121,Karnataka,2004,4. Recidivism,439,1,440
+122,Kerala,2004,4. Recidivism,366,16,382
+123,Lakshadweep,2004,4. Recidivism,0,0,0
+124,Madhya Pradesh,2004,4. Recidivism,6974,459,7433
+125,Maharashtra,2004,4. Recidivism,5285,211,5496
+126,Manipur,2004,4. Recidivism,0,0,0
+127,Meghalaya,2004,4. Recidivism,52,3,55
+128,Mizoram,2004,4. Recidivism,689,129,818
+129,Nagaland,2004,4. Recidivism,3,0,3
+130,Odisha,2004,4. Recidivism,355,4,359
+131,Puducherry,2004,4. Recidivism,55,0,55
+132,Punjab,2004,4. Recidivism,96,0,96
+133,Rajasthan,2004,4. Recidivism,1798,77,1875
+134,Sikkim,2004,4. Recidivism,13,0,13
+135,Tamil Nadu,2004,4. Recidivism,2223,150,2373
+136,Tripura,2004,4. Recidivism,0,0,0
+137,Uttar Pradesh,2004,4. Recidivism,125,10,135
+138,Uttarakhand,2004,4. Recidivism,36,0,36
+139,West Bengal,2004,4. Recidivism,89,4,93
+140,Andaman & Nicobar Islands,2005,4. Recidivism,10,0,10
+141,Andhra Pradesh,2005,4. Recidivism,2013,415,2428
+142,Arunachal Pradesh,2005,4. Recidivism,122,25,147
+143,Assam,2005,4. Recidivism,293,80,373
+144,Bihar,2005,4. Recidivism,325,12,337
+145,Chandigarh,2005,4. Recidivism,116,0,116
+146,Chhattisgarh,2005,4. Recidivism,2765,372,3137
+147,Dadra & Nagar Haveli,2005,4. Recidivism,19,0,19
+148,Daman & Diu,2005,4. Recidivism,1,0,1
+149,Delhi,2005,4. Recidivism,1208,42,1250
+150,Goa,2005,4. Recidivism,64,2,66
+151,Gujarat,2005,4. Recidivism,2404,344,2748
+152,Haryana,2005,4. Recidivism,1601,22,1623
+153,Himachal Pradesh,2005,4. Recidivism,194,0,194
+154,Jammu & Kashmir,2005,4. Recidivism,7,0,7
+155,Jharkhand,2005,4. Recidivism,499,561,1060
+156,Karnataka,2005,4. Recidivism,235,7,242
+157,Kerala,2005,4. Recidivism,462,2,464
+158,Lakshadweep,2005,4. Recidivism,1,0,1
+159,Madhya Pradesh,2005,4. Recidivism,5673,705,6378
+160,Maharashtra,2005,4. Recidivism,6065,238,6303
+161,Manipur,2005,4. Recidivism,0,0,0
+162,Meghalaya,2005,4. Recidivism,89,18,107
+163,Mizoram,2005,4. Recidivism,251,162,413
+164,Nagaland,2005,4. Recidivism,3,0,3
+165,Odisha,2005,4. Recidivism,549,106,655
+166,Puducherry,2005,4. Recidivism,42,0,42
+167,Punjab,2005,4. Recidivism,135,0,135
+168,Rajasthan,2005,4. Recidivism,1867,91,1958
+169,Sikkim,2005,4. Recidivism,24,0,24
+170,Tamil Nadu,2005,4. Recidivism,2009,139,2148
+171,Tripura,2005,4. Recidivism,0,0,0
+172,Uttar Pradesh,2005,4. Recidivism,115,0,115
+173,Uttarakhand,2005,4. Recidivism,37,2,39
+174,West Bengal,2005,4. Recidivism,133,5,138
+175,Andaman & Nicobar Islands,2006,4. Recidivism,88,3,91
+176,Andhra Pradesh,2006,4. Recidivism,1553,326,1879
+177,Arunachal Pradesh,2006,4. Recidivism,80,0,80
+178,Assam,2006,4. Recidivism,489,50,539
+179,Bihar,2006,4. Recidivism,226,13,239
+180,Chandigarh,2006,4. Recidivism,102,5,107
+181,Chhattisgarh,2006,4. Recidivism,1891,162,2053
+182,Dadra & Nagar Haveli,2006,4. Recidivism,8,1,9
+183,Daman & Diu,2006,4. Recidivism,5,0,5
+184,Delhi,2006,4. Recidivism,1111,402,1513
+185,Goa,2006,4. Recidivism,67,1,68
+186,Gujarat,2006,4. Recidivism,2405,402,2807
+187,Haryana,2006,4. Recidivism,1711,1,1712
+188,Himachal Pradesh,2006,4. Recidivism,128,0,128
+189,Jammu & Kashmir,2006,4. Recidivism,8,0,8
+190,Jharkhand,2006,4. Recidivism,722,140,862
+191,Karnataka,2006,4. Recidivism,600,59,659
+192,Kerala,2006,4. Recidivism,436,8,444
+193,Lakshadweep,2006,4. Recidivism,0,0,0
+194,Madhya Pradesh,2006,4. Recidivism,6401,413,6814
+195,Maharashtra,2006,4. Recidivism,6396,262,6658
+196,Manipur,2006,4. Recidivism,0,0,0
+197,Meghalaya,2006,4. Recidivism,58,0,58
+198,Mizoram,2006,4. Recidivism,65,24,89
+199,Nagaland,2006,4. Recidivism,3,0,3
+200,Odisha,2006,4. Recidivism,622,5,627
+201,Puducherry,2006,4. Recidivism,37,0,37
+202,Punjab,2006,4. Recidivism,159,0,159
+203,Rajasthan,2006,4. Recidivism,2029,57,2086
+204,Sikkim,2006,4. Recidivism,35,0,35
+205,Tamil Nadu,2006,4. Recidivism,1795,179,1974
+206,Tripura,2006,4. Recidivism,0,0,0
+207,Uttar Pradesh,2006,4. Recidivism,172,0,172
+208,Uttarakhand,2006,4. Recidivism,75,31,106
+209,West Bengal,2006,4. Recidivism,123,1,124
+210,Andaman & Nicobar Islands,2007,4. Recidivism,73,2,75
+211,Andhra Pradesh,2007,4. Recidivism,1656,297,1953
+212,Arunachal Pradesh,2007,4. Recidivism,105,0,105
+213,Assam,2007,4. Recidivism,803,352,1155
+214,Bihar,2007,4. Recidivism,1394,75,1469
+215,Chandigarh,2007,4. Recidivism,118,0,118
+216,Chhattisgarh,2007,4. Recidivism,1811,216,2027
+217,Dadra & Nagar Haveli,2007,4. Recidivism,0,11,11
+218,Daman & Diu,2007,4. Recidivism,8,6,14
+219,Delhi,2007,4. Recidivism,811,159,970
+220,Goa,2007,4. Recidivism,77,0,77
+221,Gujarat,2007,4. Recidivism,2528,350,2878
+222,Haryana,2007,4. Recidivism,1828,12,1840
+223,Himachal Pradesh,2007,4. Recidivism,145,0,145
+224,Jammu & Kashmir,2007,4. Recidivism,15,0,15
+225,Jharkhand,2007,4. Recidivism,430,79,509
+226,Karnataka,2007,4. Recidivism,571,46,617
+227,Kerala,2007,4. Recidivism,643,32,675
+228,Lakshadweep,2007,4. Recidivism,0,0,0
+229,Madhya Pradesh,2007,4. Recidivism,6711,639,7350
+230,Maharashtra,2007,4. Recidivism,6420,416,6836
+231,Manipur,2007,4. Recidivism,0,0,0
+232,Meghalaya,2007,4. Recidivism,87,19,106
+233,Mizoram,2007,4. Recidivism,52,39,91
+234,Nagaland,2007,4. Recidivism,0,0,0
+235,Odisha,2007,4. Recidivism,654,4,658
+236,Puducherry,2007,4. Recidivism,62,0,62
+237,Punjab,2007,4. Recidivism,129,0,129
+238,Rajasthan,2007,4. Recidivism,2015,109,2124
+239,Sikkim,2007,4. Recidivism,94,0,94
+240,Tamil Nadu,2007,4. Recidivism,1661,60,1721
+241,Tripura,2007,4. Recidivism,2,0,2
+242,Uttar Pradesh,2007,4. Recidivism,424,3,427
+243,Uttarakhand,2007,4. Recidivism,124,5,129
+244,West Bengal,2007,4. Recidivism,140,5,145
+245,Andaman & Nicobar Islands,2008,4. Recidivism,51,4,55
+246,Andhra Pradesh,2008,4. Recidivism,1436,186,1622
+247,Arunachal Pradesh,2008,4. Recidivism,85,0,85
+248,Assam,2008,4. Recidivism,249,395,644
+249,Bihar,2008,4. Recidivism,1164,80,1244
+250,Chandigarh,2008,4. Recidivism,152,10,162
+251,Chhattisgarh,2008,4. Recidivism,2279,767,3046
+252,Dadra & Nagar Haveli,2008,4. Recidivism,22,0,22
+253,Daman & Diu,2008,4. Recidivism,11,0,11
+254,Delhi,2008,4. Recidivism,465,58,523
+255,Goa,2008,4. Recidivism,67,0,67
+256,Gujarat,2008,4. Recidivism,2220,479,2699
+257,Haryana,2008,4. Recidivism,1774,25,1799
+258,Himachal Pradesh,2008,4. Recidivism,163,0,163
+259,Jammu & Kashmir,2008,4. Recidivism,12,0,12
+260,Jharkhand,2008,4. Recidivism,522,27,549
+261,Karnataka,2008,4. Recidivism,360,155,515
+262,Kerala,2008,4. Recidivism,760,16,776
+263,Lakshadweep,2008,4. Recidivism,0,0,0
+264,Madhya Pradesh,2008,4. Recidivism,6367,741,7108
+265,Maharashtra,2008,4. Recidivism,6706,313,7019
+266,Manipur,2008,4. Recidivism,0,0,0
+267,Meghalaya,2008,4. Recidivism,134,5,139
+268,Mizoram,2008,4. Recidivism,68,2,70
+269,Nagaland,2008,4. Recidivism,0,0,0
+270,Odisha,2008,4. Recidivism,668,105,773
+271,Puducherry,2008,4. Recidivism,54,1,55
+272,Punjab,2008,4. Recidivism,113,0,113
+273,Rajasthan,2008,4. Recidivism,2268,84,2352
+274,Sikkim,2008,4. Recidivism,36,1,37
+275,Tamil Nadu,2008,4. Recidivism,1532,61,1593
+276,Tripura,2008,4. Recidivism,43,0,43
+277,Uttar Pradesh,2008,4. Recidivism,347,0,347
+278,Uttarakhand,2008,4. Recidivism,157,0,157
+279,West Bengal,2008,4. Recidivism,648,59,707
+280,Andaman & Nicobar Islands,2009,4. Recidivism,33,5,38
+281,Andhra Pradesh,2009,4. Recidivism,1424,141,1565
+282,Arunachal Pradesh,2009,4. Recidivism,139,0,139
+283,Assam,2009,4. Recidivism,518,45,563
+284,Bihar,2009,4. Recidivism,892,174,1066
+285,Chandigarh,2009,4. Recidivism,122,13,135
+286,Chhattisgarh,2009,4. Recidivism,2425,687,3112
+287,Dadra & Nagar Haveli,2009,4. Recidivism,9,17,26
+288,Daman & Diu,2009,4. Recidivism,3,0,3
+289,Delhi,2009,4. Recidivism,518,68,586
+290,Goa,2009,4. Recidivism,75,1,76
+291,Gujarat,2009,4. Recidivism,1989,477,2466
+292,Haryana,2009,4. Recidivism,1328,46,1374
+293,Himachal Pradesh,2009,4. Recidivism,170,0,170
+294,Jammu & Kashmir,2009,4. Recidivism,11,0,11
+295,Jharkhand,2009,4. Recidivism,549,239,788
+296,Karnataka,2009,4. Recidivism,251,31,282
+297,Kerala,2009,4. Recidivism,682,25,707
+298,Lakshadweep,2009,4. Recidivism,0,0,0
+299,Madhya Pradesh,2009,4. Recidivism,5404,782,6186
+300,Maharashtra,2009,4. Recidivism,6432,540,6972
+301,Manipur,2009,4. Recidivism,0,0,0
+302,Meghalaya,2009,4. Recidivism,85,3,88
+303,Mizoram,2009,4. Recidivism,20,0,20
+304,Nagaland,2009,4. Recidivism,20,0,20
+305,Odisha,2009,4. Recidivism,471,12,483
+306,Puducherry,2009,4. Recidivism,79,2,81
+307,Punjab,2009,4. Recidivism,225,8,233
+308,Rajasthan,2009,4. Recidivism,2354,102,2456
+309,Sikkim,2009,4. Recidivism,60,0,60
+310,Tamil Nadu,2009,4. Recidivism,2658,263,2921
+311,Tripura,2009,4. Recidivism,91,0,91
+312,Uttar Pradesh,2009,4. Recidivism,475,0,475
+313,Uttarakhand,2009,4. Recidivism,249,5,254
+314,West Bengal,2009,4. Recidivism,173,22,195
+315,Andaman & Nicobar Islands,2010,4. Recidivism,23,3,26
+316,Andhra Pradesh,2010,4. Recidivism,1655,294,1949
+317,Arunachal Pradesh,2010,4. Recidivism,81,0,81
+318,Assam,2010,4. Recidivism,219,166,385
+319,Bihar,2010,4. Recidivism,611,131,742
+320,Chandigarh,2010,4. Recidivism,161,7,168
+321,Chhattisgarh,2010,4. Recidivism,2026,330,2356
+322,Dadra & Nagar Haveli,2010,4. Recidivism,19,0,19
+323,Daman & Diu,2010,4. Recidivism,10,0,10
+324,Delhi,2010,4. Recidivism,580,47,627
+325,Goa,2010,4. Recidivism,74,3,77
+326,Gujarat,2010,4. Recidivism,1763,358,2121
+327,Haryana,2010,4. Recidivism,863,44,907
+328,Himachal Pradesh,2010,4. Recidivism,218,0,218
+329,Jammu & Kashmir,2010,4. Recidivism,27,0,27
+330,Jharkhand,2010,4. Recidivism,98,6,104
+331,Karnataka,2010,4. Recidivism,194,10,204
+332,Kerala,2010,4. Recidivism,794,32,826
+333,Lakshadweep,2010,4. Recidivism,0,0,0
+334,Madhya Pradesh,2010,4. Recidivism,4849,1600,6449
+335,Maharashtra,2010,4. Recidivism,6120,268,6388
+336,Manipur,2010,4. Recidivism,0,0,0
+337,Meghalaya,2010,4. Recidivism,106,12,118
+338,Mizoram,2010,4. Recidivism,106,10,116
+339,Nagaland,2010,4. Recidivism,53,0,53
+340,Odisha,2010,4. Recidivism,536,8,544
+341,Puducherry,2010,4. Recidivism,49,0,49
+342,Punjab,2010,4. Recidivism,241,5,246
+343,Rajasthan,2010,4. Recidivism,2174,204,2378
+344,Sikkim,2010,4. Recidivism,78,4,82
+345,Tamil Nadu,2010,4. Recidivism,1522,122,1644
+346,Tripura,2010,4. Recidivism,46,0,46
+347,Uttar Pradesh,2010,4. Recidivism,852,0,852
+348,Uttarakhand,2010,4. Recidivism,154,0,154
+349,West Bengal,2010,4. Recidivism,327,10,337

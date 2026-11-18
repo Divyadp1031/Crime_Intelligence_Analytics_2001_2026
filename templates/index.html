@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CrimeLens | India Crime Analytics &amp; Forecasting</title>
+
+  <!-- Google Fonts & Chart.js -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <!-- ========================================================================= -->
+  <!-- Sidebar Navigation                                                        -->
+  <!-- ========================================================================= -->
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brand-mark">C</span>
+      <div>
+        <b>CrimeLens</b>
+        <small>INDIA INTELLIGENCE</small>
+      </div>
+    </div>
+
+    <div class="nav-label">WORKSPACE</div>
+    <nav class="nav-links">
+      <a class="nav active" href="#overview">▦ &nbsp; Overview</a>
+      <a class="nav" href="#trends">⌁ &nbsp; Yearly trends</a>
+      <a class="nav" href="#forecast">◷ &nbsp; Forecasting</a>
+      <a class="nav" href="#places">⌖ &nbsp; State &amp; district ranking</a>
+    </nav>
+
+    <div class="side-note">
+      <b>Data coverage</b>
+      <span id="coverage">Loading NCRB records…</span>
+      <small>Annual district-level records</small>
+    </div>
+  </aside>
+
+  <!-- ========================================================================= -->
+  <!-- Main Content Dashboard                                                    -->
+  <!-- ========================================================================= -->
+  <main class="main">
+    <!-- Topbar Header -->
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">SPATIO-TEMPORAL CRIME INTELLIGENCE</div>
+        <h1>Crime Analytics Overview</h1>
+        <p>Understand historical patterns, identify YoY shifts, and explore projected crime trajectories.</p>
+      </div>
+      <div class="source-pill">
+        <i></i> NCRB Historical Data
+      </div>
+    </header>
+
+
+    <!-- Filter Controls -->
+    <section class="filters" aria-label="Dashboard Filters">
+      <div>
+        <label for="state">Geography</label>
+        <select id="state"></select>
+      </div>
+      <div>
+        <label for="district">District</label>
+        <select id="district">
+          <option>All districts</option>
+        </select>
+      </div>
+      <div>
+        <label for="category">Crime category</label>
+        <select id="category">
+          <option value="total">Total IPC crimes</option>
+          <option value="murder">Murder</option>
+          <option value="rape">Rape</option>
+          <option value="theft">Theft</option>
+          <option value="robbery">Robbery</option>
+          <option value="riots">Riots</option>
+        </select>
+      </div>
+      <div>
+        <label for="horizon">Forecast horizon</label>
+        <select id="horizon">
+          <option value="3">Next 3 years</option>
+          <option value="5" selected>Next 5 years</option>
+        </select>
+      </div>
+      <button id="apply" type="button">Update analysis ↗</button>
+    </section>
+
+    <!-- KPI Summary Section -->
+    <section id="overview" class="kpis" aria-label="Key Performance Indicators">
+      <article class="kpi">
+        <span>Total recorded crimes</span>
+        <strong id="totalCrimes">—</strong>
+        <small>Across selected geography and available years</small>
+      </article>
+      <article class="kpi">
+        <span>Years covered</span>
+        <strong id="yearRange">—</strong>
+        <small id="recordCount">Historical observations</small>
+      </article>
+      <article class="kpi">
+        <span>States / UTs</span>
+        <strong id="stateCount">—</strong>
+        <small>In current selection</small>
+      </article>
+      <article class="kpi">
+        <span>Districts</span>
+        <strong id="districtCount">—</strong>
+        <small>In current selection</small>
+      </article>
+    </section>
+
+    <!-- Visualizations: Yearly Trends & Category Breakdown -->
+    <section id="trends" class="grid-two">
+      <!-- Yearly Trend Chart Panel -->
+      <article class="panel">
+        <div class="panel-head">
+          <div>
+            <h2>How crime changes over time</h2>
+            <p>Annual recorded crime count for the selected category</p>
+          </div>
+          <span class="tag">YEARLY TREND</span>
+        </div>
+        <div class="chart-wrap">
+          <canvas id="trendChart"></canvas>
+        </div>
+        <div class="insight" id="trendInsight">Loading yearly trend…</div>
+      </article>
+
+      <!-- Category Breakdown Chart Panel -->
+      <article class="panel">
+        <div class="panel-head">
+          <div>
+            <h2>Crime category comparison</h2>
+            <p>Recorded cases by category</p>
+          </div>
+          <span class="tag">CATEGORY MIX</span>
+        </div>
+        <div class="chart-wrap">
+          <canvas id="categoryChart"></canvas>
+        </div>
+        <div class="hint">Select a geography above to compare its crime categories.</div>
+      </article>
+    </section>
+
+    <!-- Machine Learning Forecast Section -->
+    <section id="forecast" class="panel forecast-panel">
+      <div class="panel-head">
+        <div>
+          <h2>Future crime trend estimate</h2>
+          <p>Historical observations compared with a linear trend projection</p>
+        </div>
+        <span class="tag purple">MACHINE LEARNING</span>
+      </div>
+      <div class="forecast-meta">
+        <div>
+          <span>Trend direction</span>
+          <b id="direction">—</b>
+        </div>
+        <div>
+          <span>Estimated annual change</span>
+          <b id="annualChange">—</b>
+        </div>
+        <div>
+          <span>Holdout MAE</span>
+          <b id="mae">—</b>
+        </div>
+        <div>
+          <span>Holdout RMSE</span>
+          <b id="rmse">—</b>
+        </div>
+      </div>
+      <div class="chart-wrap forecast-chart">
+        <canvas id="forecastChart"></canvas>
+      </div>
+      <p class="disclaimer" id="forecastNote">Forecast results are estimates, not guaranteed outcomes.</p>
+    </section>
+
+    <!-- Ranking Section -->
+    <section id="places" class="panel">
+      <div class="panel-head">
+        <div>
+          <h2>Where are recorded crime counts highest?</h2>
+          <p>Top states or districts for the selected year</p>
+        </div>
+        <select id="rankingYear" class="small-select">
+          <option value="all">All available years</option>
+        </select>
+      </div>
+      <div class="rank-list" id="rankList"></div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      CrimeLens · Decision-support analytics only. Recorded crime counts are not population-adjusted crime rates.
+      Forecasts should not be treated as certainty or as a substitute for professional judgment.
+    </footer>
+  </main>
+
+  <!-- Application Script -->
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

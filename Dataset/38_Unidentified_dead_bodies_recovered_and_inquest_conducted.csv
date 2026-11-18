@@ -1,0 +1,315 @@
+index,Area_Name,Year,Unidentified_Dead_bodies_Recovered_Inquest_Conducted
+0,Andhra Pradesh,2001,5290
+1,Arunachal Pradesh,2001,0
+2,Assam,2001,14
+3,Bihar,2001,1438
+4,Chandigarh,2001,18
+5,Chhattisgarh,2001,114
+6,Delhi,2001,2072
+7,Goa,2001,181
+8,Gujarat,2001,1112
+9,Haryana,2001,470
+10,Himachal Pradesh,2001,74
+11,Jammu & Kashmir,2001,405
+12,Jharkhand,2001,200
+13,Karnataka,2001,2227
+14,Kerala,2001,183
+15,Madhya Pradesh,2001,509
+16,Maharashtra,2001,8230
+17,Meghalaya,2001,15
+18,Nagaland,2001,3
+19,Odisha,2001,296
+20,Puducherry,2001,78
+21,Punjab,2001,1586
+22,Rajasthan,2001,699
+23,Tamil Nadu,2001,1145
+24,Tripura,2001,7
+25,Uttar Pradesh,2001,5310
+26,Uttarakhand,2001,169
+27,West Bengal,2001,3609
+28,Andhra Pradesh,2002,4097
+29,Arunachal Pradesh,2002,10
+30,Assam,2002,102
+31,Bihar,2002,1753
+32,Chandigarh,2002,20
+33,Chhattisgarh,2002,77
+34,Daman & Diu,2002,17
+35,Delhi,2002,3047
+36,Goa,2002,192
+37,Gujarat,2002,1098
+38,Haryana,2002,266
+39,Himachal Pradesh,2002,70
+40,Jammu & Kashmir,2002,367
+41,Jharkhand,2002,38
+42,Karnataka,2002,2050
+43,Kerala,2002,121
+44,Madhya Pradesh,2002,905
+45,Maharashtra,2002,12841
+46,Meghalaya,2002,21
+47,Nagaland,2002,0
+48,Odisha,2002,27
+49,Puducherry,2002,63
+50,Punjab,2002,1187
+51,Rajasthan,2002,897
+52,Tamil Nadu,2002,708
+53,Tripura,2002,3
+54,Uttar Pradesh,2002,4081
+55,Uttarakhand,2002,167
+56,West Bengal,2002,3474
+57,Andaman & Nicobar Islands,2003,0
+58,Andhra Pradesh,2003,4427
+59,Arunachal Pradesh,2003,6
+60,Assam,2003,132
+61,Bihar,2003,1275
+62,Chandigarh,2003,18
+63,Chhattisgarh,2003,109
+64,Dadra & Nagar Haveli,2003,5
+65,Daman & Diu,2003,22
+66,Delhi,2003,2894
+67,Goa,2003,188
+68,Gujarat,2003,1143
+69,Haryana,2003,507
+70,Himachal Pradesh,2003,157
+71,Jammu & Kashmir,2003,276
+72,Jharkhand,2003,42
+73,Karnataka,2003,2538
+74,Kerala,2003,87
+75,Madhya Pradesh,2003,959
+76,Maharashtra,2003,6790
+77,Meghalaya,2003,34
+78,Nagaland,2003,0
+79,Odisha,2003,350
+80,Puducherry,2003,52
+81,Punjab,2003,692
+82,Rajasthan,2003,630
+83,Sikkim,2003,41
+84,Tamil Nadu,2003,1719
+85,Tripura,2003,7
+86,Uttar Pradesh,2003,4327
+87,Uttarakhand,2003,282
+88,West Bengal,2003,3947
+89,Andhra Pradesh,2004,3944
+90,Arunachal Pradesh,2004,1
+91,Assam,2004,29
+92,Bihar,2004,1325
+93,Chandigarh,2004,24
+94,Chhattisgarh,2004,94
+95,Dadra & Nagar Haveli,2004,1
+96,Daman & Diu,2004,15
+97,Delhi,2004,2439
+98,Goa,2004,201
+99,Gujarat,2004,1188
+100,Haryana,2004,599
+101,Himachal Pradesh,2004,70
+102,Jammu & Kashmir,2004,199
+103,Jharkhand,2004,36
+104,Karnataka,2004,2673
+105,Kerala,2004,184
+106,Madhya Pradesh,2004,960
+107,Maharashtra,2004,8497
+108,Manipur,2004,1
+109,Meghalaya,2004,20
+110,Mizoram,2004,0
+111,Nagaland,2004,0
+112,Odisha,2004,134
+113,Puducherry,2004,83
+114,Punjab,2004,900
+115,Rajasthan,2004,987
+116,Sikkim,2004,17
+117,Tamil Nadu,2004,2071
+118,Uttar Pradesh,2004,3804
+119,Uttarakhand,2004,232
+120,West Bengal,2004,6578
+121,Andhra Pradesh,2005,6461
+122,Arunachal Pradesh,2005,13
+123,Assam,2005,121
+124,Bihar,2005,1902
+125,Chandigarh,2005,25
+126,Chhattisgarh,2005,105
+127,Dadra & Nagar Haveli,2005,1
+128,Daman & Diu,2005,15
+129,Delhi,2005,1996
+130,Goa,2005,185
+131,Gujarat,2005,1619
+132,Haryana,2005,602
+133,Himachal Pradesh,2005,170
+134,Jammu & Kashmir,2005,114
+135,Karnataka,2005,2387
+136,Kerala,2005,430
+137,Madhya Pradesh,2005,923
+138,Maharashtra,2005,6800
+139,Manipur,2005,2
+140,Meghalaya,2005,115
+141,Mizoram,2005,0
+142,Nagaland,2005,1
+143,Odisha,2005,129
+144,Puducherry,2005,104
+145,Punjab,2005,475
+146,Rajasthan,2005,1094
+147,Sikkim,2005,11
+148,Tamil Nadu,2005,5125
+149,Uttar Pradesh,2005,3580
+150,Uttarakhand,2005,234
+151,West Bengal,2005,4418
+152,Andhra Pradesh,2006,5417
+153,Arunachal Pradesh,2006,9
+154,Assam,2006,137
+155,Bihar,2006,1743
+156,Chandigarh,2006,22
+157,Chhattisgarh,2006,154
+158,Dadra & Nagar Haveli,2006,4
+159,Daman & Diu,2006,18
+160,Delhi,2006,2092
+161,Goa,2006,204
+162,Gujarat,2006,1749
+163,Haryana,2006,828
+164,Himachal Pradesh,2006,103
+165,Jammu & Kashmir,2006,128
+166,Jharkhand,2006,108
+167,Karnataka,2006,2913
+168,Kerala,2006,462
+169,Madhya Pradesh,2006,1172
+170,Maharashtra,2006,5973
+171,Manipur,2006,16
+172,Meghalaya,2006,22
+173,Mizoram,2006,0
+174,Nagaland,2006,3
+175,Odisha,2006,120
+176,Puducherry,2006,91
+177,Punjab,2006,840
+178,Rajasthan,2006,1105
+179,Sikkim,2006,22
+180,Tamil Nadu,2006,2045
+181,Uttar Pradesh,2006,3447
+182,Uttarakhand,2006,253
+183,West Bengal,2006,4931
+184,Andhra Pradesh,2007,4088
+185,Arunachal Pradesh,2007,3
+186,Assam,2007,38
+187,Bihar,2007,1115
+188,Chandigarh,2007,182
+189,Chhattisgarh,2007,145
+190,Dadra & Nagar Haveli,2007,14
+191,Daman & Diu,2007,22
+192,Delhi,2007,2232
+193,Goa,2007,272
+194,Gujarat,2007,2054
+195,Haryana,2007,653
+196,Himachal Pradesh,2007,175
+197,Jammu & Kashmir,2007,386
+198,Jharkhand,2007,50
+199,Karnataka,2007,2767
+200,Kerala,2007,628
+201,Madhya Pradesh,2007,979
+202,Maharashtra,2007,7107
+203,Manipur,2007,34
+204,Meghalaya,2007,14
+205,Mizoram,2007,0
+206,Nagaland,2007,0
+207,Odisha,2007,107
+208,Puducherry,2007,169
+209,Punjab,2007,950
+210,Rajasthan,2007,1167
+211,Sikkim,2007,14
+212,Tamil Nadu,2007,2237
+213,Tripura,2007,0
+214,Uttar Pradesh,2007,3482
+215,Uttarakhand,2007,225
+216,West Bengal,2007,5973
+217,Andhra Pradesh,2008,5355
+218,Arunachal Pradesh,2008,4
+219,Assam,2008,45
+220,Bihar,2008,1074
+221,Chandigarh,2008,77
+222,Chhattisgarh,2008,117
+223,Dadra & Nagar Haveli,2008,3
+224,Daman & Diu,2008,19
+225,Delhi,2008,2174
+226,Goa,2008,272
+227,Gujarat,2008,1907
+228,Haryana,2008,713
+229,Himachal Pradesh,2008,279
+230,Jammu & Kashmir,2008,85
+231,Jharkhand,2008,334
+232,Karnataka,2008,2155
+233,Kerala,2008,517
+234,Madhya Pradesh,2008,1091
+235,Maharashtra,2008,7549
+236,Manipur,2008,50
+237,Meghalaya,2008,19
+238,Mizoram,2008,8
+239,Nagaland,2008,3
+240,Odisha,2008,934
+241,Puducherry,2008,168
+242,Punjab,2008,997
+243,Rajasthan,2008,1084
+244,Sikkim,2008,17
+245,Tamil Nadu,2008,2694
+246,Uttar Pradesh,2008,2126
+247,Uttarakhand,2008,238
+248,West Bengal,2008,5560
+249,Andhra Pradesh,2009,2889
+250,Arunachal Pradesh,2009,5
+251,Assam,2009,12
+252,Bihar,2009,1480
+253,Chandigarh,2009,74
+254,Chhattisgarh,2009,123
+255,Dadra & Nagar Haveli,2009,7
+256,Daman & Diu,2009,13
+257,Delhi,2009,2381
+258,Goa,2009,203
+259,Gujarat,2009,1909
+260,Haryana,2009,718
+261,Himachal Pradesh,2009,416
+262,Jammu & Kashmir,2009,141
+263,Jharkhand,2009,506
+264,Karnataka,2009,2107
+265,Kerala,2009,482
+266,Madhya Pradesh,2009,1031
+267,Maharashtra,2009,6895
+268,Manipur,2009,17
+269,Meghalaya,2009,25
+270,Mizoram,2009,8
+271,Nagaland,2009,3
+272,Odisha,2009,951
+273,Puducherry,2009,183
+274,Punjab,2009,1031
+275,Rajasthan,2009,997
+276,Sikkim,2009,20
+277,Tamil Nadu,2009,2491
+278,Uttar Pradesh,2009,3297
+279,Uttarakhand,2009,470
+280,West Bengal,2009,4017
+281,Andhra Pradesh,2010,2120
+282,Arunachal Pradesh,2010,0
+283,Assam,2010,15
+284,Bihar,2010,1447
+285,Chandigarh,2010,32
+286,Chhattisgarh,2010,65
+287,Dadra & Nagar Haveli,2010,4
+288,Daman & Diu,2010,8
+289,Delhi,2010,2877
+290,Goa,2010,243
+291,Gujarat,2010,2226
+292,Haryana,2010,628
+293,Himachal Pradesh,2010,89
+294,Jammu & Kashmir,2010,266
+295,Jharkhand,2010,317
+296,Karnataka,2010,2268
+297,Kerala,2010,491
+298,Madhya Pradesh,2010,1040
+299,Maharashtra,2010,7651
+300,Manipur,2010,25
+301,Meghalaya,2010,31
+302,Mizoram,2010,3
+303,Nagaland,2010,6
+304,Odisha,2010,1161
+305,Puducherry,2010,166
+306,Punjab,2010,1141
+307,Rajasthan,2010,1125
+308,Sikkim,2010,8
+309,Tamil Nadu,2010,2795
+310,Tripura,2010,17
+311,Uttar Pradesh,2010,3767
+312,Uttarakhand,2010,364
+313,West Bengal,2010,3461

@@ -1,0 +1,234 @@
+index,Area_Name,Year,Group_Name,Sub_Group_Name,CD_Accidents,CD_By_Mob_AttackRiots,CD_By_other_Criminals,CD_By_Suicide,CD_IllnessNatural_Death,CD_While_Escaping_from_Custody
+0,Andhra Pradesh,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,2.0,1.0,2.0
+1,Arunachal Pradesh,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+2,Bihar,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+3,Chandigarh,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,1.0,0.0,0.0,0.0
+4,Chhattisgarh,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+5,Delhi,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,1.0,,,,
+6,Goa,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,,,,,
+7,Gujarat,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,2.0,1.0,0.0
+8,Haryana,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,2.0,0.0
+9,Himachal Pradesh,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,1.0
+10,Jammu & Kashmir,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+11,Jharkhand,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+12,Karnataka,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+13,Maharashtra,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,10.0,4.0,0.0
+14,Meghalaya,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+15,Mizoram,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+16,Nagaland,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+17,Odisha,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,3.0,0.0,0.0
+18,Rajasthan,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,2.0,,
+19,Tamil Nadu,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,1.0,1.0
+20,Uttar Pradesh,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,4.0,1.0
+21,West Bengal,2001,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,1.0,0.0,3.0,0.0,0.0
+22,Andhra Pradesh,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,1.0,5.0,1.0,0.0
+23,Assam,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+24,Bihar,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+25,Chhattisgarh,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,0.0,0.0,0.0
+26,Daman & Diu,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+27,Gujarat,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,2.0,0.0,1.0
+28,Haryana,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,1.0,0.0,1.0,0.0
+29,Himachal Pradesh,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+30,Karnataka,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,4.0,0.0,0.0
+31,Madhya Pradesh,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+32,Maharashtra,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,2.0,0.0,10.0,5.0,0.0
+33,Meghalaya,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+34,Mizoram,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+35,Nagaland,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+36,Odisha,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+37,Punjab,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,1.0,0.0
+38,Rajasthan,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,,,3.0,,
+39,Tamil Nadu,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,4.0,0.0,1.0
+40,Tripura,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,,,,,
+41,Uttar Pradesh,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,2.0,2.0,1.0,
+42,West Bengal,2002,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,3.0,0.0,0.0
+43,Andhra Pradesh,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,1.0,0.0,3.0,2.0,0.0
+44,Arunachal Pradesh,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,2.0,0.0,0.0
+45,Assam,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+46,Bihar,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,2.0,0.0
+47,Chandigarh,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+48,Chhattisgarh,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+49,Daman & Diu,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+50,Delhi,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+51,Gujarat,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,1.0,0.0,3.0,1.0,1.0
+52,Haryana,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+53,Himachal Pradesh,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+54,Jammu & Kashmir,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+55,Karnataka,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+56,Kerala,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,,1.0
+57,Madhya Pradesh,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+58,Maharashtra,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,1.0,0.0,14.0,7.0,1.0
+59,Meghalaya,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+60,Mizoram,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,,,,
+61,Nagaland,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+62,Odisha,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+63,Punjab,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,1.0,0.0
+64,Rajasthan,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,1.0,,,1.0
+65,Tamil Nadu,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,,2.0,,
+66,Uttar Pradesh,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,,,1.0,2.0,
+67,West Bengal,2003,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,2.0,1.0,0.0
+68,Andhra Pradesh,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,2.0,0.0
+69,Arunachal Pradesh,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,2.0,0.0
+70,Bihar,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+71,Chandigarh,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+72,Chhattisgarh,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+73,Delhi,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+74,Gujarat,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,5.0,3.0,2.0
+75,Haryana,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,,0.0
+76,Himachal Pradesh,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,3.0,0.0
+77,Karnataka,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+78,Kerala,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,1.0,
+79,Madhya Pradesh,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+80,Maharashtra,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,1.0,0.0,4.0,2.0,3.0
+81,Manipur,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+82,Meghalaya,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+83,Mizoram,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+84,Nagaland,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+85,Odisha,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+86,Punjab,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,,0.0
+87,Tamil Nadu,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,,,4.0,1.0,1.0
+88,Uttar Pradesh,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+89,West Bengal,2004,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,5.0,0.0,0.0
+90,Andhra Pradesh,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,12.0,0.0,0.0,4.0,13.0,0.0
+91,Arunachal Pradesh,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+92,Assam,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+93,Chandigarh,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+94,Chhattisgarh,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+95,Goa,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,1.0,
+96,Gujarat,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,1.0,5.0,7.0,2.0
+97,Haryana,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+98,Himachal Pradesh,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+99,Jammu & Kashmir,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,1.0,0.0
+100,Karnataka,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,1.0,0.0
+101,Kerala,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,0.0,
+102,Madhya Pradesh,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,1.0,0.0
+103,Maharashtra,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,1.0,11.0,1.0,1.0
+104,Manipur,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+105,Meghalaya,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,0.0,0.0,0.0
+106,Mizoram,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+107,Nagaland,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+108,Odisha,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,1.0,0.0
+109,Punjab,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+110,Rajasthan,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+111,Tamil Nadu,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,,,1.0,,
+112,Tripura,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,0.0,
+113,Uttar Pradesh,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,2.0,0.0,2.0,2.0,2.0,0.0
+114,West Bengal,2005,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+115,Andhra Pradesh,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,6.0,19.0,3.0
+116,Arunachal Pradesh,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+117,Assam,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+118,Bihar,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,,,
+119,Chandigarh,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+120,Chhattisgarh,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+121,Gujarat,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,1.0,3.0
+122,Haryana,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,,,1.0,,
+123,Himachal Pradesh,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+124,Jammu & Kashmir,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+125,Karnataka,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,2.0,0.0,0.0
+126,Kerala,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,0.0,1.0,0.0
+127,Madhya Pradesh,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,1.0,0.0
+128,Maharashtra,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,2.0,0.0,8.0,3.0,0.0
+129,Manipur,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+130,Meghalaya,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+131,Mizoram,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+132,Nagaland,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+133,Odisha,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+134,Punjab,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,1.0,
+135,Rajasthan,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,,1.0
+136,Tamil Nadu,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,3.0,,
+137,Uttar Pradesh,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,1.0,0.0,2.0,2.0,0.0
+138,Uttarakhand,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,1.0,
+139,West Bengal,2006,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+140,Andhra Pradesh,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,4.0,1.0
+141,Arunachal Pradesh,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+142,Assam,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,3.0,0.0,0.0,0.0,0.0
+143,Bihar,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+144,Chandigarh,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+145,Chhattisgarh,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+146,Dadra & Nagar Haveli,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+147,Gujarat,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,5.0,5.0,1.0
+148,Haryana,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,,,0.0,,
+149,Himachal Pradesh,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+150,Jammu & Kashmir,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,1.0,0.0
+151,Karnataka,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+152,Kerala,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+153,Madhya Pradesh,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,1.0,6.0,3.0,1.0
+154,Maharashtra,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,9.0,10.0,3.0
+155,Manipur,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+156,Meghalaya,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,1.0,0.0
+157,Mizoram,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+158,Nagaland,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,3.0,0.0,0.0,0.0,0.0
+159,Odisha,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+160,Rajasthan,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+161,Sikkim,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+162,Tamil Nadu,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+163,Tripura,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+164,Uttar Pradesh,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,3.0,1.0,2.0,4.0,1.0
+165,Uttarakhand,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+166,West Bengal,2007,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,2.0,1.0,0.0
+167,Andhra Pradesh,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,2.0,1.0,0.0,0.0
+168,Arunachal Pradesh,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,3.0,0.0,0.0
+169,Assam,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,2.0,0.0
+170,Chandigarh,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+171,Chhattisgarh,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+172,Gujarat,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,11.0,9.0,0.0
+173,Haryana,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,1.0,0.0
+174,Himachal Pradesh,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+175,Jammu & Kashmir,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+176,Karnataka,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,1.0,0.0
+177,Madhya Pradesh,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,3.0,0.0,1.0
+178,Maharashtra,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,5.0,0.0,11.0,13.0,2.0
+179,Manipur,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+180,Meghalaya,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+181,Mizoram,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+182,Nagaland,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+183,Odisha,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,1.0
+184,Punjab,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,1.0,
+185,Rajasthan,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,2.0,,
+186,Tamil Nadu,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,,,,,
+187,Uttar Pradesh,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,1.0,1.0,2.0
+188,West Bengal,2008,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+189,Andhra Pradesh,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,2.0,0.0,1.0,0.0,2.0,1.0
+190,Arunachal Pradesh,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+191,Assam,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,7.0,0.0
+192,Bihar,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+193,Chandigarh,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,1.0
+194,Gujarat,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,3.0,1.0,0.0
+195,Haryana,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,1.0,0.0
+196,Himachal Pradesh,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+197,Jammu & Kashmir,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+198,Karnataka,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+199,Madhya Pradesh,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,2.0,3.0,2.0,2.0
+200,Maharashtra,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,7.0,11.0,0.0
+201,Manipur,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+202,Meghalaya,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,1.0,0.0,0.0,0.0,0.0
+203,Mizoram,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+204,Odisha,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+205,Punjab,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,4.0,
+206,Rajasthan,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,3.0,,
+207,Tamil Nadu,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,,,,4.0,
+208,Uttar Pradesh,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,1.0,0.0,2.0,1.0,2.0
+209,West Bengal,2009,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,2.0
+210,Andhra Pradesh,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,0.0,0.0,1.0,0.0,0.0
+211,Arunachal Pradesh,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,1.0,0.0
+212,Assam,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,3.0,
+213,Bihar,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+214,Chhattisgarh,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+215,Gujarat,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,2.0,3.0,0.0
+216,Himachal Pradesh,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+217,Jammu & Kashmir,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,1.0,0.0
+218,Jharkhand,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+219,Karnataka,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,1.0
+220,Kerala,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+221,Madhya Pradesh,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,1.0,,,1.0,,
+222,Maharashtra,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,9.0,10.0,1.0
+223,Manipur,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+224,Meghalaya,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+225,Mizoram,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+226,Nagaland,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0
+227,Odisha,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,0.0,0.0,0.0
+228,Punjab,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,2.0,,
+229,Rajasthan,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,1.0,,
+230,Tamil Nadu,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,,,,,,1.0
+231,Uttar Pradesh,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,3.0,0.0,0.0,0.0,1.0,4.0
+232,West Bengal,2010,During Hospitalisation/Treatment/Other Reasons,5. Deaths due to Other Reasons,0.0,0.0,0.0,1.0,0.0,0.0

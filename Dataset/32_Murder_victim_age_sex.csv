@@ -1,0 +1,1019 @@
+index,Area_Name,Year,Group_Name,Sub_Group_Name,Victims_Above_50_Yrs,Victims_Total,Victims_Upto_10_15_Yrs,Victims_Upto_10_Yrs,Victims_Upto_15_18_Yrs,Victims_Upto_18_30_Yrs,Victims_Upto_30_50_Yrs
+0,Andaman & Nicobar Islands,2001,Murder - Female Victims,2. Female Victims,,6,,,,4.0,2.0
+1,Andhra Pradesh,2001,Murder - Female Victims,2. Female Victims,67.0,607,15.0,38.0,43.0,269.0,175.0
+2,Arunachal Pradesh,2001,Murder - Female Victims,2. Female Victims,2.0,16,0.0,0.0,0.0,10.0,4.0
+3,Assam,2001,Murder - Female Victims,2. Female Victims,11.0,128,8.0,4.0,23.0,45.0,37.0
+4,Bihar,2001,Murder - Female Victims,2. Female Victims,12.0,366,0.0,0.0,40.0,191.0,123.0
+5,Chandigarh,2001,Murder - Female Victims,2. Female Victims,3.0,5,0.0,0.0,0.0,1.0,1.0
+6,Chhattisgarh,2001,Murder - Female Victims,2. Female Victims,63.0,549,14.0,38.0,38.0,214.0,182.0
+7,Delhi,2001,Murder - Female Victims,2. Female Victims,14.0,152,2.0,12.0,9.0,74.0,41.0
+8,Goa,2001,Murder - Female Victims,2. Female Victims,1.0,13,,,,4.0,8.0
+9,Gujarat,2001,Murder - Female Victims,2. Female Victims,26.0,363,9.0,57.0,8.0,132.0,131.0
+10,Haryana,2001,Murder - Female Victims,2. Female Victims,6.0,143,1.0,12.0,15.0,67.0,42.0
+11,Himachal Pradesh,2001,Murder - Female Victims,2. Female Victims,6.0,39,1.0,1.0,1.0,11.0,19.0
+12,Jammu & Kashmir,2001,Murder - Female Victims,2. Female Victims,24.0,187,13.0,2.0,27.0,68.0,53.0
+13,Jharkhand,2001,Murder - Female Victims,2. Female Victims,24.0,291,0.0,0.0,39.0,126.0,102.0
+14,Karnataka,2001,Murder - Female Victims,2. Female Victims,51.0,577,13.0,38.0,24.0,250.0,201.0
+15,Kerala,2001,Murder - Female Victims,2. Female Victims,24.0,156,5.0,36.0,8.0,25.0,58.0
+16,Lakshadweep,2001,Murder - Female Victims,2. Female Victims,0.0,2,1.0,1.0,0.0,0.0,0.0
+17,Madhya Pradesh,2001,Murder - Female Victims,2. Female Victims,31.0,622,13.0,41.0,37.0,281.0,219.0
+18,Maharashtra,2001,Murder - Female Victims,2. Female Victims,78.0,1068,28.0,76.0,41.0,555.0,290.0
+19,Manipur,2001,Murder - Female Victims,2. Female Victims,1.0,8,,2.0,,2.0,3.0
+20,Meghalaya,2001,Murder - Female Victims,2. Female Victims,0.0,6,0.0,0.0,0.0,4.0,2.0
+21,Mizoram,2001,Murder - Female Victims,2. Female Victims,0.0,12,0.0,0.0,0.0,9.0,3.0
+22,Nagaland,2001,Murder - Female Victims,2. Female Victims,0.0,2,0.0,0.0,2.0,0.0,0.0
+23,Odisha,2001,Murder - Female Victims,2. Female Victims,26.0,260,0.0,0.0,13.0,140.0,81.0
+24,Puducherry,2001,Murder - Female Victims,2. Female Victims,,10,,,1.0,5.0,4.0
+25,Punjab,2001,Murder - Female Victims,2. Female Victims,11.0,203,1.0,3.0,21.0,90.0,77.0
+26,Rajasthan,2001,Murder - Female Victims,2. Female Victims,32.0,248,4.0,8.0,15.0,108.0,81.0
+27,Sikkim,2001,Murder - Female Victims,2. Female Victims,,6,,,,1.0,5.0
+28,Tamil Nadu,2001,Murder - Female Victims,2. Female Victims,34.0,525,8.0,5.0,113.0,174.0,191.0
+29,Tripura,2001,Murder - Female Victims,2. Female Victims,2.0,9,,,2.0,3.0,2.0
+30,Uttar Pradesh,2001,Murder - Female Victims,2. Female Victims,102.0,1323,65.0,10.0,103.0,626.0,417.0
+31,Uttarakhand,2001,Murder - Female Victims,2. Female Victims,4.0,110,2.0,2.0,1.0,72.0,29.0
+32,West Bengal,2001,Murder - Female Victims,2. Female Victims,12.0,358,0.0,0.0,1.0,213.0,132.0
+33,Andaman & Nicobar Islands,2002,Murder - Female Victims,2. Female Victims,0.0,7,0.0,0.0,1.0,2.0,4.0
+34,Andhra Pradesh,2002,Murder - Female Victims,2. Female Victims,81.0,662,17.0,5.0,3.0,371.0,185.0
+35,Arunachal Pradesh,2002,Murder - Female Victims,2. Female Victims,,4,,,,3.0,1.0
+36,Assam,2002,Murder - Female Victims,2. Female Victims,4.0,111,0.0,0.0,0.0,64.0,43.0
+37,Bihar,2002,Murder - Female Victims,2. Female Victims,6.0,397,0.0,3.0,2.0,242.0,144.0
+38,Chandigarh,2002,Murder - Female Victims,2. Female Victims,2.0,9,0.0,1.0,0.0,3.0,3.0
+39,Chhattisgarh,2002,Murder - Female Victims,2. Female Victims,26.0,228,2.0,5.0,2.0,111.0,82.0
+40,Dadra & Nagar Haveli,2002,Murder - Female Victims,2. Female Victims,0.0,1,0.0,0.0,0.0,0.0,1.0
+41,Daman & Diu,2002,Murder - Female Victims,2. Female Victims,0.0,2,0.0,0.0,0.0,2.0,0.0
+42,Delhi,2002,Murder - Female Victims,2. Female Victims,14.0,130,3.0,6.0,2.0,69.0,36.0
+43,Goa,2002,Murder - Female Victims,2. Female Victims,4.0,7,,,,1.0,2.0
+44,Gujarat,2002,Murder - Female Victims,2. Female Victims,67.0,594,25.0,57.0,11.0,252.0,182.0
+45,Haryana,2002,Murder - Female Victims,2. Female Victims,6.0,156,3.0,2.0,1.0,97.0,47.0
+46,Himachal Pradesh,2002,Murder - Female Victims,2. Female Victims,1.0,34,0.0,2.0,2.0,19.0,10.0
+47,Jammu & Kashmir,2002,Murder - Female Victims,2. Female Victims,7.0,163,0.0,0.0,0.0,71.0,85.0
+48,Jharkhand,2002,Murder - Female Victims,2. Female Victims,56.0,306,1.0,1.0,1.0,140.0,107.0
+49,Karnataka,2002,Murder - Female Victims,2. Female Victims,25.0,595,0.0,7.0,3.0,346.0,214.0
+50,Kerala,2002,Murder - Female Victims,2. Female Victims,27.0,155,5.0,44.0,2.0,31.0,46.0
+51,Madhya Pradesh,2002,Murder - Female Victims,2. Female Victims,71.0,537,5.0,2.0,7.0,258.0,194.0
+52,Maharashtra,2002,Murder - Female Victims,2. Female Victims,78.0,966,27.0,75.0,18.0,475.0,293.0
+53,Manipur,2002,Murder - Female Victims,2. Female Victims,1.0,14,0.0,0.0,0.0,7.0,6.0
+54,Meghalaya,2002,Murder - Female Victims,2. Female Victims,1.0,25,0.0,1.0,0.0,3.0,20.0
+55,Mizoram,2002,Murder - Female Victims,2. Female Victims,0.0,9,0.0,0.0,0.0,8.0,1.0
+56,Nagaland,2002,Murder - Female Victims,2. Female Victims,0.0,3,0.0,0.0,0.0,1.0,2.0
+57,Odisha,2002,Murder - Female Victims,2. Female Victims,25.0,346,0.0,3.0,0.0,201.0,117.0
+58,Puducherry,2002,Murder - Female Victims,2. Female Victims,1.0,11,,1.0,,1.0,8.0
+59,Punjab,2002,Murder - Female Victims,2. Female Victims,5.0,141,2.0,1.0,2.0,74.0,57.0
+60,Rajasthan,2002,Murder - Female Victims,2. Female Victims,16.0,261,1.0,10.0,1.0,131.0,102.0
+61,Tamil Nadu,2002,Murder - Female Victims,2. Female Victims,66.0,518,8.0,18.0,2.0,259.0,165.0
+62,Tripura,2002,Murder - Female Victims,2. Female Victims,,12,,,0.0,10.0,2.0
+63,Uttar Pradesh,2002,Murder - Female Victims,2. Female Victims,73.0,1453,57.0,7.0,84.0,724.0,508.0
+64,Uttarakhand,2002,Murder - Female Victims,2. Female Victims,3.0,67,2.0,,2.0,23.0,37.0
+65,West Bengal,2002,Murder - Female Victims,2. Female Victims,9.0,272,0.0,3.0,0.0,188.0,72.0
+66,Andaman & Nicobar Islands,2003,Murder - Female Victims,2. Female Victims,1.0,9,0.0,1.0,0.0,2.0,5.0
+67,Andhra Pradesh,2003,Murder - Female Victims,2. Female Victims,74.0,737,8.0,8.0,12.0,378.0,257.0
+68,Arunachal Pradesh,2003,Murder - Female Victims,2. Female Victims,0.0,0,0.0,0.0,0.0,0.0,0.0
+69,Assam,2003,Murder - Female Victims,2. Female Victims,4.0,103,0.0,0.0,0.0,68.0,31.0
+70,Bihar,2003,Murder - Female Victims,2. Female Victims,6.0,393,0.0,3.0,2.0,235.0,147.0
+71,Chandigarh,2003,Murder - Female Victims,2. Female Victims,1.0,6,1.0,1.0,0.0,3.0,0.0
+72,Chhattisgarh,2003,Murder - Female Victims,2. Female Victims,30.0,216,4.0,9.0,1.0,84.0,88.0
+73,Dadra & Nagar Haveli,2003,Murder - Female Victims,2. Female Victims,1.0,3,,,,1.0,1.0
+74,Daman & Diu,2003,Murder - Female Victims,2. Female Victims,0.0,0,0.0,0.0,0.0,0.0,0.0
+75,Delhi,2003,Murder - Female Victims,2. Female Victims,23.0,131,6.0,8.0,7.0,44.0,43.0
+76,Goa,2003,Murder - Female Victims,2. Female Victims,4.0,14,,,,5.0,5.0
+77,Gujarat,2003,Murder - Female Victims,2. Female Victims,33.0,356,1.0,29.0,3.0,160.0,130.0
+78,Haryana,2003,Murder - Female Victims,2. Female Victims,8.0,151,1.0,1.0,7.0,93.0,41.0
+79,Himachal Pradesh,2003,Murder - Female Victims,2. Female Victims,5.0,34,0.0,0.0,1.0,12.0,16.0
+80,Jammu & Kashmir,2003,Murder - Female Victims,2. Female Victims,3.0,102,0.0,0.0,0.0,57.0,42.0
+81,Jharkhand,2003,Murder - Female Victims,2. Female Victims,30.0,396,1.0,2.0,1.0,177.0,185.0
+82,Karnataka,2003,Murder - Female Victims,2. Female Victims,39.0,525,12.0,50.0,21.0,249.0,154.0
+83,Kerala,2003,Murder - Female Victims,2. Female Victims,22.0,126,3.0,15.0,3.0,28.0,55.0
+84,Madhya Pradesh,2003,Murder - Female Victims,2. Female Victims,50.0,454,4.0,16.0,39.0,194.0,151.0
+85,Maharashtra,2003,Murder - Female Victims,2. Female Victims,70.0,996,22.0,79.0,18.0,533.0,274.0
+86,Manipur,2003,Murder - Female Victims,2. Female Victims,0.0,11,0.0,1.0,0.0,8.0,2.0
+87,Meghalaya,2003,Murder - Female Victims,2. Female Victims,1.0,10,0.0,0.0,2.0,4.0,3.0
+88,Mizoram,2003,Murder - Female Victims,2. Female Victims,,9,,,,5.0,4.0
+89,Nagaland,2003,Murder - Female Victims,2. Female Victims,0.0,6,0.0,0.0,0.0,5.0,1.0
+90,Odisha,2003,Murder - Female Victims,2. Female Victims,21.0,333,0.0,3.0,3.0,178.0,128.0
+91,Puducherry,2003,Murder - Female Victims,2. Female Victims,2.0,8,1.0,,,3.0,2.0
+92,Punjab,2003,Murder - Female Victims,2. Female Victims,18.0,175,2.0,3.0,2.0,89.0,61.0
+93,Rajasthan,2003,Murder - Female Victims,2. Female Victims,34.0,271,3.0,2.0,3.0,123.0,106.0
+94,Sikkim,2003,Murder - Female Victims,2. Female Victims,,6,,1.0,,4.0,1.0
+95,Tamil Nadu,2003,Murder - Female Victims,2. Female Victims,83.0,543,7.0,7.0,25.0,239.0,182.0
+96,Tripura,2003,Murder - Female Victims,2. Female Victims,,23,,,0.0,18.0,5.0
+97,Uttar Pradesh,2003,Murder - Female Victims,2. Female Victims,75.0,999,58.0,8.0,86.0,427.0,345.0
+98,Uttarakhand,2003,Murder - Female Victims,2. Female Victims,2.0,62,0.0,0.0,2.0,28.0,30.0
+99,West Bengal,2003,Murder - Female Victims,2. Female Victims,10.0,297,2.0,2.0,2.0,186.0,95.0
+100,Andaman & Nicobar Islands,2004,Murder - Female Victims,2. Female Victims,0.0,5,0.0,0.0,0.0,0.0,5.0
+101,Andhra Pradesh,2004,Murder - Female Victims,2. Female Victims,63.0,655,10.0,13.0,14.0,301.0,254.0
+102,Arunachal Pradesh,2004,Murder - Female Victims,2. Female Victims,0.0,2,0.0,0.0,0.0,0.0,2.0
+103,Assam,2004,Murder - Female Victims,2. Female Victims,4.0,84,0.0,0.0,0.0,55.0,25.0
+104,Bihar,2004,Murder - Female Victims,2. Female Victims,10.0,425,4.0,2.0,0.0,269.0,140.0
+105,Chandigarh,2004,Murder - Female Victims,2. Female Victims,0.0,8,0.0,2.0,0.0,3.0,3.0
+106,Chhattisgarh,2004,Murder - Female Victims,2. Female Victims,32.0,269,5.0,5.0,7.0,96.0,124.0
+107,Dadra & Nagar Haveli,2004,Murder - Female Victims,2. Female Victims,0.0,2,0.0,2.0,0.0,0.0,0.0
+108,Daman & Diu,2004,Murder - Female Victims,2. Female Victims,,1,,,,1.0,
+109,Delhi,2004,Murder - Female Victims,2. Female Victims,16.0,125,7.0,14.0,7.0,51.0,30.0
+110,Goa,2004,Murder - Female Victims,2. Female Victims,5.0,17,1.0,,,7.0,4.0
+111,Gujarat,2004,Murder - Female Victims,2. Female Victims,25.0,340,2.0,53.0,6.0,157.0,97.0
+112,Haryana,2004,Murder - Female Victims,2. Female Victims,6.0,159,0.0,0.0,2.0,100.0,51.0
+113,Himachal Pradesh,2004,Murder - Female Victims,2. Female Victims,4.0,25,0.0,1.0,3.0,7.0,10.0
+114,Jammu & Kashmir,2004,Murder - Female Victims,2. Female Victims,12.0,107,,1.0,,58.0,36.0
+115,Jharkhand,2004,Murder - Female Victims,2. Female Victims,30.0,399,1.0,2.0,1.0,179.0,186.0
+116,Karnataka,2004,Murder - Female Victims,2. Female Victims,51.0,561,0.0,23.0,2.0,313.0,172.0
+117,Kerala,2004,Murder - Female Victims,2. Female Victims,29.0,137,6.0,16.0,2.0,26.0,58.0
+118,Madhya Pradesh,2004,Murder - Female Victims,2. Female Victims,51.0,494,4.0,1.0,18.0,262.0,158.0
+119,Maharashtra,2004,Murder - Female Victims,2. Female Victims,87.0,1004,10.0,69.0,16.0,523.0,299.0
+120,Manipur,2004,Murder - Female Victims,2. Female Victims,1.0,15,0.0,0.0,0.0,8.0,6.0
+121,Meghalaya,2004,Murder - Female Victims,2. Female Victims,0.0,8,0.0,0.0,1.0,6.0,1.0
+122,Mizoram,2004,Murder - Female Victims,2. Female Victims,1.0,4,0.0,0.0,0.0,2.0,1.0
+123,Nagaland,2004,Murder - Female Victims,2. Female Victims,0.0,17,0.0,0.0,0.0,8.0,9.0
+124,Odisha,2004,Murder - Female Victims,2. Female Victims,18.0,357,3.0,1.0,0.0,221.0,114.0
+125,Puducherry,2004,Murder - Female Victims,2. Female Victims,0.0,3,,,,1.0,2.0
+126,Punjab,2004,Murder - Female Victims,2. Female Victims,17.0,194,4.0,13.0,2.0,84.0,74.0
+127,Rajasthan,2004,Murder - Female Victims,2. Female Victims,34.0,287,2.0,4.0,2.0,146.0,99.0
+128,Sikkim,2004,Murder - Female Victims,2. Female Victims,1.0,5,0.0,2.0,0.0,2.0,0.0
+129,Tamil Nadu,2004,Murder - Female Victims,2. Female Victims,56.0,493,6.0,34.0,0.0,240.0,157.0
+130,Tripura,2004,Murder - Female Victims,2. Female Victims,6.0,44,1.0,0.0,0.0,27.0,10.0
+131,Uttar Pradesh,2004,Murder - Female Victims,2. Female Victims,86.0,1401,71.0,56.0,124.0,613.0,451.0
+132,Uttarakhand,2004,Murder - Female Victims,2. Female Victims,5.0,47,0.0,2.0,0.0,22.0,18.0
+133,West Bengal,2004,Murder - Female Victims,2. Female Victims,14.0,425,1.0,1.0,0.0,218.0,191.0
+134,Andaman & Nicobar Islands,2005,Murder - Female Victims,2. Female Victims,,4,,,,1.0,3.0
+135,Andhra Pradesh,2005,Murder - Female Victims,2. Female Victims,68.0,722,7.0,14.0,7.0,324.0,302.0
+136,Arunachal Pradesh,2005,Murder - Female Victims,2. Female Victims,0.0,1,0.0,0.0,0.0,1.0,0.0
+137,Assam,2005,Murder - Female Victims,2. Female Victims,4.0,65,0.0,0.0,0.0,42.0,19.0
+138,Bihar,2005,Murder - Female Victims,2. Female Victims,16.0,442,2.0,9.0,3.0,310.0,102.0
+139,Chandigarh,2005,Murder - Female Victims,2. Female Victims,1.0,3,0.0,1.0,0.0,1.0,0.0
+140,Chhattisgarh,2005,Murder - Female Victims,2. Female Victims,35.0,323,6.0,4.0,5.0,125.0,148.0
+141,Delhi,2005,Murder - Female Victims,2. Female Victims,15.0,158,3.0,7.0,3.0,87.0,43.0
+142,Goa,2005,Murder - Female Victims,2. Female Victims,1.0,14,,3.0,,7.0,3.0
+143,Gujarat,2005,Murder - Female Victims,2. Female Victims,31.0,346,8.0,29.0,2.0,125.0,151.0
+144,Haryana,2005,Murder - Female Victims,2. Female Victims,15.0,143,1.0,3.0,4.0,80.0,40.0
+145,Himachal Pradesh,2005,Murder - Female Victims,2. Female Victims,1.0,36,0.0,3.0,3.0,13.0,16.0
+146,Jammu & Kashmir,2005,Murder - Female Victims,2. Female Victims,0.0,102,0.0,2.0,0.0,64.0,36.0
+147,Jharkhand,2005,Murder - Female Victims,2. Female Victims,16.0,173,6.0,0.0,44.0,62.0,45.0
+148,Karnataka,2005,Murder - Female Victims,2. Female Victims,51.0,585,2.0,17.0,3.0,306.0,206.0
+149,Kerala,2005,Murder - Female Victims,2. Female Victims,30.0,147,7.0,36.0,,25.0,49.0
+150,Lakshadweep,2005,Murder - Female Victims,2. Female Victims,,1,,,,1.0,
+151,Madhya Pradesh,2005,Murder - Female Victims,2. Female Victims,56.0,528,15.0,10.0,20.0,248.0,179.0
+152,Maharashtra,2005,Murder - Female Victims,2. Female Victims,67.0,980,17.0,77.0,19.0,488.0,312.0
+153,Manipur,2005,Murder - Female Victims,2. Female Victims,0.0,19,1.0,1.0,1.0,12.0,4.0
+154,Meghalaya,2005,Murder - Female Victims,2. Female Victims,2.0,19,0.0,1.0,4.0,8.0,4.0
+155,Mizoram,2005,Murder - Female Victims,2. Female Victims,1.0,4,0.0,0.0,0.0,2.0,1.0
+156,Nagaland,2005,Murder - Female Victims,2. Female Victims,2.0,17,0.0,0.0,0.0,13.0,2.0
+157,Odisha,2005,Murder - Female Victims,2. Female Victims,32.0,326,2.0,1.0,3.0,162.0,126.0
+158,Puducherry,2005,Murder - Female Victims,2. Female Victims,3.0,9,,,,5.0,1.0
+159,Punjab,2005,Murder - Female Victims,2. Female Victims,13.0,187,4.0,4.0,1.0,87.0,78.0
+160,Rajasthan,2005,Murder - Female Victims,2. Female Victims,29.0,296,4.0,14.0,9.0,124.0,116.0
+161,Sikkim,2005,Murder - Female Victims,2. Female Victims,,4,,,,2.0,2.0
+162,Tamil Nadu,2005,Murder - Female Victims,2. Female Victims,65.0,462,7.0,32.0,,199.0,159.0
+163,Tripura,2005,Murder - Female Victims,2. Female Victims,4.0,64,,1.0,0.0,49.0,10.0
+164,Uttar Pradesh,2005,Murder - Female Victims,2. Female Victims,71.0,1354,59.0,19.0,63.0,695.0,447.0
+165,Uttarakhand,2005,Murder - Female Victims,2. Female Victims,1.0,53,0.0,2.0,0.0,25.0,25.0
+166,West Bengal,2005,Murder - Female Victims,2. Female Victims,14.0,365,1.0,0.0,0.0,269.0,81.0
+167,Andaman & Nicobar Islands,2006,Murder - Female Victims,2. Female Victims,,1,,,,,1.0
+168,Andhra Pradesh,2006,Murder - Female Victims,2. Female Victims,80.0,744,9.0,16.0,11.0,322.0,306.0
+169,Arunachal Pradesh,2006,Murder - Female Victims,2. Female Victims,0.0,0,0.0,0.0,0.0,0.0,0.0
+170,Assam,2006,Murder - Female Victims,2. Female Victims,2.0,76,0.0,0.0,0.0,43.0,31.0
+171,Bihar,2006,Murder - Female Victims,2. Female Victims,8.0,413,1.0,2.0,2.0,282.0,118.0
+172,Chandigarh,2006,Murder - Female Victims,2. Female Victims,3.0,4,0.0,0.0,0.0,0.0,1.0
+173,Chhattisgarh,2006,Murder - Female Victims,2. Female Victims,40.0,336,7.0,4.0,10.0,159.0,116.0
+174,Dadra & Nagar Haveli,2006,Murder - Female Victims,2. Female Victims,0.0,3,0.0,0.0,0.0,2.0,1.0
+175,Daman & Diu,2006,Murder - Female Victims,2. Female Victims,0.0,2,0.0,2.0,0.0,0.0,0.0
+176,Delhi,2006,Murder - Female Victims,2. Female Victims,8.0,128,2.0,12.0,8.0,75.0,23.0
+177,Goa,2006,Murder - Female Victims,2. Female Victims,3.0,10,,,1.0,4.0,2.0
+178,Gujarat,2006,Murder - Female Victims,2. Female Victims,29.0,366,4.0,34.0,3.0,150.0,146.0
+179,Haryana,2006,Murder - Female Victims,2. Female Victims,8.0,156,1.0,0.0,2.0,90.0,55.0
+180,Himachal Pradesh,2006,Murder - Female Victims,2. Female Victims,5.0,31,1.0,1.0,0.0,11.0,13.0
+181,Jammu & Kashmir,2006,Murder - Female Victims,2. Female Victims,1.0,76,1.0,0.0,5.0,37.0,32.0
+182,Jharkhand,2006,Murder - Female Victims,2. Female Victims,33.0,214,1.0,1.0,38.0,83.0,58.0
+183,Karnataka,2006,Murder - Female Victims,2. Female Victims,64.0,588,3.0,30.0,2.0,294.0,195.0
+184,Kerala,2006,Murder - Female Victims,2. Female Victims,27.0,138,3.0,35.0,2.0,30.0,41.0
+185,Madhya Pradesh,2006,Murder - Female Victims,2. Female Victims,74.0,510,14.0,14.0,22.0,200.0,186.0
+186,Maharashtra,2006,Murder - Female Victims,2. Female Victims,76.0,995,14.0,75.0,27.0,482.0,321.0
+187,Manipur,2006,Murder - Female Victims,2. Female Victims,1.0,9,0.0,0.0,1.0,5.0,2.0
+188,Meghalaya,2006,Murder - Female Victims,2. Female Victims,0.0,11,0.0,1.0,0.0,7.0,3.0
+189,Mizoram,2006,Murder - Female Victims,2. Female Victims,0.0,3,0.0,0.0,0.0,3.0,0.0
+190,Nagaland,2006,Murder - Female Victims,2. Female Victims,2.0,8,0.0,0.0,0.0,3.0,3.0
+191,Odisha,2006,Murder - Female Victims,2. Female Victims,12.0,384,0.0,3.0,2.0,192.0,175.0
+192,Puducherry,2006,Murder - Female Victims,2. Female Victims,1.0,9,,,,3.0,5.0
+193,Punjab,2006,Murder - Female Victims,2. Female Victims,24.0,237,5.0,3.0,4.0,120.0,81.0
+194,Rajasthan,2006,Murder - Female Victims,2. Female Victims,30.0,249,6.0,11.0,6.0,113.0,83.0
+195,Sikkim,2006,Murder - Female Victims,2. Female Victims,1.0,7,,,,3.0,3.0
+196,Tamil Nadu,2006,Murder - Female Victims,2. Female Victims,82.0,515,9.0,33.0,4.0,206.0,181.0
+197,Tripura,2006,Murder - Female Victims,2. Female Victims,4.0,34,,,,22.0,8.0
+198,Uttar Pradesh,2006,Murder - Female Victims,2. Female Victims,57.0,927,63.0,11.0,82.0,408.0,306.0
+199,Uttarakhand,2006,Murder - Female Victims,2. Female Victims,2.0,55,0.0,2.0,1.0,17.0,33.0
+200,West Bengal,2006,Murder - Female Victims,2. Female Victims,17.0,447,0.0,0.0,0.0,335.0,95.0
+201,Andaman & Nicobar Islands,2007,Murder - Female Victims,2. Female Victims,1.0,6,,,,3.0,2.0
+202,Andhra Pradesh,2007,Murder - Female Victims,2. Female Victims,67.0,886,16.0,26.0,10.0,415.0,352.0
+203,Arunachal Pradesh,2007,Murder - Female Victims,2. Female Victims,0.0,3,0.0,0.0,0.0,3.0,0.0
+204,Assam,2007,Murder - Female Victims,2. Female Victims,0.0,88,0.0,0.0,0.0,51.0,37.0
+205,Bihar,2007,Murder - Female Victims,2. Female Victims,14.0,390,0.0,4.0,15.0,237.0,120.0
+206,Chandigarh,2007,Murder - Female Victims,2. Female Victims,1.0,6,0.0,2.0,0.0,3.0,0.0
+207,Chhattisgarh,2007,Murder - Female Victims,2. Female Victims,71.0,310,4.0,3.0,3.0,100.0,129.0
+208,Dadra & Nagar Haveli,2007,Murder - Female Victims,2. Female Victims,,4,,,,2.0,2.0
+209,Daman & Diu,2007,Murder - Female Victims,2. Female Victims,0.0,1,0.0,0.0,0.0,1.0,0.0
+210,Delhi,2007,Murder - Female Victims,2. Female Victims,13.0,127,3.0,10.0,5.0,71.0,25.0
+211,Goa,2007,Murder - Female Victims,2. Female Victims,4.0,16,,2.0,,6.0,4.0
+212,Gujarat,2007,Murder - Female Victims,2. Female Victims,28.0,314,5.0,33.0,5.0,117.0,126.0
+213,Haryana,2007,Murder - Female Victims,2. Female Victims,7.0,167,8.0,14.0,9.0,84.0,45.0
+214,Himachal Pradesh,2007,Murder - Female Victims,2. Female Victims,2.0,35,1.0,2.0,1.0,15.0,14.0
+215,Jammu & Kashmir,2007,Murder - Female Victims,2. Female Victims,2.0,40,0.0,0.0,0.0,26.0,12.0
+216,Jharkhand,2007,Murder - Female Victims,2. Female Victims,27.0,237,1.0,2.0,5.0,87.0,115.0
+217,Karnataka,2007,Murder - Female Victims,2. Female Victims,41.0,505,4.0,17.0,6.0,289.0,148.0
+218,Kerala,2007,Murder - Female Victims,2. Female Victims,28.0,141,1.0,22.0,4.0,34.0,52.0
+219,Madhya Pradesh,2007,Murder - Female Victims,2. Female Victims,64.0,551,7.0,33.0,11.0,253.0,183.0
+220,Maharashtra,2007,Murder - Female Victims,2. Female Victims,89.0,1014,15.0,73.0,19.0,521.0,297.0
+221,Manipur,2007,Murder - Female Victims,2. Female Victims,2.0,20,0.0,0.0,2.0,8.0,8.0
+222,Meghalaya,2007,Murder - Female Victims,2. Female Victims,0.0,7,0.0,2.0,0.0,3.0,2.0
+223,Mizoram,2007,Murder - Female Victims,2. Female Victims,0.0,18,1.0,0.0,1.0,11.0,5.0
+224,Nagaland,2007,Murder - Female Victims,2. Female Victims,0.0,14,0.0,1.0,1.0,9.0,3.0
+225,Odisha,2007,Murder - Female Victims,2. Female Victims,6.0,372,2.0,2.0,4.0,242.0,116.0
+226,Puducherry,2007,Murder - Female Victims,2. Female Victims,2.0,10,,1.0,,4.0,3.0
+227,Punjab,2007,Murder - Female Victims,2. Female Victims,18.0,225,5.0,3.0,4.0,120.0,75.0
+228,Rajasthan,2007,Murder - Female Victims,2. Female Victims,25.0,319,12.0,10.0,6.0,143.0,123.0
+229,Sikkim,2007,Murder - Female Victims,2. Female Victims,,3,1.0,,,2.0,
+230,Tamil Nadu,2007,Murder - Female Victims,2. Female Victims,86.0,604,8.0,31.0,3.0,261.0,215.0
+231,Tripura,2007,Murder - Female Victims,2. Female Victims,8.0,50,,3.0,2.0,19.0,18.0
+232,Uttar Pradesh,2007,Murder - Female Victims,2. Female Victims,68.0,899,63.0,24.0,74.0,382.0,288.0
+233,Uttarakhand,2007,Murder - Female Victims,2. Female Victims,7.0,77,3.0,2.0,,53.0,12.0
+234,West Bengal,2007,Murder - Female Victims,2. Female Victims,21.0,647,0.0,7.0,3.0,441.0,175.0
+235,Andaman & Nicobar Islands,2008,Murder - Female Victims,2. Female Victims,,2,2.0,,,,
+236,Andhra Pradesh,2008,Murder - Female Victims,2. Female Victims,82.0,830,7.0,25.0,9.0,411.0,296.0
+237,Arunachal Pradesh,2008,Murder - Female Victims,2. Female Victims,0.0,1,0.0,0.0,0.0,0.0,1.0
+238,Assam,2008,Murder - Female Victims,2. Female Victims,0.0,103,0.0,0.0,0.0,61.0,42.0
+239,Bihar,2008,Murder - Female Victims,2. Female Victims,18.0,637,8.0,12.0,12.0,436.0,151.0
+240,Chandigarh,2008,Murder - Female Victims,2. Female Victims,1.0,6,0.0,0.0,0.0,3.0,2.0
+241,Chhattisgarh,2008,Murder - Female Victims,2. Female Victims,40.0,363,7.0,10.0,27.0,129.0,150.0
+242,Dadra & Nagar Haveli,2008,Murder - Female Victims,2. Female Victims,1.0,4,1.0,,,,2.0
+243,Daman & Diu,2008,Murder - Female Victims,2. Female Victims,,0,,,,0.0,
+244,Delhi,2008,Murder - Female Victims,2. Female Victims,7.0,116,1.0,4.0,2.0,63.0,39.0
+245,Goa,2008,Murder - Female Victims,2. Female Victims,5.0,20,1.0,2.0,0.0,8.0,4.0
+246,Gujarat,2008,Murder - Female Victims,2. Female Victims,29.0,340,3.0,24.0,2.0,137.0,145.0
+247,Haryana,2008,Murder - Female Victims,2. Female Victims,12.0,185,5.0,3.0,5.0,97.0,63.0
+248,Himachal Pradesh,2008,Murder - Female Victims,2. Female Victims,4.0,36,2.0,1.0,3.0,10.0,16.0
+249,Jammu & Kashmir,2008,Murder - Female Victims,2. Female Victims,2.0,30,0.0,0.0,0.0,13.0,15.0
+250,Jharkhand,2008,Murder - Female Victims,2. Female Victims,25.0,266,0.0,2.0,1.0,115.0,123.0
+251,Karnataka,2008,Murder - Female Victims,2. Female Victims,43.0,624,17.0,49.0,14.0,272.0,229.0
+252,Kerala,2008,Murder - Female Victims,2. Female Victims,23.0,128,5.0,25.0,,24.0,51.0
+253,Lakshadweep,2008,Murder - Female Victims,2. Female Victims,,1,,,,,1.0
+254,Madhya Pradesh,2008,Murder - Female Victims,2. Female Victims,64.0,516,13.0,11.0,6.0,235.0,187.0
+255,Maharashtra,2008,Murder - Female Victims,2. Female Victims,73.0,1049,11.0,62.0,21.0,541.0,341.0
+256,Manipur,2008,Murder - Female Victims,2. Female Victims,0.0,19,0.0,2.0,0.0,9.0,8.0
+257,Meghalaya,2008,Murder - Female Victims,2. Female Victims,0.0,15,0.0,0.0,0.0,11.0,4.0
+258,Mizoram,2008,Murder - Female Victims,2. Female Victims,0.0,2,0.0,0.0,0.0,1.0,1.0
+259,Nagaland,2008,Murder - Female Victims,2. Female Victims,0.0,6,0.0,0.0,0.0,5.0,1.0
+260,Odisha,2008,Murder - Female Victims,2. Female Victims,47.0,545,2.0,2.0,0.0,257.0,237.0
+261,Puducherry,2008,Murder - Female Victims,2. Female Victims,2.0,8,,,,5.0,1.0
+262,Punjab,2008,Murder - Female Victims,2. Female Victims,17.0,219,5.0,3.0,7.0,120.0,67.0
+263,Rajasthan,2008,Murder - Female Victims,2. Female Victims,30.0,287,6.0,8.0,12.0,129.0,102.0
+264,Sikkim,2008,Murder - Female Victims,2. Female Victims,,3,,,,3.0,
+265,Tamil Nadu,2008,Murder - Female Victims,2. Female Victims,93.0,624,3.0,45.0,4.0,233.0,246.0
+266,Tripura,2008,Murder - Female Victims,2. Female Victims,4.0,63,2.0,3.0,1.0,36.0,17.0
+267,Uttar Pradesh,2008,Murder - Female Victims,2. Female Victims,65.0,840,55.0,30.0,73.0,360.0,257.0
+268,Uttarakhand,2008,Murder - Female Victims,2. Female Victims,3.0,48,,,,29.0,16.0
+269,West Bengal,2008,Murder - Female Victims,2. Female Victims,16.0,250,0.0,1.0,5.0,175.0,53.0
+270,Andaman & Nicobar Islands,2009,Murder - Female Victims,2. Female Victims,,8,,1.0,,3.0,4.0
+271,Andhra Pradesh,2009,Murder - Female Victims,2. Female Victims,91.0,800,6.0,18.0,7.0,379.0,299.0
+272,Arunachal Pradesh,2009,Murder - Female Victims,2. Female Victims,0.0,1,0.0,0.0,0.0,1.0,0.0
+273,Assam,2009,Murder - Female Victims,2. Female Victims,0.0,97,0.0,0.0,0.0,62.0,35.0
+274,Bihar,2009,Murder - Female Victims,2. Female Victims,18.0,672,5.0,9.0,27.0,439.0,174.0
+275,Chandigarh,2009,Murder - Female Victims,2. Female Victims,0.0,3,0.0,0.0,0.0,1.0,2.0
+276,Chhattisgarh,2009,Murder - Female Victims,2. Female Victims,44.0,326,2.0,15.0,7.0,124.0,134.0
+277,Dadra & Nagar Haveli,2009,Murder - Female Victims,2. Female Victims,,6,,,,3.0,3.0
+278,Daman & Diu,2009,Murder - Female Victims,2. Female Victims,,1,,,,1.0,
+279,Delhi,2009,Murder - Female Victims,2. Female Victims,18.0,126,4.0,13.0,2.0,48.0,41.0
+280,Goa,2009,Murder - Female Victims,2. Female Victims,3.0,31,0.0,1.0,1.0,14.0,12.0
+281,Gujarat,2009,Murder - Female Victims,2. Female Victims,34.0,325,6.0,34.0,2.0,120.0,129.0
+282,Haryana,2009,Murder - Female Victims,2. Female Victims,15.0,221,2.0,0.0,2.0,96.0,106.0
+283,Himachal Pradesh,2009,Murder - Female Victims,2. Female Victims,9.0,39,1.0,4.0,1.0,10.0,14.0
+284,Jammu & Kashmir,2009,Murder - Female Victims,2. Female Victims,4.0,46,0.0,0.0,0.0,26.0,16.0
+285,Jharkhand,2009,Murder - Female Victims,2. Female Victims,8.0,201,1.0,1.0,0.0,119.0,72.0
+286,Karnataka,2009,Murder - Female Victims,2. Female Victims,66.0,679,9.0,16.0,7.0,335.0,246.0
+287,Kerala,2009,Murder - Female Victims,2. Female Victims,18.0,109,4.0,17.0,5.0,20.0,45.0
+288,Madhya Pradesh,2009,Murder - Female Victims,2. Female Victims,77.0,625,11.0,18.0,11.0,277.0,231.0
+289,Maharashtra,2009,Murder - Female Victims,2. Female Victims,104.0,1000,15.0,79.0,18.0,490.0,294.0
+290,Manipur,2009,Murder - Female Victims,2. Female Victims,2.0,18,1.0,2.0,1.0,5.0,7.0
+291,Meghalaya,2009,Murder - Female Victims,2. Female Victims,1.0,22,0.0,0.0,3.0,16.0,2.0
+292,Mizoram,2009,Murder - Female Victims,2. Female Victims,0.0,3,0.0,0.0,0.0,3.0,
+293,Nagaland,2009,Murder - Female Victims,2. Female Victims,0.0,9,0.0,0.0,0.0,9.0,0.0
+294,Odisha,2009,Murder - Female Victims,2. Female Victims,40.0,460,1.0,3.0,0.0,215.0,201.0
+295,Puducherry,2009,Murder - Female Victims,2. Female Victims,1.0,10,,1.0,,3.0,5.0
+296,Punjab,2009,Murder - Female Victims,2. Female Victims,14.0,203,6.0,15.0,8.0,92.0,68.0
+297,Rajasthan,2009,Murder - Female Victims,2. Female Victims,35.0,328,8.0,13.0,8.0,150.0,114.0
+298,Sikkim,2009,Murder - Female Victims,2. Female Victims,,6,,1.0,,3.0,2.0
+299,Tamil Nadu,2009,Murder - Female Victims,2. Female Victims,93.0,587,6.0,45.0,5.0,214.0,224.0
+300,Tripura,2009,Murder - Female Victims,2. Female Victims,4.0,57,3.0,4.0,3.0,22.0,21.0
+301,Uttar Pradesh,2009,Murder - Female Victims,2. Female Victims,81.0,955,56.0,38.0,71.0,443.0,266.0
+302,Uttarakhand,2009,Murder - Female Victims,2. Female Victims,1.0,51,1.0,1.0,,38.0,10.0
+303,West Bengal,2009,Murder - Female Victims,2. Female Victims,25.0,693,5.0,2.0,4.0,409.0,248.0
+304,Andaman & Nicobar Islands,2010,Murder - Female Victims,2. Female Victims,,5,,,2.0,,3.0
+305,Andhra Pradesh,2010,Murder - Female Victims,2. Female Victims,143.0,624,12.0,15.0,6.0,235.0,213.0
+306,Arunachal Pradesh,2010,Murder - Female Victims,2. Female Victims,0.0,2,0.0,0.0,0.0,2.0,0.0
+307,Assam,2010,Murder - Female Victims,2. Female Victims,,86,,,,51.0,35.0
+308,Bihar,2010,Murder - Female Victims,2. Female Victims,31.0,662,14.0,10.0,50.0,370.0,187.0
+309,Chandigarh,2010,Murder - Female Victims,2. Female Victims,1.0,2,0.0,0.0,0.0,1.0,0.0
+310,Chhattisgarh,2010,Murder - Female Victims,2. Female Victims,40.0,357,5.0,13.0,19.0,127.0,153.0
+311,Dadra & Nagar Haveli,2010,Murder - Female Victims,2. Female Victims,,1,,,,1.0,
+312,Delhi,2010,Murder - Female Victims,2. Female Victims,14.0,119,3.0,4.0,4.0,55.0,39.0
+313,Goa,2010,Murder - Female Victims,2. Female Victims,0.0,7,0.0,0.0,1.0,5.0,1.0
+314,Gujarat,2010,Murder - Female Victims,2. Female Victims,21.0,268,4.0,19.0,0.0,131.0,93.0
+315,Haryana,2010,Murder - Female Victims,2. Female Victims,14.0,213,4.0,2.0,6.0,99.0,88.0
+316,Himachal Pradesh,2010,Murder - Female Victims,2. Female Victims,2.0,28,0.0,3.0,0.0,11.0,12.0
+317,Jammu & Kashmir,2010,Murder - Female Victims,2. Female Victims,3.0,30,0.0,1.0,0.0,15.0,11.0
+318,Jharkhand,2010,Murder - Female Victims,2. Female Victims,12.0,256,0.0,0.0,1.0,141.0,102.0
+319,Karnataka,2010,Murder - Female Victims,2. Female Victims,57.0,731,3.0,27.0,5.0,377.0,262.0
+320,Kerala,2010,Murder - Female Victims,2. Female Victims,27.0,126,6.0,16.0,0.0,24.0,53.0
+321,Madhya Pradesh,2010,Murder - Female Victims,2. Female Victims,60.0,551,13.0,21.0,9.0,246.0,202.0
+322,Maharashtra,2010,Murder - Female Victims,2. Female Victims,84.0,1047,16.0,78.0,14.0,552.0,303.0
+323,Manipur,2010,Murder - Female Victims,2. Female Victims,1.0,19,0.0,0.0,0.0,5.0,13.0
+324,Meghalaya,2010,Murder - Female Victims,2. Female Victims,2.0,11,0.0,1.0,0.0,5.0,3.0
+325,Mizoram,2010,Murder - Female Victims,2. Female Victims,1.0,8,0.0,0.0,1.0,0.0,6.0
+326,Nagaland,2010,Murder - Female Victims,2. Female Victims,3.0,5,0.0,0.0,0.0,1.0,1.0
+327,Odisha,2010,Murder - Female Victims,2. Female Victims,32.0,536,0.0,5.0,1.0,262.0,236.0
+328,Puducherry,2010,Murder - Female Victims,2. Female Victims,,4,,,,3.0,1.0
+329,Punjab,2010,Murder - Female Victims,2. Female Victims,21.0,242,6.0,11.0,6.0,107.0,91.0
+330,Rajasthan,2010,Murder - Female Victims,2. Female Victims,32.0,306,8.0,14.0,9.0,130.0,113.0
+331,Sikkim,2010,Murder - Female Victims,2. Female Victims,,8,1.0,1.0,,3.0,3.0
+332,Tamil Nadu,2010,Murder - Female Victims,2. Female Victims,100.0,629,5.0,38.0,9.0,236.0,241.0
+333,Tripura,2010,Murder - Female Victims,2. Female Victims,8.0,63,1.0,,0.0,24.0,30.0
+334,Uttar Pradesh,2010,Murder - Female Victims,2. Female Victims,56.0,859,30.0,62.0,47.0,421.0,243.0
+335,Uttarakhand,2010,Murder - Female Victims,2. Female Victims,6.0,44,,,2.0,25.0,11.0
+336,West Bengal,2010,Murder - Female Victims,2. Female Victims,36.0,893,3.0,2.0,2.0,542.0,308.0
+337,Andaman & Nicobar Islands,2001,Murder - Male Victims,1. Male Victims,,7,1.0,,,3.0,3.0
+338,Andhra Pradesh,2001,Murder - Male Victims,1. Male Victims,215.0,2176,59.0,35.0,88.0,827.0,952.0
+339,Arunachal Pradesh,2001,Murder - Male Victims,1. Male Victims,4.0,67,0.0,0.0,0.0,31.0,32.0
+340,Assam,2001,Murder - Male Victims,1. Male Victims,67.0,1228,30.0,17.0,169.0,577.0,368.0
+341,Bihar,2001,Murder - Male Victims,1. Male Victims,227.0,3277,2.0,2.0,156.0,1484.0,1406.0
+342,Chandigarh,2001,Murder - Male Victims,1. Male Victims,1.0,10,0.0,0.0,0.0,4.0,5.0
+343,Chhattisgarh,2001,Murder - Male Victims,1. Male Victims,142.0,1108,12.0,30.0,30.0,341.0,553.0
+344,Dadra & Nagar Haveli,2001,Murder - Male Victims,1. Male Victims,,3,,,,1.0,2.0
+345,Delhi,2001,Murder - Male Victims,1. Male Victims,28.0,422,10.0,13.0,12.0,231.0,128.0
+346,Goa,2001,Murder - Male Victims,1. Male Victims,2.0,24,,1.0,,11.0,10.0
+347,Gujarat,2001,Murder - Male Victims,1. Male Victims,87.0,917,11.0,50.0,18.0,335.0,416.0
+348,Haryana,2001,Murder - Male Victims,1. Male Victims,38.0,675,11.0,24.0,47.0,291.0,264.0
+349,Himachal Pradesh,2001,Murder - Male Victims,1. Male Victims,8.0,83,0.0,3.0,1.0,29.0,42.0
+350,Jammu & Kashmir,2001,Murder - Male Victims,1. Male Victims,167.0,1225,37.0,8.0,160.0,385.0,468.0
+351,Jharkhand,2001,Murder - Male Victims,1. Male Victims,136.0,1216,3.0,4.0,121.0,470.0,482.0
+352,Karnataka,2001,Murder - Male Victims,1. Male Victims,130.0,1101,9.0,42.0,36.0,450.0,434.0
+353,Kerala,2001,Murder - Male Victims,1. Male Victims,55.0,333,8.0,27.0,9.0,88.0,146.0
+354,Madhya Pradesh,2001,Murder - Male Victims,1. Male Victims,70.0,1803,25.0,32.0,129.0,693.0,854.0
+355,Maharashtra,2001,Murder - Male Victims,1. Male Victims,219.0,1882,28.0,113.0,39.0,740.0,743.0
+356,Manipur,2001,Murder - Male Victims,1. Male Victims,10.0,225,,,8.0,137.0,70.0
+357,Meghalaya,2001,Murder - Male Victims,1. Male Victims,1.0,163,0.0,0.0,0.0,112.0,50.0
+358,Mizoram,2001,Murder - Male Victims,1. Male Victims,2.0,19,0.0,0.0,3.0,8.0,6.0
+359,Nagaland,2001,Murder - Male Victims,1. Male Victims,3.0,107,1.0,0.0,3.0,64.0,36.0
+360,Odisha,2001,Murder - Male Victims,1. Male Victims,46.0,745,2.0,0.0,43.0,350.0,304.0
+361,Puducherry,2001,Murder - Male Victims,1. Male Victims,3.0,15,,,,5.0,7.0
+362,Punjab,2001,Murder - Male Victims,1. Male Victims,43.0,584,9.0,7.0,35.0,268.0,222.0
+363,Rajasthan,2001,Murder - Male Victims,1. Male Victims,101.0,1027,14.0,10.0,32.0,389.0,481.0
+364,Sikkim,2001,Murder - Male Victims,1. Male Victims,2.0,13,,1.0,,7.0,3.0
+365,Tamil Nadu,2001,Murder - Male Victims,1. Male Victims,136.0,1137,8.0,3.0,136.0,391.0,463.0
+366,Tripura,2001,Murder - Male Victims,1. Male Victims,20.0,231,6.0,,15.0,90.0,100.0
+367,Uttar Pradesh,2001,Murder - Male Victims,1. Male Victims,722.0,6857,93.0,29.0,189.0,3098.0,2726.0
+368,Uttarakhand,2001,Murder - Male Victims,1. Male Victims,27.0,271,3.0,2.0,3.0,52.0,184.0
+369,West Bengal,2001,Murder - Male Victims,1. Male Victims,82.0,1315,2.0,1.0,2.0,676.0,552.0
+370,Andaman & Nicobar Islands,2002,Murder - Male Victims,1. Male Victims,2.0,10,0.0,0.0,0.0,4.0,4.0
+371,Andhra Pradesh,2002,Murder - Male Victims,1. Male Victims,194.0,1989,3.0,7.0,10.0,949.0,826.0
+372,Arunachal Pradesh,2002,Murder - Male Victims,1. Male Victims,,57,,,0.0,31.0,26.0
+373,Assam,2002,Murder - Male Victims,1. Male Victims,21.0,1142,0.0,2.0,0.0,763.0,356.0
+374,Bihar,2002,Murder - Male Victims,1. Male Victims,155.0,3434,3.0,4.0,3.0,1874.0,1395.0
+375,Chandigarh,2002,Murder - Male Victims,1. Male Victims,1.0,22,0.0,2.0,0.0,9.0,10.0
+376,Chhattisgarh,2002,Murder - Male Victims,1. Male Victims,80.0,616,5.0,19.0,2.0,153.0,357.0
+377,Dadra & Nagar Haveli,2002,Murder - Male Victims,1. Male Victims,1.0,10,0.0,0.0,0.0,2.0,7.0
+378,Daman & Diu,2002,Murder - Male Victims,1. Male Victims,0.0,6,0.0,0.0,0.0,3.0,3.0
+379,Delhi,2002,Murder - Male Victims,1. Male Victims,26.0,411,8.0,8.0,8.0,243.0,118.0
+380,Goa,2002,Murder - Male Victims,1. Male Victims,6.0,24,,1.0,1.0,9.0,7.0
+381,Gujarat,2002,Murder - Male Victims,1. Male Victims,189.0,1733,16.0,72.0,31.0,723.0,702.0
+382,Haryana,2002,Murder - Male Victims,1. Male Victims,32.0,655,8.0,4.0,4.0,336.0,271.0
+383,Himachal Pradesh,2002,Murder - Male Victims,1. Male Victims,13.0,98,1.0,3.0,2.0,36.0,43.0
+384,Jammu & Kashmir,2002,Murder - Male Victims,1. Male Victims,87.0,1144,0.0,0.0,2.0,493.0,562.0
+385,Jharkhand,2002,Murder - Male Victims,1. Male Victims,238.0,1182,1.0,2.0,2.0,495.0,444.0
+386,Karnataka,2002,Murder - Male Victims,1. Male Victims,131.0,1109,3.0,11.0,4.0,480.0,480.0
+387,Kerala,2002,Murder - Male Victims,1. Male Victims,50.0,299,4.0,20.0,5.0,87.0,133.0
+388,Madhya Pradesh,2002,Murder - Male Victims,1. Male Victims,144.0,1858,7.0,6.0,67.0,891.0,743.0
+389,Maharashtra,2002,Murder - Male Victims,1. Male Victims,275.0,2025,27.0,81.0,27.0,716.0,899.0
+390,Manipur,2002,Murder - Male Victims,1. Male Victims,5.0,208,0.0,,0.0,123.0,80.0
+391,Meghalaya,2002,Murder - Male Victims,1. Male Victims,3.0,159,0.0,0.0,2.0,76.0,78.0
+392,Mizoram,2002,Murder - Male Victims,1. Male Victims,2.0,20,0.0,0.0,0.0,15.0,3.0
+393,Nagaland,2002,Murder - Male Victims,1. Male Victims,1.0,105,2.0,0.0,7.0,71.0,24.0
+394,Odisha,2002,Murder - Male Victims,1. Male Victims,48.0,802,2.0,2.0,0.0,378.0,372.0
+395,Puducherry,2002,Murder - Male Victims,1. Male Victims,1.0,20,,1.0,,6.0,12.0
+396,Punjab,2002,Murder - Male Victims,1. Male Victims,44.0,631,3.0,3.0,2.0,245.0,334.0
+397,Rajasthan,2002,Murder - Male Victims,1. Male Victims,92.0,1063,1.0,5.0,2.0,432.0,531.0
+398,Sikkim,2002,Murder - Male Victims,1. Male Victims,,13,,,2.0,4.0,7.0
+399,Tamil Nadu,2002,Murder - Male Victims,1. Male Victims,197.0,1269,4.0,11.0,2.0,512.0,543.0
+400,Tripura,2002,Murder - Male Victims,1. Male Victims,22.0,189,,,0.0,95.0,72.0
+401,Uttar Pradesh,2002,Murder - Male Victims,1. Male Victims,493.0,6085,134.0,29.0,227.0,2824.0,2378.0
+402,Uttarakhand,2002,Murder - Male Victims,1. Male Victims,19.0,268,2.0,,1.0,77.0,169.0
+403,West Bengal,2002,Murder - Male Victims,1. Male Victims,52.0,1181,0.0,0.0,0.0,664.0,465.0
+404,Andaman & Nicobar Islands,2003,Murder - Male Victims,1. Male Victims,1.0,12,0.0,0.0,0.0,6.0,5.0
+405,Andhra Pradesh,2003,Murder - Male Victims,1. Male Victims,207.0,2177,31.0,17.0,43.0,992.0,887.0
+406,Arunachal Pradesh,2003,Murder - Male Victims,1. Male Victims,0.0,77,0.0,0.0,0.0,64.0,13.0
+407,Assam,2003,Murder - Male Victims,1. Male Victims,55.0,1088,0.0,2.0,0.0,571.0,460.0
+408,Bihar,2003,Murder - Male Victims,1. Male Victims,199.0,3379,2.0,2.0,3.0,1637.0,1536.0
+409,Chandigarh,2003,Murder - Male Victims,1. Male Victims,0.0,15,1.0,0.0,0.0,5.0,9.0
+410,Chhattisgarh,2003,Murder - Male Victims,1. Male Victims,65.0,581,8.0,16.0,2.0,228.0,262.0
+411,Dadra & Nagar Haveli,2003,Murder - Male Victims,1. Male Victims,1.0,8,,,,3.0,4.0
+412,Daman & Diu,2003,Murder - Male Victims,1. Male Victims,3.0,6,0.0,0.0,0.0,0.0,3.0
+413,Delhi,2003,Murder - Male Victims,1. Male Victims,25.0,371,10.0,11.0,12.0,210.0,103.0
+414,Goa,2003,Murder - Male Victims,1. Male Victims,2.0,20,,,,6.0,12.0
+415,Gujarat,2003,Murder - Male Victims,1. Male Victims,82.0,808,5.0,32.0,13.0,297.0,379.0
+416,Haryana,2003,Murder - Male Victims,1. Male Victims,31.0,597,1.0,2.0,12.0,308.0,243.0
+417,Himachal Pradesh,2003,Murder - Male Victims,1. Male Victims,4.0,96,2.0,5.0,1.0,31.0,53.0
+418,Jammu & Kashmir,2003,Murder - Male Victims,1. Male Victims,79.0,1013,0.0,0.0,0.0,375.0,559.0
+419,Jharkhand,2003,Murder - Male Victims,1. Male Victims,85.0,1086,2.0,5.0,1.0,506.0,487.0
+420,Karnataka,2003,Murder - Male Victims,1. Male Victims,111.0,1051,11.0,41.0,50.0,399.0,439.0
+421,Kerala,2003,Murder - Male Victims,1. Male Victims,56.0,309,1.0,7.0,2.0,92.0,151.0
+422,Madhya Pradesh,2003,Murder - Male Victims,1. Male Victims,104.0,1773,21.0,25.0,60.0,790.0,773.0
+423,Maharashtra,2003,Murder - Male Victims,1. Male Victims,304.0,1955,22.0,63.0,23.0,717.0,826.0
+424,Manipur,2003,Murder - Male Victims,1. Male Victims,9.0,174,0.0,0.0,0.0,109.0,56.0
+425,Meghalaya,2003,Murder - Male Victims,1. Male Victims,3.0,165,0.0,1.0,11.0,60.0,90.0
+426,Mizoram,2003,Murder - Male Victims,1. Male Victims,1.0,37,0.0,1.0,4.0,11.0,20.0
+427,Nagaland,2003,Murder - Male Victims,1. Male Victims,0.0,85,0.0,0.0,0.0,65.0,20.0
+428,Odisha,2003,Murder - Male Victims,1. Male Victims,65.0,769,4.0,5.0,10.0,363.0,322.0
+429,Puducherry,2003,Murder - Male Victims,1. Male Victims,3.0,22,,1.0,,8.0,10.0
+430,Punjab,2003,Murder - Male Victims,1. Male Victims,56.0,594,3.0,9.0,6.0,249.0,271.0
+431,Rajasthan,2003,Murder - Male Victims,1. Male Victims,102.0,1013,4.0,11.0,3.0,437.0,456.0
+432,Sikkim,2003,Murder - Male Victims,1. Male Victims,2.0,10,,,1.0,5.0,2.0
+433,Tamil Nadu,2003,Murder - Male Victims,1. Male Victims,197.0,1111,4.0,4.0,15.0,357.0,534.0
+434,Tripura,2003,Murder - Male Victims,1. Male Victims,30.0,231,,,0.0,117.0,84.0
+435,Uttar Pradesh,2003,Murder - Male Victims,1. Male Victims,412.0,4285,87.0,27.0,206.0,2011.0,1542.0
+436,Uttarakhand,2003,Murder - Male Victims,1. Male Victims,16.0,231,0.0,0.0,1.0,87.0,127.0
+437,West Bengal,2003,Murder - Male Victims,1. Male Victims,52.0,1167,0.0,1.0,2.0,606.0,506.0
+438,Andaman & Nicobar Islands,2004,Murder - Male Victims,1. Male Victims,2.0,10,0.0,1.0,0.0,2.0,5.0
+439,Andhra Pradesh,2004,Murder - Male Victims,1. Male Victims,222.0,1985,15.0,22.0,15.0,856.0,855.0
+440,Arunachal Pradesh,2004,Murder - Male Victims,1. Male Victims,3.0,65,0.0,0.0,0.0,36.0,26.0
+441,Assam,2004,Murder - Male Victims,1. Male Victims,68.0,1130,0.0,1.0,0.0,636.0,425.0
+442,Bihar,2004,Murder - Male Victims,1. Male Victims,178.0,3523,9.0,2.0,4.0,1906.0,1424.0
+443,Chandigarh,2004,Murder - Male Victims,1. Male Victims,2.0,14,0.0,0.0,1.0,5.0,6.0
+444,Chhattisgarh,2004,Murder - Male Victims,1. Male Victims,91.0,658,6.0,15.0,23.0,235.0,288.0
+445,Dadra & Nagar Haveli,2004,Murder - Male Victims,1. Male Victims,1.0,9,0.0,0.0,1.0,3.0,4.0
+446,Daman & Diu,2004,Murder - Male Victims,1. Male Victims,,2,,,,1.0,1.0
+447,Delhi,2004,Murder - Male Victims,1. Male Victims,32.0,385,14.0,20.0,15.0,170.0,134.0
+448,Goa,2004,Murder - Male Victims,1. Male Victims,3.0,25,,1.0,,8.0,13.0
+449,Gujarat,2004,Murder - Male Victims,1. Male Victims,79.0,829,5.0,31.0,6.0,315.0,393.0
+450,Haryana,2004,Murder - Male Victims,1. Male Victims,40.0,583,1.0,0.0,20.0,278.0,244.0
+451,Himachal Pradesh,2004,Murder - Male Victims,1. Male Victims,16.0,85,3.0,2.0,0.0,30.0,34.0
+452,Jammu & Kashmir,2004,Murder - Male Victims,1. Male Victims,70.0,882,,,,438.0,374.0
+453,Jharkhand,2004,Murder - Male Victims,1. Male Victims,85.0,1089,2.0,5.0,1.0,507.0,489.0
+454,Karnataka,2004,Murder - Male Victims,1. Male Victims,112.0,1006,3.0,24.0,2.0,432.0,433.0
+455,Kerala,2004,Murder - Male Victims,1. Male Victims,62.0,290,2.0,24.0,3.0,68.0,131.0
+456,Madhya Pradesh,2004,Murder - Male Victims,1. Male Victims,224.0,1886,18.0,7.0,96.0,826.0,715.0
+457,Maharashtra,2004,Murder - Male Victims,1. Male Victims,204.0,1773,18.0,56.0,36.0,653.0,806.0
+458,Manipur,2004,Murder - Male Victims,1. Male Victims,9.0,178,0.0,0.0,0.0,117.0,52.0
+459,Meghalaya,2004,Murder - Male Victims,1. Male Victims,1.0,149,0.0,0.0,0.0,97.0,51.0
+460,Mizoram,2004,Murder - Male Victims,1. Male Victims,5.0,31,0.0,0.0,0.0,13.0,13.0
+461,Nagaland,2004,Murder - Male Victims,1. Male Victims,0.0,56,0.0,0.0,0.0,28.0,28.0
+462,Odisha,2004,Murder - Male Victims,1. Male Victims,45.0,780,1.0,1.0,3.0,389.0,341.0
+463,Puducherry,2004,Murder - Male Victims,1. Male Victims,2.0,22,,1.0,,11.0,8.0
+464,Punjab,2004,Murder - Male Victims,1. Male Victims,60.0,608,4.0,10.0,9.0,250.0,275.0
+465,Rajasthan,2004,Murder - Male Victims,1. Male Victims,127.0,1005,4.0,4.0,5.0,422.0,443.0
+466,Sikkim,2004,Murder - Male Victims,1. Male Victims,2.0,13,0.0,1.0,0.0,2.0,8.0
+467,Tamil Nadu,2004,Murder - Male Victims,1. Male Victims,189.0,1051,7.0,32.0,4.0,372.0,447.0
+468,Tripura,2004,Murder - Male Victims,1. Male Victims,16.0,182,2.0,0.0,2.0,97.0,65.0
+469,Uttar Pradesh,2004,Murder - Male Victims,1. Male Victims,464.0,5264,147.0,60.0,223.0,2224.0,2146.0
+470,Uttarakhand,2004,Murder - Male Victims,1. Male Victims,20.0,220,0.0,2.0,0.0,108.0,90.0
+471,West Bengal,2004,Murder - Male Victims,1. Male Victims,51.0,1008,0.0,0.0,0.0,518.0,439.0
+472,Andaman & Nicobar Islands,2005,Murder - Male Victims,1. Male Victims,1.0,11,,1.0,,4.0,5.0
+473,Andhra Pradesh,2005,Murder - Male Victims,1. Male Victims,245.0,2206,14.0,24.0,21.0,953.0,949.0
+474,Arunachal Pradesh,2005,Murder - Male Victims,1. Male Victims,2.0,80,0.0,0.0,0.0,58.0,20.0
+475,Assam,2005,Murder - Male Victims,1. Male Victims,72.0,1129,4.0,0.0,9.0,672.0,372.0
+476,Bihar,2005,Murder - Male Victims,1. Male Victims,173.0,3029,8.0,5.0,10.0,1850.0,983.0
+477,Chandigarh,2005,Murder - Male Victims,1. Male Victims,0.0,15,0.0,2.0,0.0,6.0,7.0
+478,Chhattisgarh,2005,Murder - Male Victims,1. Male Victims,88.0,727,8.0,7.0,7.0,280.0,337.0
+479,Dadra & Nagar Haveli,2005,Murder - Male Victims,1. Male Victims,2.0,7,,1.0,1.0,2.0,1.0
+480,Daman & Diu,2005,Murder - Male Victims,1. Male Victims,,5,1.0,,,4.0,
+481,Delhi,2005,Murder - Male Victims,1. Male Victims,25.0,375,9.0,10.0,4.0,197.0,130.0
+482,Goa,2005,Murder - Male Victims,1. Male Victims,4.0,35,1.0,,,7.0,23.0
+483,Gujarat,2005,Murder - Male Victims,1. Male Victims,84.0,757,9.0,41.0,10.0,293.0,320.0
+484,Haryana,2005,Murder - Male Victims,1. Male Victims,67.0,669,7.0,6.0,17.0,286.0,286.0
+485,Himachal Pradesh,2005,Murder - Male Victims,1. Male Victims,14.0,82,0.0,3.0,1.0,27.0,37.0
+486,Jammu & Kashmir,2005,Murder - Male Victims,1. Male Victims,45.0,644,0.0,2.0,0.0,361.0,236.0
+487,Jharkhand,2005,Murder - Male Victims,1. Male Victims,114.0,1350,23.0,5.0,69.0,390.0,749.0
+488,Karnataka,2005,Murder - Male Victims,1. Male Victims,131.0,1088,0.0,22.0,3.0,473.0,459.0
+489,Kerala,2005,Murder - Male Victims,1. Male Victims,62.0,284,4.0,18.0,4.0,62.0,134.0
+490,Madhya Pradesh,2005,Murder - Male Victims,1. Male Victims,229.0,1900,20.0,25.0,60.0,771.0,795.0
+491,Maharashtra,2005,Murder - Male Victims,1. Male Victims,225.0,1765,26.0,77.0,26.0,634.0,777.0
+492,Manipur,2005,Murder - Male Victims,1. Male Victims,6.0,276,0.0,0.0,0.0,174.0,96.0
+493,Meghalaya,2005,Murder - Male Victims,1. Male Victims,4.0,119,1.0,2.0,3.0,49.0,60.0
+494,Mizoram,2005,Murder - Male Victims,1. Male Victims,5.0,31,0.0,0.0,0.0,13.0,13.0
+495,Nagaland,2005,Murder - Male Victims,1. Male Victims,3.0,74,0.0,0.0,0.0,35.0,36.0
+496,Odisha,2005,Murder - Male Victims,1. Male Victims,55.0,807,1.0,2.0,1.0,373.0,375.0
+497,Puducherry,2005,Murder - Male Victims,1. Male Victims,,10,,,,3.0,7.0
+498,Punjab,2005,Murder - Male Victims,1. Male Victims,55.0,557,5.0,7.0,5.0,244.0,241.0
+499,Rajasthan,2005,Murder - Male Victims,1. Male Victims,95.0,950,7.0,7.0,16.0,399.0,426.0
+500,Sikkim,2005,Murder - Male Victims,1. Male Victims,1.0,5,1.0,,,1.0,2.0
+501,Tamil Nadu,2005,Murder - Male Victims,1. Male Victims,183.0,1049,3.0,22.0,3.0,353.0,485.0
+502,Tripura,2005,Murder - Male Victims,1. Male Victims,10.0,94,,,0.0,42.0,42.0
+503,Uttar Pradesh,2005,Murder - Male Victims,1. Male Victims,483.0,5011,65.0,25.0,159.0,2425.0,1854.0
+504,Uttarakhand,2005,Murder - Male Victims,1. Male Victims,28.0,237,2.0,2.0,0.0,102.0,103.0
+505,West Bengal,2005,Murder - Male Victims,1. Male Victims,60.0,1089,1.0,0.0,0.0,673.0,355.0
+506,Andaman & Nicobar Islands,2006,Murder - Male Victims,1. Male Victims,2.0,4,,,,1.0,1.0
+507,Andhra Pradesh,2006,Murder - Male Victims,1. Male Victims,312.0,2196,11.0,12.0,4.0,1045.0,812.0
+508,Arunachal Pradesh,2006,Murder - Male Victims,1. Male Victims,0.0,60,0.0,0.0,0.0,40.0,20.0
+509,Assam,2006,Murder - Male Victims,1. Male Victims,81.0,1131,4.0,0.0,7.0,648.0,391.0
+510,Bihar,2006,Murder - Male Victims,1. Male Victims,103.0,2836,1.0,1.0,5.0,1651.0,1075.0
+511,Chandigarh,2006,Murder - Male Victims,1. Male Victims,2.0,10,0.0,1.0,0.0,2.0,5.0
+512,Chhattisgarh,2006,Murder - Male Victims,1. Male Victims,101.0,762,5.0,8.0,14.0,268.0,366.0
+513,Dadra & Nagar Haveli,2006,Murder - Male Victims,1. Male Victims,1.0,6,0.0,1.0,0.0,1.0,3.0
+514,Daman & Diu,2006,Murder - Male Victims,1. Male Victims,0.0,5,0.0,0.0,0.0,3.0,2.0
+515,Delhi,2006,Murder - Male Victims,1. Male Victims,20.0,360,10.0,18.0,16.0,208.0,88.0
+516,Goa,2006,Murder - Male Victims,1. Male Victims,8.0,30,,,1.0,8.0,13.0
+517,Gujarat,2006,Murder - Male Victims,1. Male Victims,67.0,848,13.0,46.0,10.0,347.0,365.0
+518,Haryana,2006,Murder - Male Victims,1. Male Victims,48.0,743,8.0,0.0,19.0,314.0,354.0
+519,Himachal Pradesh,2006,Murder - Male Victims,1. Male Victims,7.0,98,0.0,3.0,0.0,37.0,51.0
+520,Jammu & Kashmir,2006,Murder - Male Victims,1. Male Victims,16.0,565,0.0,2.0,2.0,287.0,258.0
+521,Jharkhand,2006,Murder - Male Victims,1. Male Victims,225.0,1278,17.0,11.0,71.0,474.0,480.0
+522,Karnataka,2006,Murder - Male Victims,1. Male Victims,100.0,1089,10.0,28.0,6.0,463.0,482.0
+523,Kerala,2006,Murder - Male Victims,1. Male Victims,51.0,288,1.0,30.0,1.0,72.0,133.0
+524,Madhya Pradesh,2006,Murder - Male Victims,1. Male Victims,288.0,1820,22.0,34.0,54.0,700.0,722.0
+525,Maharashtra,2006,Murder - Male Victims,1. Male Victims,291.0,1966,24.0,84.0,27.0,726.0,814.0
+526,Manipur,2006,Murder - Male Victims,1. Male Victims,16.0,229,2.0,0.0,4.0,122.0,85.0
+527,Meghalaya,2006,Murder - Male Victims,1. Male Victims,3.0,146,0.0,1.0,5.0,75.0,62.0
+528,Mizoram,2006,Murder - Male Victims,1. Male Victims,0.0,22,0.0,0.0,0.0,17.0,5.0
+529,Nagaland,2006,Murder - Male Victims,1. Male Victims,0.0,115,1.0,4.0,4.0,74.0,32.0
+530,Odisha,2006,Murder - Male Victims,1. Male Victims,42.0,783,4.0,0.0,9.0,368.0,360.0
+531,Puducherry,2006,Murder - Male Victims,1. Male Victims,2.0,21,,,1.0,9.0,9.0
+532,Punjab,2006,Murder - Male Victims,1. Male Victims,87.0,614,1.0,7.0,6.0,266.0,247.0
+533,Rajasthan,2006,Murder - Male Victims,1. Male Victims,115.0,989,16.0,19.0,19.0,392.0,428.0
+534,Sikkim,2006,Murder - Male Victims,1. Male Victims,3.0,14,,,4.0,2.0,5.0
+535,Tamil Nadu,2006,Murder - Male Victims,1. Male Victims,154.0,903,7.0,15.0,2.0,286.0,439.0
+536,Tripura,2006,Murder - Male Victims,1. Male Victims,14.0,131,2.0,1.0,,49.0,65.0
+537,Uttar Pradesh,2006,Murder - Male Victims,1. Male Victims,453.0,4835,98.0,23.0,149.0,2405.0,1707.0
+538,Uttarakhand,2006,Murder - Male Victims,1. Male Victims,10.0,230,2.0,0.0,5.0,79.0,134.0
+539,West Bengal,2006,Murder - Male Victims,1. Male Victims,52.0,995,0.0,1.0,2.0,546.0,394.0
+540,Andaman & Nicobar Islands,2007,Murder - Male Victims,1. Male Victims,2.0,9,,,,3.0,4.0
+541,Andhra Pradesh,2007,Murder - Male Victims,1. Male Victims,206.0,1964,8.0,19.0,29.0,874.0,828.0
+542,Arunachal Pradesh,2007,Murder - Male Victims,1. Male Victims,1.0,65,0.0,0.0,0.0,41.0,23.0
+543,Assam,2007,Murder - Male Victims,1. Male Victims,97.0,1286,1.0,0.0,1.0,766.0,421.0
+544,Bihar,2007,Murder - Male Victims,1. Male Victims,152.0,2691,23.0,12.0,41.0,1451.0,1012.0
+545,Chandigarh,2007,Murder - Male Victims,1. Male Victims,0.0,14,0.0,0.0,0.0,7.0,7.0
+546,Chhattisgarh,2007,Murder - Male Victims,1. Male Victims,156.0,787,11.0,10.0,14.0,281.0,315.0
+547,Dadra & Nagar Haveli,2007,Murder - Male Victims,1. Male Victims,,6,,1.0,,1.0,4.0
+548,Daman & Diu,2007,Murder - Male Victims,1. Male Victims,4.0,11,1.0,1.0,0.0,3.0,2.0
+549,Delhi,2007,Murder - Male Victims,1. Male Victims,28.0,384,5.0,14.0,20.0,205.0,112.0
+550,Goa,2007,Murder - Male Victims,1. Male Victims,4.0,18,,,,3.0,11.0
+551,Gujarat,2007,Murder - Male Victims,1. Male Victims,99.0,900,10.0,38.0,13.0,289.0,451.0
+552,Haryana,2007,Murder - Male Victims,1. Male Victims,53.0,775,20.0,19.0,29.0,332.0,322.0
+553,Himachal Pradesh,2007,Murder - Male Victims,1. Male Victims,14.0,97,2.0,3.0,1.0,31.0,46.0
+554,Jammu & Kashmir,2007,Murder - Male Victims,1. Male Victims,16.0,326,0.0,0.0,0.0,170.0,140.0
+555,Jharkhand,2007,Murder - Male Victims,1. Male Victims,102.0,1380,12.0,0.0,5.0,550.0,711.0
+556,Karnataka,2007,Murder - Male Victims,1. Male Victims,133.0,1081,5.0,15.0,6.0,381.0,541.0
+557,Kerala,2007,Murder - Male Victims,1. Male Victims,57.0,252,8.0,17.0,1.0,54.0,115.0
+558,Madhya Pradesh,2007,Murder - Male Victims,1. Male Victims,217.0,1764,27.0,48.0,34.0,697.0,741.0
+559,Maharashtra,2007,Murder - Male Victims,1. Male Victims,259.0,1779,24.0,92.0,27.0,654.0,723.0
+560,Manipur,2007,Murder - Male Victims,1. Male Victims,8.0,275,1.0,1.0,4.0,140.0,121.0
+561,Meghalaya,2007,Murder - Male Victims,1. Male Victims,9.0,107,3.0,0.0,7.0,36.0,52.0
+562,Mizoram,2007,Murder - Male Victims,1. Male Victims,2.0,25,0.0,0.0,1.0,15.0,7.0
+563,Nagaland,2007,Murder - Male Victims,1. Male Victims,3.0,104,0.0,0.0,1.0,42.0,58.0
+564,Odisha,2007,Murder - Male Victims,1. Male Victims,38.0,863,10.0,4.0,11.0,395.0,405.0
+565,Puducherry,2007,Murder - Male Victims,1. Male Victims,1.0,25,,1.0,1.0,17.0,5.0
+566,Punjab,2007,Murder - Male Victims,1. Male Victims,67.0,601,8.0,7.0,6.0,266.0,247.0
+567,Rajasthan,2007,Murder - Male Victims,1. Male Victims,103.0,1040,17.0,18.0,26.0,393.0,483.0
+568,Sikkim,2007,Murder - Male Victims,1. Male Victims,1.0,6,,,,3.0,2.0
+569,Tamil Nadu,2007,Murder - Male Victims,1. Male Victims,228.0,1107,6.0,18.0,2.0,346.0,507.0
+570,Tripura,2007,Murder - Male Victims,1. Male Victims,17.0,100,4.0,,2.0,33.0,44.0
+571,Uttar Pradesh,2007,Murder - Male Victims,1. Male Victims,378.0,4283,97.0,37.0,102.0,2050.0,1619.0
+572,Uttarakhand,2007,Murder - Male Victims,1. Male Victims,18.0,191,1.0,3.0,5.0,111.0,53.0
+573,West Bengal,2007,Murder - Male Victims,1. Male Victims,57.0,1006,2.0,1.0,2.0,527.0,417.0
+574,Andaman & Nicobar Islands,2008,Murder - Male Victims,1. Male Victims,2.0,6,,,,2.0,2.0
+575,Andhra Pradesh,2008,Murder - Male Victims,1. Male Victims,221.0,1932,14.0,11.0,55.0,855.0,776.0
+576,Arunachal Pradesh,2008,Murder - Male Victims,1. Male Victims,2.0,71,0.0,0.0,0.0,40.0,29.0
+577,Assam,2008,Murder - Male Victims,1. Male Victims,55.0,1323,1.0,0.0,0.0,790.0,477.0
+578,Bihar,2008,Murder - Male Victims,1. Male Victims,96.0,2502,11.0,25.0,48.0,1401.0,921.0
+579,Chandigarh,2008,Murder - Male Victims,1. Male Victims,1.0,11,0.0,0.0,0.0,7.0,3.0
+580,Chhattisgarh,2008,Murder - Male Victims,1. Male Victims,112.0,806,12.0,13.0,29.0,282.0,358.0
+581,Dadra & Nagar Haveli,2008,Murder - Male Victims,1. Male Victims,2.0,5,,,,,3.0
+582,Daman & Diu,2008,Murder - Male Victims,1. Male Victims,0.0,2,0.0,0.0,,0.0,2.0
+583,Delhi,2008,Murder - Male Victims,1. Male Victims,36.0,473,8.0,21.0,15.0,139.0,254.0
+584,Goa,2008,Murder - Male Victims,1. Male Victims,6.0,33,,,,10.0,17.0
+585,Gujarat,2008,Murder - Male Victims,1. Male Victims,78.0,805,6.0,23.0,8.0,312.0,378.0
+586,Haryana,2008,Murder - Male Victims,1. Male Victims,100.0,785,6.0,4.0,8.0,307.0,360.0
+587,Himachal Pradesh,2008,Murder - Male Victims,1. Male Victims,10.0,94,1.0,3.0,4.0,27.0,49.0
+588,Jammu & Kashmir,2008,Murder - Male Victims,1. Male Victims,16.0,236,0.0,0.0,0.0,94.0,126.0
+589,Jharkhand,2008,Murder - Male Victims,1. Male Victims,73.0,1431,0.0,2.0,6.0,726.0,624.0
+590,Karnataka,2008,Murder - Male Victims,1. Male Victims,129.0,1176,11.0,58.0,18.0,428.0,532.0
+591,Kerala,2008,Murder - Male Victims,1. Male Victims,54.0,251,5.0,14.0,,62.0,116.0
+592,Madhya Pradesh,2008,Murder - Male Victims,1. Male Victims,248.0,1835,55.0,11.0,11.0,695.0,815.0
+593,Maharashtra,2008,Murder - Male Victims,1. Male Victims,262.0,1927,32.0,54.0,20.0,700.0,859.0
+594,Manipur,2008,Murder - Male Victims,1. Male Victims,12.0,249,4.0,3.0,3.0,132.0,95.0
+595,Meghalaya,2008,Murder - Male Victims,1. Male Victims,9.0,111,0.0,0.0,0.0,54.0,48.0
+596,Mizoram,2008,Murder - Male Victims,1. Male Victims,0.0,33,0.0,0.0,0.0,23.0,10.0
+597,Nagaland,2008,Murder - Male Victims,1. Male Victims,3.0,141,0.0,0.0,0.0,81.0,57.0
+598,Odisha,2008,Murder - Male Victims,1. Male Victims,51.0,705,2.0,4.0,3.0,276.0,369.0
+599,Puducherry,2008,Murder - Male Victims,1. Male Victims,3.0,27,,1.0,,12.0,11.0
+600,Punjab,2008,Murder - Male Victims,1. Male Victims,66.0,596,4.0,7.0,6.0,266.0,247.0
+601,Rajasthan,2008,Murder - Male Victims,1. Male Victims,101.0,1033,18.0,13.0,36.0,398.0,467.0
+602,Sikkim,2008,Murder - Male Victims,1. Male Victims,,6,,,2.0,1.0,3.0
+603,Tamil Nadu,2008,Murder - Male Victims,1. Male Victims,234.0,1200,5.0,43.0,0.0,364.0,554.0
+604,Tripura,2008,Murder - Male Victims,1. Male Victims,13.0,103,7.0,4.0,3.0,21.0,55.0
+605,Uttar Pradesh,2008,Murder - Male Victims,1. Male Victims,331.0,3859,69.0,30.0,119.0,1927.0,1383.0
+606,Uttarakhand,2008,Murder - Male Victims,1. Male Victims,25.0,213,,1.0,2.0,139.0,46.0
+607,West Bengal,2008,Murder - Male Victims,1. Male Victims,149.0,1561,5.0,1.0,9.0,735.0,662.0
+608,Andaman & Nicobar Islands,2009,Murder - Male Victims,1. Male Victims,,10,,2.0,,3.0,5.0
+609,Andhra Pradesh,2009,Murder - Male Victims,1. Male Victims,184.0,1675,12.0,12.0,22.0,668.0,777.0
+610,Arunachal Pradesh,2009,Murder - Male Victims,1. Male Victims,0.0,58,0.0,0.0,0.0,30.0,28.0
+611,Assam,2009,Murder - Male Victims,1. Male Victims,40.0,1226,0.0,0.0,4.0,784.0,398.0
+612,Bihar,2009,Murder - Male Victims,1. Male Victims,125.0,2507,21.0,13.0,51.0,1419.0,878.0
+613,Chandigarh,2009,Murder - Male Victims,1. Male Victims,1.0,19,0.0,1.0,0.0,11.0,6.0
+614,Chhattisgarh,2009,Murder - Male Victims,1. Male Victims,117.0,757,9.0,24.0,27.0,231.0,349.0
+615,Dadra & Nagar Haveli,2009,Murder - Male Victims,1. Male Victims,1.0,4,,1.0,,1.0,1.0
+616,Daman & Diu,2009,Murder - Male Victims,1. Male Victims,,4,,,,1.0,3.0
+617,Delhi,2009,Murder - Male Victims,1. Male Victims,23.0,445,17.0,17.0,28.0,243.0,117.0
+618,Goa,2009,Murder - Male Victims,1. Male Victims,3.0,26,0.0,2.0,0.0,8.0,13.0
+619,Gujarat,2009,Murder - Male Victims,1. Male Victims,56.0,734,9.0,24.0,4.0,266.0,375.0
+620,Haryana,2009,Murder - Male Victims,1. Male Victims,83.0,786,4.0,2.0,9.0,331.0,357.0
+621,Himachal Pradesh,2009,Murder - Male Victims,1. Male Victims,14.0,94,1.0,0.0,2.0,31.0,46.0
+622,Jammu & Kashmir,2009,Murder - Male Victims,1. Male Victims,10.0,216,0.0,1.0,3.0,98.0,104.0
+623,Jharkhand,2009,Murder - Male Victims,1. Male Victims,81.0,1435,1.0,3.0,5.0,609.0,736.0
+624,Karnataka,2009,Murder - Male Victims,1. Male Victims,121.0,1073,14.0,12.0,5.0,363.0,558.0
+625,Kerala,2009,Murder - Male Victims,1. Male Victims,58.0,260,7.0,25.0,1.0,60.0,109.0
+626,Madhya Pradesh,2009,Murder - Male Victims,1. Male Victims,257.0,1777,20.0,42.0,25.0,672.0,761.0
+627,Maharashtra,2009,Murder - Male Victims,1. Male Victims,216.0,1712,11.0,63.0,20.0,681.0,721.0
+628,Manipur,2009,Murder - Male Victims,1. Male Victims,16.0,156,1.0,2.0,3.0,56.0,78.0
+629,Meghalaya,2009,Murder - Male Victims,1. Male Victims,7.0,106,2.0,0.0,3.0,69.0,25.0
+630,Mizoram,2009,Murder - Male Victims,1. Male Victims,,28,,,,8.0,20.0
+631,Nagaland,2009,Murder - Male Victims,1. Male Victims,1.0,40,0.0,0.0,0.0,21.0,18.0
+632,Odisha,2009,Murder - Male Victims,1. Male Victims,118.0,806,0.0,1.0,8.0,336.0,343.0
+633,Puducherry,2009,Murder - Male Victims,1. Male Victims,2.0,29,,,,13.0,14.0
+634,Punjab,2009,Murder - Male Victims,1. Male Victims,42.0,658,15.0,18.0,20.0,251.0,312.0
+635,Rajasthan,2009,Murder - Male Victims,1. Male Victims,124.0,1089,16.0,16.0,36.0,424.0,473.0
+636,Sikkim,2009,Murder - Male Victims,1. Male Victims,1.0,14,,2.0,,7.0,4.0
+637,Tamil Nadu,2009,Murder - Male Victims,1. Male Victims,246.0,1270,8.0,36.0,5.0,364.0,611.0
+638,Tripura,2009,Murder - Male Victims,1. Male Victims,7.0,91,2.0,6.0,0.0,34.0,42.0
+639,Uttar Pradesh,2009,Murder - Male Victims,1. Male Victims,354.0,3724,89.0,33.0,85.0,1816.0,1347.0
+640,Uttarakhand,2009,Murder - Male Victims,1. Male Victims,13.0,144,1.0,1.0,1.0,72.0,56.0
+641,West Bengal,2009,Murder - Male Victims,1. Male Victims,88.0,1468,3.0,3.0,6.0,708.0,660.0
+642,Andaman & Nicobar Islands,2010,Murder - Male Victims,1. Male Victims,,5,,,,2.0,3.0
+643,Andhra Pradesh,2010,Murder - Male Victims,1. Male Victims,325.0,1914,16.0,7.0,13.0,962.0,591.0
+644,Arunachal Pradesh,2010,Murder - Male Victims,1. Male Victims,0.0,73,0.0,0.0,0.0,53.0,20.0
+645,Assam,2010,Murder - Male Victims,1. Male Victims,46.0,1137,,,10.0,712.0,369.0
+646,Bihar,2010,Murder - Male Victims,1. Male Victims,194.0,2700,30.0,16.0,82.0,1491.0,887.0
+647,Chandigarh,2010,Murder - Male Victims,1. Male Victims,3.0,20,0.0,1.0,0.0,5.0,11.0
+648,Chhattisgarh,2010,Murder - Male Victims,1. Male Victims,105.0,708,8.0,19.0,31.0,231.0,314.0
+649,Dadra & Nagar Haveli,2010,Murder - Male Victims,1. Male Victims,,5,,,,,5.0
+650,Daman & Diu,2010,Murder - Male Victims,1. Male Victims,0.0,5,0.0,0.0,0.0,4.0,1.0
+651,Delhi,2010,Murder - Male Victims,1. Male Victims,25.0,458,8.0,6.0,14.0,238.0,167.0
+652,Goa,2010,Murder - Male Victims,1. Male Victims,2.0,28,0.0,0.0,0.0,9.0,17.0
+653,Gujarat,2010,Murder - Male Victims,1. Male Victims,89.0,814,14.0,27.0,7.0,312.0,365.0
+654,Haryana,2010,Murder - Male Victims,1. Male Victims,65.0,831,6.0,4.0,8.0,367.0,381.0
+655,Himachal Pradesh,2010,Murder - Male Victims,1. Male Victims,17.0,105,0.0,2.0,3.0,31.0,52.0
+656,Jammu & Kashmir,2010,Murder - Male Victims,1. Male Victims,19.0,205,0.0,0.0,0.0,91.0,95.0
+657,Jharkhand,2010,Murder - Male Victims,1. Male Victims,65.0,1496,2.0,4.0,1.0,895.0,529.0
+658,Karnataka,2010,Murder - Male Victims,1. Male Victims,130.0,1147,3.0,18.0,4.0,481.0,511.0
+659,Kerala,2010,Murder - Male Victims,1. Male Victims,55.0,279,3.0,23.0,1.0,60.0,137.0
+660,Madhya Pradesh,2010,Murder - Male Victims,1. Male Victims,244.0,1890,27.0,34.0,40.0,732.0,813.0
+661,Maharashtra,2010,Murder - Male Victims,1. Male Victims,238.0,1790,18.0,91.0,20.0,670.0,753.0
+662,Manipur,2010,Murder - Male Victims,1. Male Victims,8.0,82,2.0,0.0,0.0,26.0,46.0
+663,Meghalaya,2010,Murder - Male Victims,1. Male Victims,8.0,126,0.0,0.0,1.0,64.0,53.0
+664,Mizoram,2010,Murder - Male Victims,1. Male Victims,8.0,40,0.0,0.0,1.0,8.0,23.0
+665,Nagaland,2010,Murder - Male Victims,1. Male Victims,7.0,42,0.0,0.0,0.0,19.0,16.0
+666,Odisha,2010,Murder - Male Victims,1. Male Victims,72.0,783,0.0,5.0,1.0,304.0,401.0
+667,Puducherry,2010,Murder - Male Victims,1. Male Victims,8.0,30,,,,10.0,12.0
+668,Punjab,2010,Murder - Male Victims,1. Male Victims,65.0,703,3.0,10.0,12.0,277.0,336.0
+669,Rajasthan,2010,Murder - Male Victims,1. Male Victims,103.0,1115,14.0,15.0,33.0,437.0,513.0
+670,Sikkim,2010,Murder - Male Victims,1. Male Victims,3.0,9,,1.0,,1.0,4.0
+671,Tamil Nadu,2010,Murder - Male Victims,1. Male Victims,227.0,1279,8.0,25.0,7.0,414.0,598.0
+672,Tripura,2010,Murder - Male Victims,1. Male Victims,16.0,96,1.0,0.0,0.0,36.0,43.0
+673,Uttar Pradesh,2010,Murder - Male Victims,1. Male Victims,288.0,3597,52.0,76.0,79.0,1937.0,1165.0
+674,Uttarakhand,2010,Murder - Male Victims,1. Male Victims,13.0,132,1.0,,,66.0,52.0
+675,West Bengal,2010,Murder - Male Victims,1. Male Victims,84.0,1522,5.0,0.0,4.0,635.0,794.0
+676,Andaman & Nicobar Islands,2001,Murder - Total Victims,3. Total,,13,1.0,,,7.0,5.0
+677,Andhra Pradesh,2001,Murder - Total Victims,3. Total,282.0,2783,74.0,73.0,131.0,1096.0,1127.0
+678,Arunachal Pradesh,2001,Murder - Total Victims,3. Total,6.0,83,0.0,0.0,0.0,41.0,36.0
+679,Assam,2001,Murder - Total Victims,3. Total,78.0,1356,38.0,21.0,192.0,622.0,405.0
+680,Bihar,2001,Murder - Total Victims,3. Total,239.0,3643,2.0,2.0,196.0,1675.0,1529.0
+681,Chandigarh,2001,Murder - Total Victims,3. Total,4.0,15,0.0,0.0,0.0,5.0,6.0
+682,Chhattisgarh,2001,Murder - Total Victims,3. Total,205.0,1657,26.0,68.0,68.0,555.0,735.0
+683,Dadra & Nagar Haveli,2001,Murder - Total Victims,3. Total,,3,,,,1.0,2.0
+684,Delhi,2001,Murder - Total Victims,3. Total,42.0,574,12.0,25.0,21.0,305.0,169.0
+685,Goa,2001,Murder - Total Victims,3. Total,3.0,37,,1.0,,15.0,18.0
+686,Gujarat,2001,Murder - Total Victims,3. Total,113.0,1280,20.0,107.0,26.0,467.0,547.0
+687,Haryana,2001,Murder - Total Victims,3. Total,44.0,818,12.0,36.0,62.0,358.0,306.0
+688,Himachal Pradesh,2001,Murder - Total Victims,3. Total,14.0,122,1.0,4.0,2.0,40.0,61.0
+689,Jammu & Kashmir,2001,Murder - Total Victims,3. Total,191.0,1412,50.0,10.0,187.0,453.0,521.0
+690,Jharkhand,2001,Murder - Total Victims,3. Total,160.0,1507,3.0,4.0,160.0,596.0,584.0
+691,Karnataka,2001,Murder - Total Victims,3. Total,181.0,1678,22.0,80.0,60.0,700.0,635.0
+692,Kerala,2001,Murder - Total Victims,3. Total,79.0,489,13.0,63.0,17.0,113.0,204.0
+693,Lakshadweep,2001,Murder - Total Victims,3. Total,0.0,2,1.0,1.0,0.0,0.0,0.0
+694,Madhya Pradesh,2001,Murder - Total Victims,3. Total,101.0,2425,38.0,73.0,166.0,974.0,1073.0
+695,Maharashtra,2001,Murder - Total Victims,3. Total,297.0,2950,56.0,189.0,80.0,1295.0,1033.0
+696,Manipur,2001,Murder - Total Victims,3. Total,11.0,233,,2.0,8.0,139.0,73.0
+697,Meghalaya,2001,Murder - Total Victims,3. Total,1.0,169,0.0,0.0,0.0,116.0,52.0
+698,Mizoram,2001,Murder - Total Victims,3. Total,2.0,31,0.0,0.0,3.0,17.0,9.0
+699,Nagaland,2001,Murder - Total Victims,3. Total,3.0,109,1.0,0.0,5.0,64.0,36.0
+700,Odisha,2001,Murder - Total Victims,3. Total,72.0,1005,2.0,0.0,56.0,490.0,385.0
+701,Puducherry,2001,Murder - Total Victims,3. Total,3.0,25,,,1.0,10.0,11.0
+702,Punjab,2001,Murder - Total Victims,3. Total,54.0,787,10.0,10.0,56.0,358.0,299.0
+703,Rajasthan,2001,Murder - Total Victims,3. Total,133.0,1275,18.0,18.0,47.0,497.0,562.0
+704,Sikkim,2001,Murder - Total Victims,3. Total,2.0,19,,1.0,,8.0,8.0
+705,Tamil Nadu,2001,Murder - Total Victims,3. Total,170.0,1662,16.0,8.0,249.0,565.0,654.0
+706,Tripura,2001,Murder - Total Victims,3. Total,22.0,240,6.0,,17.0,93.0,102.0
+707,Uttar Pradesh,2001,Murder - Total Victims,3. Total,824.0,8180,158.0,39.0,292.0,3724.0,3143.0
+708,Uttarakhand,2001,Murder - Total Victims,3. Total,31.0,381,5.0,4.0,4.0,124.0,213.0
+709,West Bengal,2001,Murder - Total Victims,3. Total,94.0,1673,2.0,1.0,3.0,889.0,684.0
+710,Andaman & Nicobar Islands,2002,Murder - Total Victims,3. Total,2.0,17,0.0,0.0,1.0,6.0,8.0
+711,Andhra Pradesh,2002,Murder - Total Victims,3. Total,275.0,2651,20.0,12.0,13.0,1320.0,1011.0
+712,Arunachal Pradesh,2002,Murder - Total Victims,3. Total,,61,,,0.0,34.0,27.0
+713,Assam,2002,Murder - Total Victims,3. Total,25.0,1253,0.0,2.0,0.0,827.0,399.0
+714,Bihar,2002,Murder - Total Victims,3. Total,161.0,3831,3.0,7.0,5.0,2116.0,1539.0
+715,Chandigarh,2002,Murder - Total Victims,3. Total,3.0,31,0.0,3.0,0.0,12.0,13.0
+716,Chhattisgarh,2002,Murder - Total Victims,3. Total,106.0,844,7.0,24.0,4.0,264.0,439.0
+717,Dadra & Nagar Haveli,2002,Murder - Total Victims,3. Total,1.0,11,0.0,0.0,0.0,2.0,8.0
+718,Daman & Diu,2002,Murder - Total Victims,3. Total,0.0,8,0.0,0.0,0.0,5.0,3.0
+719,Delhi,2002,Murder - Total Victims,3. Total,40.0,541,11.0,14.0,10.0,312.0,154.0
+720,Goa,2002,Murder - Total Victims,3. Total,10.0,31,,1.0,1.0,10.0,9.0
+721,Gujarat,2002,Murder - Total Victims,3. Total,256.0,2327,41.0,129.0,42.0,975.0,884.0
+722,Haryana,2002,Murder - Total Victims,3. Total,38.0,811,11.0,6.0,5.0,433.0,318.0
+723,Himachal Pradesh,2002,Murder - Total Victims,3. Total,14.0,132,1.0,5.0,4.0,55.0,53.0
+724,Jammu & Kashmir,2002,Murder - Total Victims,3. Total,94.0,1307,0.0,0.0,2.0,564.0,647.0
+725,Jharkhand,2002,Murder - Total Victims,3. Total,294.0,1488,2.0,3.0,3.0,635.0,551.0
+726,Karnataka,2002,Murder - Total Victims,3. Total,156.0,1704,3.0,18.0,7.0,826.0,694.0
+727,Kerala,2002,Murder - Total Victims,3. Total,77.0,454,9.0,64.0,7.0,118.0,179.0
+728,Madhya Pradesh,2002,Murder - Total Victims,3. Total,215.0,2395,12.0,8.0,74.0,1149.0,937.0
+729,Maharashtra,2002,Murder - Total Victims,3. Total,353.0,2991,54.0,156.0,45.0,1191.0,1192.0
+730,Manipur,2002,Murder - Total Victims,3. Total,6.0,222,0.0,0.0,0.0,130.0,86.0
+731,Meghalaya,2002,Murder - Total Victims,3. Total,4.0,184,0.0,1.0,2.0,79.0,98.0
+732,Mizoram,2002,Murder - Total Victims,3. Total,2.0,29,0.0,0.0,0.0,23.0,4.0
+733,Nagaland,2002,Murder - Total Victims,3. Total,1.0,108,2.0,0.0,7.0,72.0,26.0
+734,Odisha,2002,Murder - Total Victims,3. Total,73.0,1148,2.0,5.0,0.0,579.0,489.0
+735,Puducherry,2002,Murder - Total Victims,3. Total,2.0,31,,2.0,,7.0,20.0
+736,Punjab,2002,Murder - Total Victims,3. Total,49.0,772,5.0,4.0,4.0,319.0,391.0
+737,Rajasthan,2002,Murder - Total Victims,3. Total,108.0,1324,2.0,15.0,3.0,563.0,633.0
+738,Sikkim,2002,Murder - Total Victims,3. Total,,13,,,2.0,4.0,7.0
+739,Tamil Nadu,2002,Murder - Total Victims,3. Total,263.0,1787,12.0,29.0,4.0,771.0,708.0
+740,Tripura,2002,Murder - Total Victims,3. Total,22.0,201,,,0.0,105.0,74.0
+741,Uttar Pradesh,2002,Murder - Total Victims,3. Total,566.0,7538,191.0,36.0,311.0,3548.0,2886.0
+742,Uttarakhand,2002,Murder - Total Victims,3. Total,22.0,335,4.0,,3.0,100.0,206.0
+743,West Bengal,2002,Murder - Total Victims,3. Total,61.0,1453,0.0,3.0,0.0,852.0,537.0
+744,Andaman & Nicobar Islands,2003,Murder - Total Victims,3. Total,2.0,21,0.0,1.0,0.0,8.0,10.0
+745,Andhra Pradesh,2003,Murder - Total Victims,3. Total,281.0,2914,39.0,25.0,55.0,1370.0,1144.0
+746,Arunachal Pradesh,2003,Murder - Total Victims,3. Total,0.0,77,0.0,0.0,0.0,64.0,13.0
+747,Assam,2003,Murder - Total Victims,3. Total,59.0,1191,0.0,2.0,0.0,639.0,491.0
+748,Bihar,2003,Murder - Total Victims,3. Total,205.0,3772,2.0,5.0,5.0,1872.0,1683.0
+749,Chandigarh,2003,Murder - Total Victims,3. Total,1.0,21,2.0,1.0,0.0,8.0,9.0
+750,Chhattisgarh,2003,Murder - Total Victims,3. Total,95.0,797,12.0,25.0,3.0,312.0,350.0
+751,Dadra & Nagar Haveli,2003,Murder - Total Victims,3. Total,2.0,11,,,,4.0,5.0
+752,Daman & Diu,2003,Murder - Total Victims,3. Total,3.0,6,0.0,0.0,0.0,0.0,3.0
+753,Delhi,2003,Murder - Total Victims,3. Total,48.0,502,16.0,19.0,19.0,254.0,146.0
+754,Goa,2003,Murder - Total Victims,3. Total,6.0,34,,,,11.0,17.0
+755,Gujarat,2003,Murder - Total Victims,3. Total,115.0,1164,6.0,61.0,16.0,457.0,509.0
+756,Haryana,2003,Murder - Total Victims,3. Total,39.0,748,2.0,3.0,19.0,401.0,284.0
+757,Himachal Pradesh,2003,Murder - Total Victims,3. Total,9.0,130,2.0,5.0,2.0,43.0,69.0
+758,Jammu & Kashmir,2003,Murder - Total Victims,3. Total,82.0,1115,0.0,0.0,0.0,432.0,601.0
+759,Jharkhand,2003,Murder - Total Victims,3. Total,115.0,1482,3.0,7.0,2.0,683.0,672.0
+760,Karnataka,2003,Murder - Total Victims,3. Total,150.0,1576,23.0,91.0,71.0,648.0,593.0
+761,Kerala,2003,Murder - Total Victims,3. Total,78.0,435,4.0,22.0,5.0,120.0,206.0
+762,Madhya Pradesh,2003,Murder - Total Victims,3. Total,154.0,2227,25.0,41.0,99.0,984.0,924.0
+763,Maharashtra,2003,Murder - Total Victims,3. Total,374.0,2951,44.0,142.0,41.0,1250.0,1100.0
+764,Manipur,2003,Murder - Total Victims,3. Total,9.0,185,0.0,1.0,0.0,117.0,58.0
+765,Meghalaya,2003,Murder - Total Victims,3. Total,4.0,175,0.0,1.0,13.0,64.0,93.0
+766,Mizoram,2003,Murder - Total Victims,3. Total,1.0,46,,1.0,4.0,16.0,24.0
+767,Nagaland,2003,Murder - Total Victims,3. Total,0.0,91,0.0,0.0,0.0,70.0,21.0
+768,Odisha,2003,Murder - Total Victims,3. Total,86.0,1102,4.0,8.0,13.0,541.0,450.0
+769,Puducherry,2003,Murder - Total Victims,3. Total,5.0,30,1.0,1.0,,11.0,12.0
+770,Punjab,2003,Murder - Total Victims,3. Total,74.0,769,5.0,12.0,8.0,338.0,332.0
+771,Rajasthan,2003,Murder - Total Victims,3. Total,136.0,1284,7.0,13.0,6.0,560.0,562.0
+772,Sikkim,2003,Murder - Total Victims,3. Total,2.0,16,,1.0,1.0,9.0,3.0
+773,Tamil Nadu,2003,Murder - Total Victims,3. Total,280.0,1654,11.0,11.0,40.0,596.0,716.0
+774,Tripura,2003,Murder - Total Victims,3. Total,30.0,254,,,0.0,135.0,89.0
+775,Uttar Pradesh,2003,Murder - Total Victims,3. Total,487.0,5284,145.0,35.0,292.0,2438.0,1887.0
+776,Uttarakhand,2003,Murder - Total Victims,3. Total,18.0,293,0.0,0.0,3.0,115.0,157.0
+777,West Bengal,2003,Murder - Total Victims,3. Total,62.0,1464,2.0,3.0,4.0,792.0,601.0
+778,Andaman & Nicobar Islands,2004,Murder - Total Victims,3. Total,2.0,15,0.0,1.0,0.0,2.0,10.0
+779,Andhra Pradesh,2004,Murder - Total Victims,3. Total,285.0,2640,25.0,35.0,29.0,1157.0,1109.0
+780,Arunachal Pradesh,2004,Murder - Total Victims,3. Total,3.0,67,0.0,0.0,0.0,36.0,28.0
+781,Assam,2004,Murder - Total Victims,3. Total,72.0,1214,0.0,1.0,0.0,691.0,450.0
+782,Bihar,2004,Murder - Total Victims,3. Total,188.0,3948,13.0,4.0,4.0,2175.0,1564.0
+783,Chandigarh,2004,Murder - Total Victims,3. Total,2.0,22,0.0,2.0,1.0,8.0,9.0
+784,Chhattisgarh,2004,Murder - Total Victims,3. Total,123.0,927,11.0,20.0,30.0,331.0,412.0
+785,Dadra & Nagar Haveli,2004,Murder - Total Victims,3. Total,1.0,11,0.0,2.0,1.0,3.0,4.0
+786,Daman & Diu,2004,Murder - Total Victims,3. Total,,3,,,,2.0,1.0
+787,Delhi,2004,Murder - Total Victims,3. Total,48.0,510,21.0,34.0,22.0,221.0,164.0
+788,Goa,2004,Murder - Total Victims,3. Total,8.0,42,1.0,1.0,,15.0,17.0
+789,Gujarat,2004,Murder - Total Victims,3. Total,104.0,1169,7.0,84.0,12.0,472.0,490.0
+790,Haryana,2004,Murder - Total Victims,3. Total,46.0,742,1.0,0.0,22.0,378.0,295.0
+791,Himachal Pradesh,2004,Murder - Total Victims,3. Total,20.0,110,3.0,3.0,3.0,37.0,44.0
+792,Jammu & Kashmir,2004,Murder - Total Victims,3. Total,82.0,989,,1.0,,496.0,410.0
+793,Jharkhand,2004,Murder - Total Victims,3. Total,115.0,1488,3.0,7.0,2.0,686.0,675.0
+794,Karnataka,2004,Murder - Total Victims,3. Total,163.0,1567,3.0,47.0,4.0,745.0,605.0
+795,Kerala,2004,Murder - Total Victims,3. Total,91.0,427,8.0,40.0,5.0,94.0,189.0
+796,Madhya Pradesh,2004,Murder - Total Victims,3. Total,275.0,2380,22.0,8.0,114.0,1088.0,873.0
+797,Maharashtra,2004,Murder - Total Victims,3. Total,291.0,2777,28.0,125.0,52.0,1176.0,1105.0
+798,Manipur,2004,Murder - Total Victims,3. Total,10.0,193,0.0,0.0,0.0,125.0,58.0
+799,Meghalaya,2004,Murder - Total Victims,3. Total,1.0,157,0.0,0.0,1.0,103.0,52.0
+800,Mizoram,2004,Murder - Total Victims,3. Total,6.0,35,0.0,0.0,0.0,15.0,14.0
+801,Nagaland,2004,Murder - Total Victims,3. Total,0.0,73,0.0,0.0,0.0,36.0,37.0
+802,Odisha,2004,Murder - Total Victims,3. Total,63.0,1137,4.0,2.0,3.0,610.0,455.0
+803,Puducherry,2004,Murder - Total Victims,3. Total,2.0,25,,1.0,,12.0,10.0
+804,Punjab,2004,Murder - Total Victims,3. Total,77.0,802,8.0,23.0,11.0,334.0,349.0
+805,Rajasthan,2004,Murder - Total Victims,3. Total,161.0,1292,6.0,8.0,7.0,568.0,542.0
+806,Sikkim,2004,Murder - Total Victims,3. Total,3.0,18,0.0,3.0,0.0,4.0,8.0
+807,Tamil Nadu,2004,Murder - Total Victims,3. Total,245.0,1544,13.0,66.0,4.0,612.0,604.0
+808,Tripura,2004,Murder - Total Victims,3. Total,22.0,226,3.0,0.0,2.0,124.0,75.0
+809,Uttar Pradesh,2004,Murder - Total Victims,3. Total,550.0,6665,218.0,116.0,347.0,2837.0,2597.0
+810,Uttarakhand,2004,Murder - Total Victims,3. Total,25.0,267,0.0,4.0,0.0,130.0,108.0
+811,West Bengal,2004,Murder - Total Victims,3. Total,65.0,1433,1.0,1.0,0.0,736.0,630.0
+812,Andaman & Nicobar Islands,2005,Murder - Total Victims,3. Total,1.0,15,,1.0,,5.0,8.0
+813,Andhra Pradesh,2005,Murder - Total Victims,3. Total,313.0,2928,21.0,38.0,28.0,1277.0,1251.0
+814,Arunachal Pradesh,2005,Murder - Total Victims,3. Total,2.0,81,0.0,0.0,0.0,59.0,20.0
+815,Assam,2005,Murder - Total Victims,3. Total,76.0,1194,4.0,0.0,9.0,714.0,391.0
+816,Bihar,2005,Murder - Total Victims,3. Total,189.0,3471,10.0,14.0,13.0,2160.0,1085.0
+817,Chandigarh,2005,Murder - Total Victims,3. Total,1.0,18,0.0,3.0,0.0,7.0,7.0
+818,Chhattisgarh,2005,Murder - Total Victims,3. Total,123.0,1050,14.0,11.0,12.0,405.0,485.0
+819,Dadra & Nagar Haveli,2005,Murder - Total Victims,3. Total,2.0,7,,1.0,1.0,2.0,1.0
+820,Daman & Diu,2005,Murder - Total Victims,3. Total,,5,1.0,,,4.0,
+821,Delhi,2005,Murder - Total Victims,3. Total,40.0,533,12.0,17.0,7.0,284.0,173.0
+822,Goa,2005,Murder - Total Victims,3. Total,5.0,49,1.0,3.0,,14.0,26.0
+823,Gujarat,2005,Murder - Total Victims,3. Total,115.0,1103,17.0,70.0,12.0,418.0,471.0
+824,Haryana,2005,Murder - Total Victims,3. Total,82.0,812,8.0,9.0,21.0,366.0,326.0
+825,Himachal Pradesh,2005,Murder - Total Victims,3. Total,15.0,118,0.0,6.0,4.0,40.0,53.0
+826,Jammu & Kashmir,2005,Murder - Total Victims,3. Total,45.0,746,0.0,4.0,0.0,425.0,272.0
+827,Jharkhand,2005,Murder - Total Victims,3. Total,130.0,1523,29.0,5.0,113.0,452.0,794.0
+828,Karnataka,2005,Murder - Total Victims,3. Total,182.0,1673,2.0,39.0,6.0,779.0,665.0
+829,Kerala,2005,Murder - Total Victims,3. Total,92.0,431,11.0,54.0,4.0,87.0,183.0
+830,Lakshadweep,2005,Murder - Total Victims,3. Total,,1,,,,1.0,0.0
+831,Madhya Pradesh,2005,Murder - Total Victims,3. Total,285.0,2428,35.0,35.0,80.0,1019.0,974.0
+832,Maharashtra,2005,Murder - Total Victims,3. Total,292.0,2745,43.0,154.0,45.0,1122.0,1089.0
+833,Manipur,2005,Murder - Total Victims,3. Total,6.0,295,1.0,1.0,1.0,186.0,100.0
+834,Meghalaya,2005,Murder - Total Victims,3. Total,6.0,138,1.0,3.0,7.0,57.0,64.0
+835,Mizoram,2005,Murder - Total Victims,3. Total,6.0,35,0.0,0.0,0.0,15.0,14.0
+836,Nagaland,2005,Murder - Total Victims,3. Total,5.0,91,0.0,0.0,0.0,48.0,38.0
+837,Odisha,2005,Murder - Total Victims,3. Total,87.0,1133,3.0,3.0,4.0,535.0,501.0
+838,Puducherry,2005,Murder - Total Victims,3. Total,3.0,19,,,,8.0,8.0
+839,Punjab,2005,Murder - Total Victims,3. Total,68.0,744,9.0,11.0,6.0,331.0,319.0
+840,Rajasthan,2005,Murder - Total Victims,3. Total,124.0,1246,11.0,21.0,25.0,523.0,542.0
+841,Sikkim,2005,Murder - Total Victims,3. Total,1.0,9,1.0,,0.0,3.0,4.0
+842,Tamil Nadu,2005,Murder - Total Victims,3. Total,248.0,1511,10.0,54.0,3.0,552.0,644.0
+843,Tripura,2005,Murder - Total Victims,3. Total,14.0,158,,1.0,0.0,91.0,52.0
+844,Uttar Pradesh,2005,Murder - Total Victims,3. Total,554.0,6365,124.0,44.0,222.0,3120.0,2301.0
+845,Uttarakhand,2005,Murder - Total Victims,3. Total,29.0,290,2.0,4.0,0.0,127.0,128.0
+846,West Bengal,2005,Murder - Total Victims,3. Total,74.0,1454,2.0,0.0,0.0,942.0,436.0
+847,Andaman & Nicobar Islands,2006,Murder - Total Victims,3. Total,2.0,5,,,,1.0,2.0
+848,Andhra Pradesh,2006,Murder - Total Victims,3. Total,392.0,2940,20.0,28.0,15.0,1367.0,1118.0
+849,Arunachal Pradesh,2006,Murder - Total Victims,3. Total,0.0,60,0.0,0.0,0.0,40.0,20.0
+850,Assam,2006,Murder - Total Victims,3. Total,83.0,1207,4.0,0.0,7.0,691.0,422.0
+851,Bihar,2006,Murder - Total Victims,3. Total,111.0,3249,2.0,3.0,7.0,1933.0,1193.0
+852,Chandigarh,2006,Murder - Total Victims,3. Total,5.0,14,0.0,1.0,0.0,2.0,6.0
+853,Chhattisgarh,2006,Murder - Total Victims,3. Total,141.0,1098,12.0,12.0,24.0,427.0,482.0
+854,Dadra & Nagar Haveli,2006,Murder - Total Victims,3. Total,1.0,9,0.0,1.0,0.0,3.0,4.0
+855,Daman & Diu,2006,Murder - Total Victims,3. Total,0.0,7,0.0,2.0,0.0,3.0,2.0
+856,Delhi,2006,Murder - Total Victims,3. Total,28.0,488,12.0,30.0,24.0,283.0,111.0
+857,Goa,2006,Murder - Total Victims,3. Total,11.0,40,,,2.0,12.0,15.0
+858,Gujarat,2006,Murder - Total Victims,3. Total,96.0,1214,17.0,80.0,13.0,497.0,511.0
+859,Haryana,2006,Murder - Total Victims,3. Total,56.0,899,9.0,0.0,21.0,404.0,409.0
+860,Himachal Pradesh,2006,Murder - Total Victims,3. Total,12.0,129,1.0,4.0,0.0,48.0,64.0
+861,Jammu & Kashmir,2006,Murder - Total Victims,3. Total,17.0,641,1.0,2.0,7.0,324.0,290.0
+862,Jharkhand,2006,Murder - Total Victims,3. Total,258.0,1492,18.0,12.0,109.0,557.0,538.0
+863,Karnataka,2006,Murder - Total Victims,3. Total,164.0,1677,13.0,58.0,8.0,757.0,677.0
+864,Kerala,2006,Murder - Total Victims,3. Total,78.0,426,4.0,65.0,3.0,102.0,174.0
+865,Madhya Pradesh,2006,Murder - Total Victims,3. Total,362.0,2330,36.0,48.0,76.0,900.0,908.0
+866,Maharashtra,2006,Murder - Total Victims,3. Total,367.0,2961,38.0,159.0,54.0,1208.0,1135.0
+867,Manipur,2006,Murder - Total Victims,3. Total,17.0,238,2.0,0.0,5.0,127.0,87.0
+868,Meghalaya,2006,Murder - Total Victims,3. Total,3.0,157,0.0,2.0,5.0,82.0,65.0
+869,Mizoram,2006,Murder - Total Victims,3. Total,0.0,25,0.0,0.0,0.0,20.0,5.0
+870,Nagaland,2006,Murder - Total Victims,3. Total,2.0,123,1.0,4.0,4.0,77.0,35.0
+871,Odisha,2006,Murder - Total Victims,3. Total,54.0,1167,4.0,3.0,11.0,560.0,535.0
+872,Puducherry,2006,Murder - Total Victims,3. Total,3.0,30,,,1.0,12.0,14.0
+873,Punjab,2006,Murder - Total Victims,3. Total,111.0,851,6.0,10.0,10.0,386.0,328.0
+874,Rajasthan,2006,Murder - Total Victims,3. Total,145.0,1238,22.0,30.0,25.0,505.0,511.0
+875,Sikkim,2006,Murder - Total Victims,3. Total,4.0,21,,,4.0,5.0,8.0
+876,Tamil Nadu,2006,Murder - Total Victims,3. Total,236.0,1418,16.0,48.0,6.0,492.0,620.0
+877,Tripura,2006,Murder - Total Victims,3. Total,18.0,165,2.0,1.0,,71.0,73.0
+878,Uttar Pradesh,2006,Murder - Total Victims,3. Total,510.0,5762,161.0,34.0,231.0,2813.0,2013.0
+879,Uttarakhand,2006,Murder - Total Victims,3. Total,12.0,285,2.0,2.0,6.0,96.0,167.0
+880,West Bengal,2006,Murder - Total Victims,3. Total,69.0,1442,0.0,1.0,2.0,881.0,489.0
+881,Andaman & Nicobar Islands,2007,Murder - Total Victims,3. Total,3.0,15,,,,6.0,6.0
+882,Andhra Pradesh,2007,Murder - Total Victims,3. Total,273.0,2850,24.0,45.0,39.0,1289.0,1180.0
+883,Arunachal Pradesh,2007,Murder - Total Victims,3. Total,1.0,68,0.0,0.0,0.0,44.0,23.0
+884,Assam,2007,Murder - Total Victims,3. Total,97.0,1374,1.0,0.0,1.0,817.0,458.0
+885,Bihar,2007,Murder - Total Victims,3. Total,166.0,3081,23.0,16.0,56.0,1688.0,1132.0
+886,Chandigarh,2007,Murder - Total Victims,3. Total,1.0,20,0.0,2.0,0.0,10.0,7.0
+887,Chhattisgarh,2007,Murder - Total Victims,3. Total,227.0,1097,15.0,13.0,17.0,381.0,444.0
+888,Dadra & Nagar Haveli,2007,Murder - Total Victims,3. Total,0.0,10,,1.0,,3.0,6.0
+889,Daman & Diu,2007,Murder - Total Victims,3. Total,4.0,12,1.0,1.0,0.0,4.0,2.0
+890,Delhi,2007,Murder - Total Victims,3. Total,41.0,511,8.0,24.0,25.0,276.0,137.0
+891,Goa,2007,Murder - Total Victims,3. Total,8.0,34,,2.0,,9.0,15.0
+892,Gujarat,2007,Murder - Total Victims,3. Total,127.0,1214,15.0,71.0,18.0,406.0,577.0
+893,Haryana,2007,Murder - Total Victims,3. Total,60.0,942,28.0,33.0,38.0,416.0,367.0
+894,Himachal Pradesh,2007,Murder - Total Victims,3. Total,16.0,132,3.0,5.0,2.0,46.0,60.0
+895,Jammu & Kashmir,2007,Murder - Total Victims,3. Total,18.0,366,0.0,0.0,0.0,196.0,152.0
+896,Jharkhand,2007,Murder - Total Victims,3. Total,129.0,1617,13.0,2.0,10.0,637.0,826.0
+897,Karnataka,2007,Murder - Total Victims,3. Total,174.0,1586,9.0,32.0,12.0,670.0,689.0
+898,Kerala,2007,Murder - Total Victims,3. Total,85.0,393,9.0,39.0,5.0,88.0,167.0
+899,Madhya Pradesh,2007,Murder - Total Victims,3. Total,281.0,2315,34.0,81.0,45.0,950.0,924.0
+900,Maharashtra,2007,Murder - Total Victims,3. Total,348.0,2793,39.0,165.0,46.0,1175.0,1020.0
+901,Manipur,2007,Murder - Total Victims,3. Total,10.0,295,1.0,1.0,6.0,148.0,129.0
+902,Meghalaya,2007,Murder - Total Victims,3. Total,9.0,114,3.0,2.0,7.0,39.0,54.0
+903,Mizoram,2007,Murder - Total Victims,3. Total,2.0,43,1.0,0.0,2.0,26.0,12.0
+904,Nagaland,2007,Murder - Total Victims,3. Total,3.0,118,0.0,1.0,2.0,51.0,61.0
+905,Odisha,2007,Murder - Total Victims,3. Total,44.0,1235,12.0,6.0,15.0,637.0,521.0
+906,Puducherry,2007,Murder - Total Victims,3. Total,3.0,35,,2.0,1.0,21.0,8.0
+907,Punjab,2007,Murder - Total Victims,3. Total,85.0,826,13.0,10.0,10.0,386.0,322.0
+908,Rajasthan,2007,Murder - Total Victims,3. Total,128.0,1359,29.0,28.0,32.0,536.0,606.0
+909,Sikkim,2007,Murder - Total Victims,3. Total,1.0,9,1.0,,,5.0,2.0
+910,Tamil Nadu,2007,Murder - Total Victims,3. Total,314.0,1711,14.0,49.0,5.0,607.0,722.0
+911,Tripura,2007,Murder - Total Victims,3. Total,25.0,150,4.0,3.0,4.0,52.0,62.0
+912,Uttar Pradesh,2007,Murder - Total Victims,3. Total,446.0,5182,160.0,61.0,176.0,2432.0,1907.0
+913,Uttarakhand,2007,Murder - Total Victims,3. Total,25.0,268,4.0,5.0,5.0,164.0,65.0
+914,West Bengal,2007,Murder - Total Victims,3. Total,78.0,1653,2.0,8.0,5.0,968.0,592.0
+915,Andaman & Nicobar Islands,2008,Murder - Total Victims,3. Total,2.0,8,2.0,,,2.0,2.0
+916,Andhra Pradesh,2008,Murder - Total Victims,3. Total,303.0,2762,21.0,36.0,64.0,1266.0,1072.0
+917,Arunachal Pradesh,2008,Murder - Total Victims,3. Total,2.0,72,0.0,0.0,0.0,40.0,30.0
+918,Assam,2008,Murder - Total Victims,3. Total,55.0,1426,1.0,0.0,0.0,851.0,519.0
+919,Bihar,2008,Murder - Total Victims,3. Total,114.0,3139,19.0,37.0,60.0,1837.0,1072.0
+920,Chandigarh,2008,Murder - Total Victims,3. Total,2.0,17,0.0,0.0,0.0,10.0,5.0
+921,Chhattisgarh,2008,Murder - Total Victims,3. Total,152.0,1169,19.0,23.0,56.0,411.0,508.0
+922,Dadra & Nagar Haveli,2008,Murder - Total Victims,3. Total,3.0,9,1.0,,,,5.0
+923,Daman & Diu,2008,Murder - Total Victims,3. Total,0.0,2,0.0,0.0,,0.0,2.0
+924,Delhi,2008,Murder - Total Victims,3. Total,43.0,589,9.0,25.0,17.0,202.0,293.0
+925,Goa,2008,Murder - Total Victims,3. Total,11.0,53,1.0,2.0,0.0,18.0,21.0
+926,Gujarat,2008,Murder - Total Victims,3. Total,107.0,1145,9.0,47.0,10.0,449.0,523.0
+927,Haryana,2008,Murder - Total Victims,3. Total,112.0,970,11.0,7.0,13.0,404.0,423.0
+928,Himachal Pradesh,2008,Murder - Total Victims,3. Total,14.0,130,3.0,4.0,7.0,37.0,65.0
+929,Jammu & Kashmir,2008,Murder - Total Victims,3. Total,18.0,266,0.0,0.0,0.0,107.0,141.0
+930,Jharkhand,2008,Murder - Total Victims,3. Total,98.0,1697,0.0,4.0,7.0,841.0,747.0
+931,Karnataka,2008,Murder - Total Victims,3. Total,172.0,1800,28.0,107.0,32.0,700.0,761.0
+932,Kerala,2008,Murder - Total Victims,3. Total,77.0,379,10.0,39.0,,86.0,167.0
+933,Lakshadweep,2008,Murder - Total Victims,3. Total,,1,,,,,1.0
+934,Madhya Pradesh,2008,Murder - Total Victims,3. Total,312.0,2351,68.0,22.0,17.0,930.0,1002.0
+935,Maharashtra,2008,Murder - Total Victims,3. Total,335.0,2976,43.0,116.0,41.0,1241.0,1200.0
+936,Manipur,2008,Murder - Total Victims,3. Total,12.0,268,4.0,5.0,3.0,141.0,103.0
+937,Meghalaya,2008,Murder - Total Victims,3. Total,9.0,126,0.0,0.0,0.0,65.0,52.0
+938,Mizoram,2008,Murder - Total Victims,3. Total,0.0,35,0.0,0.0,0.0,24.0,11.0
+939,Nagaland,2008,Murder - Total Victims,3. Total,3.0,147,0.0,0.0,0.0,86.0,58.0
+940,Odisha,2008,Murder - Total Victims,3. Total,98.0,1250,4.0,6.0,3.0,533.0,606.0
+941,Puducherry,2008,Murder - Total Victims,3. Total,5.0,35,,1.0,,17.0,12.0
+942,Punjab,2008,Murder - Total Victims,3. Total,83.0,815,9.0,10.0,13.0,386.0,314.0
+943,Rajasthan,2008,Murder - Total Victims,3. Total,131.0,1320,24.0,21.0,48.0,527.0,569.0
+944,Sikkim,2008,Murder - Total Victims,3. Total,,9,,,2.0,4.0,3.0
+945,Tamil Nadu,2008,Murder - Total Victims,3. Total,327.0,1824,8.0,88.0,4.0,597.0,800.0
+946,Tripura,2008,Murder - Total Victims,3. Total,17.0,166,9.0,7.0,4.0,57.0,72.0
+947,Uttar Pradesh,2008,Murder - Total Victims,3. Total,396.0,4699,124.0,60.0,192.0,2287.0,1640.0
+948,Uttarakhand,2008,Murder - Total Victims,3. Total,28.0,261,,1.0,2.0,168.0,62.0
+949,West Bengal,2008,Murder - Total Victims,3. Total,165.0,1811,5.0,2.0,14.0,910.0,715.0
+950,Andaman & Nicobar Islands,2009,Murder - Total Victims,3. Total,,18,,3.0,,6.0,9.0
+951,Andhra Pradesh,2009,Murder - Total Victims,3. Total,275.0,2475,18.0,30.0,29.0,1047.0,1076.0
+952,Arunachal Pradesh,2009,Murder - Total Victims,3. Total,0.0,59,0.0,0.0,0.0,31.0,28.0
+953,Assam,2009,Murder - Total Victims,3. Total,40.0,1323,0.0,0.0,4.0,846.0,433.0
+954,Bihar,2009,Murder - Total Victims,3. Total,143.0,3179,26.0,22.0,78.0,1858.0,1052.0
+955,Chandigarh,2009,Murder - Total Victims,3. Total,1.0,22,0.0,1.0,0.0,12.0,8.0
+956,Chhattisgarh,2009,Murder - Total Victims,3. Total,161.0,1083,11.0,39.0,34.0,355.0,483.0
+957,Dadra & Nagar Haveli,2009,Murder - Total Victims,3. Total,1.0,10,,1.0,,4.0,4.0
+958,Daman & Diu,2009,Murder - Total Victims,3. Total,,5,,,,2.0,3.0
+959,Delhi,2009,Murder - Total Victims,3. Total,41.0,571,21.0,30.0,30.0,291.0,158.0
+960,Goa,2009,Murder - Total Victims,3. Total,6.0,57,0.0,3.0,1.0,22.0,25.0
+961,Gujarat,2009,Murder - Total Victims,3. Total,90.0,1059,15.0,58.0,6.0,386.0,504.0
+962,Haryana,2009,Murder - Total Victims,3. Total,98.0,1007,6.0,2.0,11.0,427.0,463.0
+963,Himachal Pradesh,2009,Murder - Total Victims,3. Total,23.0,133,2.0,4.0,3.0,41.0,60.0
+964,Jammu & Kashmir,2009,Murder - Total Victims,3. Total,14.0,262,0.0,1.0,3.0,124.0,120.0
+965,Jharkhand,2009,Murder - Total Victims,3. Total,89.0,1636,2.0,4.0,5.0,728.0,808.0
+966,Karnataka,2009,Murder - Total Victims,3. Total,187.0,1752,23.0,28.0,12.0,698.0,804.0
+967,Kerala,2009,Murder - Total Victims,3. Total,76.0,369,11.0,42.0,6.0,80.0,154.0
+968,Madhya Pradesh,2009,Murder - Total Victims,3. Total,334.0,2402,31.0,60.0,36.0,949.0,992.0
+969,Maharashtra,2009,Murder - Total Victims,3. Total,320.0,2712,26.0,142.0,38.0,1171.0,1015.0
+970,Manipur,2009,Murder - Total Victims,3. Total,18.0,174,2.0,4.0,4.0,61.0,85.0
+971,Meghalaya,2009,Murder - Total Victims,3. Total,8.0,128,2.0,0.0,6.0,85.0,27.0
+972,Mizoram,2009,Murder - Total Victims,3. Total,,31,0.0,,,11.0,20.0
+973,Nagaland,2009,Murder - Total Victims,3. Total,1.0,49,0.0,0.0,0.0,30.0,18.0
+974,Odisha,2009,Murder - Total Victims,3. Total,158.0,1266,1.0,4.0,8.0,551.0,544.0
+975,Puducherry,2009,Murder - Total Victims,3. Total,3.0,39,,1.0,,16.0,19.0
+976,Punjab,2009,Murder - Total Victims,3. Total,56.0,861,21.0,33.0,28.0,343.0,380.0
+977,Rajasthan,2009,Murder - Total Victims,3. Total,159.0,1417,24.0,29.0,44.0,574.0,587.0
+978,Sikkim,2009,Murder - Total Victims,3. Total,1.0,20,,3.0,,10.0,6.0
+979,Tamil Nadu,2009,Murder - Total Victims,3. Total,339.0,1857,14.0,81.0,10.0,578.0,835.0
+980,Tripura,2009,Murder - Total Victims,3. Total,11.0,148,5.0,10.0,3.0,56.0,63.0
+981,Uttar Pradesh,2009,Murder - Total Victims,3. Total,435.0,4679,145.0,71.0,156.0,2259.0,1613.0
+982,Uttarakhand,2009,Murder - Total Victims,3. Total,14.0,195,2.0,2.0,1.0,110.0,66.0
+983,West Bengal,2009,Murder - Total Victims,3. Total,113.0,2161,8.0,5.0,10.0,1117.0,908.0
+984,Andaman & Nicobar Islands,2010,Murder - Total Victims,3. Total,,10,,,2.0,2.0,6.0
+985,Andhra Pradesh,2010,Murder - Total Victims,3. Total,468.0,2538,28.0,22.0,19.0,1197.0,804.0
+986,Arunachal Pradesh,2010,Murder - Total Victims,3. Total,0.0,75,0.0,0.0,0.0,55.0,20.0
+987,Assam,2010,Murder - Total Victims,3. Total,46.0,1223,,,10.0,763.0,404.0
+988,Bihar,2010,Murder - Total Victims,3. Total,225.0,3362,44.0,26.0,132.0,1861.0,1074.0
+989,Chandigarh,2010,Murder - Total Victims,3. Total,4.0,22,0.0,1.0,0.0,6.0,11.0
+990,Chhattisgarh,2010,Murder - Total Victims,3. Total,145.0,1065,13.0,32.0,50.0,358.0,467.0
+991,Dadra & Nagar Haveli,2010,Murder - Total Victims,3. Total,,6,,,,1.0,5.0
+992,Daman & Diu,2010,Murder - Total Victims,3. Total,0.0,5,0.0,0.0,0.0,4.0,1.0
+993,Delhi,2010,Murder - Total Victims,3. Total,39.0,577,11.0,10.0,18.0,293.0,206.0
+994,Goa,2010,Murder - Total Victims,3. Total,2.0,35,0.0,0.0,1.0,14.0,18.0
+995,Gujarat,2010,Murder - Total Victims,3. Total,110.0,1082,18.0,46.0,7.0,443.0,458.0
+996,Haryana,2010,Murder - Total Victims,3. Total,79.0,1044,10.0,6.0,14.0,466.0,469.0
+997,Himachal Pradesh,2010,Murder - Total Victims,3. Total,19.0,133,0.0,5.0,3.0,42.0,64.0
+998,Jammu & Kashmir,2010,Murder - Total Victims,3. Total,22.0,235,0.0,1.0,0.0,106.0,106.0
+999,Jharkhand,2010,Murder - Total Victims,3. Total,77.0,1752,2.0,4.0,2.0,1036.0,631.0
+1000,Karnataka,2010,Murder - Total Victims,3. Total,187.0,1878,6.0,45.0,9.0,858.0,773.0
+1001,Kerala,2010,Murder - Total Victims,3. Total,82.0,405,9.0,39.0,1.0,84.0,190.0
+1002,Madhya Pradesh,2010,Murder - Total Victims,3. Total,304.0,2441,40.0,55.0,49.0,978.0,1015.0
+1003,Maharashtra,2010,Murder - Total Victims,3. Total,322.0,2837,34.0,169.0,34.0,1222.0,1056.0
+1004,Manipur,2010,Murder - Total Victims,3. Total,9.0,101,2.0,0.0,0.0,31.0,59.0
+1005,Meghalaya,2010,Murder - Total Victims,3. Total,10.0,137,0.0,1.0,1.0,69.0,56.0
+1006,Mizoram,2010,Murder - Total Victims,3. Total,9.0,48,0.0,0.0,2.0,8.0,29.0
+1007,Nagaland,2010,Murder - Total Victims,3. Total,10.0,47,0.0,0.0,0.0,20.0,17.0
+1008,Odisha,2010,Murder - Total Victims,3. Total,104.0,1319,0.0,10.0,2.0,566.0,637.0
+1009,Puducherry,2010,Murder - Total Victims,3. Total,8.0,34,,,,13.0,13.0
+1010,Punjab,2010,Murder - Total Victims,3. Total,86.0,945,9.0,21.0,18.0,384.0,427.0
+1011,Rajasthan,2010,Murder - Total Victims,3. Total,135.0,1421,22.0,29.0,42.0,567.0,626.0
+1012,Sikkim,2010,Murder - Total Victims,3. Total,3.0,17,1.0,2.0,,4.0,7.0
+1013,Tamil Nadu,2010,Murder - Total Victims,3. Total,327.0,1908,13.0,63.0,16.0,650.0,839.0
+1014,Tripura,2010,Murder - Total Victims,3. Total,24.0,159,2.0,0.0,0.0,60.0,73.0
+1015,Uttar Pradesh,2010,Murder - Total Victims,3. Total,344.0,4456,82.0,138.0,126.0,2358.0,1408.0
+1016,Uttarakhand,2010,Murder - Total Victims,3. Total,19.0,176,1.0,,2.0,91.0,63.0
+1017,West Bengal,2010,Murder - Total Victims,3. Total,120.0,2415,8.0,2.0,6.0,1177.0,1102.0
