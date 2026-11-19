@@ -33,6 +33,9 @@
       <a class="nav" href="#trends">⌁ &nbsp; Yearly trends</a>
       <a class="nav" href="#forecast">◷ &nbsp; Forecasting</a>
       <a class="nav" href="#places">⌖ &nbsp; State &amp; district ranking</a>
+      <a class="nav" href="#risk-map">🗺️ &nbsp; India Crime Risk Map</a>
+      <a class="nav" href="#travel">🛡️ &nbsp; Safe Travel Advisor</a>
+      <a class="nav" href="#manpower">👮 &nbsp; Man Power Allocation</a>
     </nav>
 
     <div class="side-note">
@@ -194,6 +197,582 @@
         </select>
       </div>
       <div class="rank-list" id="rankList"></div>
+    </section>
+
+    <!-- ========================================================================= -->
+    <!-- India Crime Risk Map Section (High, Medium, Low by Crime Category)        -->
+    <!-- ========================================================================= -->
+    <section id="risk-map" class="panel risk-map-panel">
+      <div class="panel-head">
+        <div>
+          <h2>🗺️ India Crime Risk Map (High, Medium, Low)</h2>
+          <p>Interactive geographic map showing crime risk levels across Indian States &amp; Union Territories</p>
+        </div>
+        <span class="tag orange-tag">RISK PREDICTION MAP</span>
+      </div>
+
+      <!-- Map Filter Controls -->
+      <div class="map-controls">
+        <div class="control-group">
+          <label for="mapCategory">Crime Category to Analyze</label>
+          <select id="mapCategory">
+            <option value="total" selected>📊 Total Reported IPC Crimes</option>
+            <option value="murder">🔪 Murder &amp; Violent Crimes</option>
+            <option value="rape">🛡️ Women Safety (Rape &amp; Assault)</option>
+            <option value="theft">💼 Theft &amp; Pickpocketing</option>
+            <option value="robbery">🚨 Robbery &amp; Armed Heists</option>
+            <option value="riots">⚔️ Riots &amp; Public Clashes</option>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="mapYear">Analysis / Forecast Year</label>
+          <select id="mapYear">
+            <option value="2026" selected>2026 (Latest Projected)</option>
+            <option value="2027">2027 (Next Year Forecast)</option>
+            <option value="2028">2028 (2 Years Ahead Forecast)</option>
+            <option value="2025">2025</option>
+            <option value="2024">2024</option>
+          </select>
+        </div>
+
+        <div class="map-kpis-strip">
+          <div class="map-kpi-pill red-pill">
+            <span>High Risk</span>
+            <b id="mapHighCount">—</b>
+          </div>
+          <div class="map-kpi-pill yellow-pill">
+            <span>Medium Risk</span>
+            <b id="mapMedCount">—</b>
+          </div>
+          <div class="map-kpi-pill green-pill">
+            <span>Low Risk</span>
+            <b id="mapLowCount">—</b>
+          </div>
+        </div>
+      </div>
+
+      <!-- Map & Sidebar Grid -->
+      <div class="map-grid">
+        <!-- SVG Map Container -->
+        <div class="map-viewport-box">
+          <div class="map-box-header">
+            <span class="map-current-category" id="mapCategoryDisplay">Total Reported IPC Crimes (2026)</span>
+            <span class="map-hint">💡 Hover or click on any state to inspect details</span>
+          </div>
+
+          <div class="svg-map-wrapper" id="indiaMapContainer">
+            <div class="map-loading">Loading India Map…</div>
+          </div>
+
+          <!-- Floating Tooltip -->
+          <div id="mapTooltip" class="map-tooltip" style="display: none;"></div>
+
+          <!-- Map Legend -->
+          <div class="map-legend">
+            <div class="legend-item"><span class="legend-dot red"></span> <b>High Risk</b> (Top 33%)</div>
+            <div class="legend-item"><span class="legend-dot yellow"></span> <b>Medium Risk</b> (Middle 33%)</div>
+            <div class="legend-item"><span class="legend-dot green"></span> <b>Low Risk</b> (Bottom 33%)</div>
+          </div>
+        </div>
+
+        <!-- State Inspector & Rankings -->
+        <div class="map-sidebar-col">
+          <!-- Spotlight Card for Hovered/Selected State -->
+          <div class="state-spotlight-card" id="mapSpotlightCard">
+            <div class="spotlight-top">
+              <div>
+                <small class="spotlight-label">SELECTED STATE / UT</small>
+                <h3 id="spotlightName">Select a state</h3>
+              </div>
+              <span id="spotlightBadge" class="tier-badge tier-baseline">Low Risk</span>
+            </div>
+            <div class="spotlight-metric">
+              <span class="spotlight-number" id="spotlightCount">—</span>
+              <small id="spotlightCategoryLabel">Cases in selected category</small>
+            </div>
+            <div class="spotlight-details">
+              <div class="spotlight-detail-row">
+                <span>National Share:</span>
+                <b id="spotlightShare">—</b>
+              </div>
+              <div class="spotlight-detail-row">
+                <span>All-India Rank:</span>
+                <b id="spotlightRank">—</b>
+              </div>
+              <div class="spotlight-detail-row">
+                <span>Highest Risk District:</span>
+                <b id="spotlightTopDistrict">—</b>
+              </div>
+            </div>
+          </div>
+
+          <!-- Ranked State Leaderboard -->
+          <div class="map-leaderboard-box">
+            <div class="leaderboard-header">
+              <h4>All-India Risk Rankings</h4>
+              <small id="leaderboardTotal">Total Crimes: —</small>
+            </div>
+            <div class="leaderboard-list" id="mapLeaderboardList">
+              <!-- Dynamically populated rows -->
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ========================================================================= -->
+      <!-- District Crime Risk & Incident Predictor                                 -->
+      <!-- ========================================================================= -->
+      <div class="district-risk-wrapper" id="districtRiskBox">
+        <div class="district-subhead">
+          <div>
+            <h3>🔍 District Crime Risk &amp; Incident Predictor</h3>
+            <p>Know what crime happens most in your district and check specific risks (e.g. stolen belongings, women safety, violence)</p>
+          </div>
+          <span class="tag purple">DISTRICT RISK PREDICTION</span>
+        </div>
+
+        <!-- District Filter Controls -->
+        <div class="district-controls-bar">
+          <div class="control-group">
+            <label for="districtRiskState">State / UT</label>
+            <select id="districtRiskState">
+              <!-- Dynamically populated from states -->
+            </select>
+          </div>
+
+          <div class="control-group">
+            <label for="districtRiskDistrict">District to Analyze</label>
+            <select id="districtRiskDistrict">
+              <!-- Dynamically populated from districts of chosen state -->
+            </select>
+          </div>
+
+          <div class="control-group">
+            <label for="districtRiskIncident">What Incident / Concern are you checking?</label>
+            <select id="districtRiskIncident">
+              <option value="theft" selected>💼 Stolen Items / Pickpocketing / Theft</option>
+              <option value="rape">🛡️ Women Safety (Rape &amp; Harassment)</option>
+              <option value="murder">🔪 Violent Crimes &amp; Assault</option>
+              <option value="robbery">🚨 Robbery &amp; Armed Heists</option>
+              <option value="riots">⚔️ Public Riots &amp; Clashes</option>
+              <option value="total">📊 Total General Crimes</option>
+            </select>
+          </div>
+
+          <div class="control-group">
+            <label for="districtRiskYear">Forecast / Analysis Year</label>
+            <select id="districtRiskYear">
+              <option value="2026" selected>2026 (Latest Projected)</option>
+              <option value="2027">2027 (Next Year Forecast)</option>
+              <option value="2028">2028 (2 Years Ahead Forecast)</option>
+              <option value="2025">2025</option>
+              <option value="2024">2024</option>
+            </select>
+          </div>
+
+          <button id="districtRiskCheckBtn" class="btn-check-risk">Check District Risk</button>
+        </div>
+
+        <!-- Primary Crime Banner (Which crime category is most in this state/district) -->
+        <div class="primary-crime-banner" id="districtPrimaryBanner">
+          <div class="primary-banner-left">
+            <span class="banner-pill">#1 MOST COMMON CRIME HERE</span>
+            <h4 id="primaryCrimeTitle">Loading District Risk Profile…</h4>
+            <p id="primaryCrimeDesc">Select a state and district above to identify the most frequent crime and predicted risk.</p>
+          </div>
+          <div class="primary-banner-right">
+            <div class="primary-stat-box">
+              <span class="stat-label">Total Annual Crimes</span>
+              <b class="stat-val" id="districtTotalCrimes">—</b>
+            </div>
+          </div>
+        </div>
+
+        <!-- Incident Assessment & Category Grid -->
+        <div class="district-results-grid">
+          <!-- Left: Incident Risk Assessment Card (e.g. "If my thing is stolen") -->
+          <div class="incident-card" id="incidentCard">
+            <div class="incident-header">
+              <div>
+                <small class="incident-subtitle">INCIDENT RISK ASSESSMENT</small>
+                <h4 id="incidentTitle">Stolen Items &amp; Pickpocketing Risk</h4>
+              </div>
+              <span id="incidentBadge" class="tier-badge tier-critical">🔴 High Risk</span>
+            </div>
+
+            <div class="incident-metric-strip">
+              <div class="inc-metric">
+                <span>Predicted Cases</span>
+                <b id="incidentCases">—</b>
+              </div>
+              <div class="inc-metric">
+                <span>State Rank</span>
+                <b id="incidentRank">—</b>
+              </div>
+              <div class="inc-metric">
+                <span>Trend Direction</span>
+                <b id="incidentTrend">—</b>
+              </div>
+              <div class="inc-metric">
+                <span>Vs State District Avg</span>
+                <b id="incidentVsAvg">—</b>
+              </div>
+            </div>
+
+            <!-- Actionable What to Do / Guidance -->
+            <div class="incident-advice-box">
+              <div class="advice-head">
+                <span class="advice-icon">💡</span>
+                <b id="adviceTitle">What should you do if your item is stolen here?</b>
+              </div>
+              <ul class="advice-steps" id="incidentAdviceList">
+                <!-- Dynamically populated steps -->
+              </ul>
+              <div class="emergency-strip">
+                <span>Emergency Helpline:</span>
+                <b id="incidentHelpline">112 (National Emergency Support)</b>
+              </div>
+            </div>
+          </div>
+
+          <!-- Right: All Crime Categories Risk Matrix & State Leaderboard -->
+          <div class="district-matrix-box">
+            <div class="matrix-header">
+              <h4>District Risk by Crime Category</h4>
+              <small id="matrixSubtitle">Predicted cases &amp; risk tier</small>
+            </div>
+            
+            <div class="category-risk-table" id="districtCategoryMatrix">
+              <!-- Dynamically populated category rows -->
+            </div>
+
+            <!-- Mini Hotspot Comparison in State -->
+            <div class="state-hotspot-compare">
+              <div class="compare-head">
+                <span>Top Districts in this State for Selected Crime:</span>
+              </div>
+              <div class="compare-pills" id="districtTopInState">
+                <!-- Dynamically populated top 5 districts in state -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================= -->
+    <!-- Safe Travel & Area Comparison Engine Section                              -->
+    <!-- ========================================================================= -->
+    <section id="travel" class="panel travel-panel">
+      <div class="panel-head">
+        <div>
+          <h2>Safe Travel &amp; Area Comparison</h2>
+          <p>Select two places to easily compare which area is safer before you travel or visit</p>
+        </div>
+        <span class="tag blue-tag">TRAVEL ADVISOR</span>
+      </div>
+
+      <!-- Comparison Selectors Strip -->
+      <div class="travel-controls">
+        <div class="travel-group">
+          <span class="group-title">📍 Place 1 (First Area)</span>
+          <div class="travel-selectors">
+            <select id="travelStateA" aria-label="Place 1 State"></select>
+            <select id="travelDistrictA" aria-label="Place 1 District">
+              <option>All districts</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="vs-circle">VS</div>
+
+        <div class="travel-group">
+          <span class="group-title">📍 Place 2 (Second Area)</span>
+          <div class="travel-selectors">
+            <select id="travelStateB" aria-label="Place 2 State"></select>
+            <select id="travelDistrictB" aria-label="Place 2 District">
+              <option>All districts</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="travel-group travel-priority">
+          <span class="group-title">🎯 Travel Purpose</span>
+          <select id="travelProfile">
+            <option value="general" selected>🚶 General Travel (Family &amp; Leisure)</option>
+            <option value="women">👩 Women / Solo Traveler</option>
+            <option value="tourist">🧳 Tourist &amp; Sightseeing</option>
+          </select>
+        </div>
+
+        <button id="travelCompareBtn" class="btn-travel" type="button">
+          Compare Safety ➔
+        </button>
+      </div>
+
+      <!-- Travel Profile Explanation Banner -->
+      <div class="travel-profile-banner" id="travelProfileBanner">
+        <span class="travel-profile-tag" id="travelProfileTag">General Travel (Family &amp; Leisure)</span>
+        <span class="travel-profile-desc" id="travelProfileDesc">Standard safety check balancing violent crime and everyday street theft.</span>
+      </div>
+
+      <!-- Big Winner Verdict Banner -->
+      <div class="verdict-banner" id="travelVerdictCard">
+        <div class="verdict-icon">🏆</div>
+        <div>
+          <h3 id="travelVerdictTitle">Loading safety comparison…</h3>
+          <p id="travelVerdictSummary">Comparing reported crime records between both locations.</p>
+        </div>
+      </div>
+
+      <!-- Side-by-Side Area Safety Cards -->
+      <div class="travel-cards-grid">
+        <!-- Area A Card -->
+        <div class="area-card" id="areaCardA">
+          <div class="area-card-header">
+            <div>
+              <span class="area-badge">PLACE 1</span>
+              <h3 id="travelNameA">—</h3>
+            </div>
+            <span class="safety-badge" id="travelBadgeA">—</span>
+          </div>
+
+          <div class="score-display">
+            <div class="score-number-wrap">
+              <span class="score-val" id="travelScoreA">—</span>
+              <span class="score-max">/100</span>
+            </div>
+            <div class="score-info">
+              <b>Safety Score</b>
+              <small id="travelDescA">Calculating…</small>
+            </div>
+          </div>
+
+          <div class="score-progress-bar">
+            <div class="score-fill" id="travelFillA" style="width: 50%;"></div>
+          </div>
+
+          <div class="area-meta-row">
+            <div>
+              <span>Crime Trend:</span>
+              <b id="travelTrendA">—</b>
+            </div>
+            <div>
+              <span>Annual Crimes:</span>
+              <b id="travelTotalA">—</b>
+            </div>
+          </div>
+
+          <div class="travel-tips-box">
+            <b>Helpful Travel Advice:</b>
+            <ul id="travelTipsA">
+              <li>Loading advice…</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Area B Card -->
+        <div class="area-card" id="areaCardB">
+          <div class="area-card-header">
+            <div>
+              <span class="area-badge">PLACE 2</span>
+              <h3 id="travelNameB">—</h3>
+            </div>
+            <span class="safety-badge" id="travelBadgeB">—</span>
+          </div>
+
+          <div class="score-display">
+            <div class="score-number-wrap">
+              <span class="score-val" id="travelScoreB">—</span>
+              <span class="score-max">/100</span>
+            </div>
+            <div class="score-info">
+              <b>Safety Score</b>
+              <small id="travelDescB">Calculating…</small>
+            </div>
+          </div>
+
+          <div class="score-progress-bar">
+            <div class="score-fill" id="travelFillB" style="width: 50%;"></div>
+          </div>
+
+          <div class="area-meta-row">
+            <div>
+              <span>Crime Trend:</span>
+              <b id="travelTrendB">—</b>
+            </div>
+            <div>
+              <span>Annual Crimes:</span>
+              <b id="travelTotalB">—</b>
+            </div>
+          </div>
+
+          <div class="travel-tips-box">
+            <b>Helpful Travel Advice:</b>
+            <ul id="travelTipsB">
+              <li>Loading advice…</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Side-by-Side Category Crime Chart -->
+      <div class="travel-chart-box">
+        <div class="box-head">
+          <h3>Category-by-Category Crime Comparison</h3>
+          <span class="subtext">Compare average annual cases between Place 1 and Place 2</span>
+        </div>
+        <div class="chart-wrap" style="height: 310px;">
+          <canvas id="travelChart"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================= -->
+    <!-- Smart Police Deployment & Resource Planning Section                       -->
+    <!-- ========================================================================= -->
+    <section id="manpower" class="panel manpower-panel">
+      <div class="panel-head">
+        <div>
+          <h2>Smart Police Deployment (Where are Officers Needed Most?)</h2>
+          <p>Predict future crime risk in each area and automatically calculate how many police officers to send</p>
+        </div>
+        <span class="tag green">SMART ALLOCATION</span>
+      </div>
+
+      <!-- Manpower Controls Strip -->
+      <div class="manpower-controls">
+        <div class="control-group">
+          <label for="mpState">Select State / Region</label>
+          <select id="mpState">
+            <option value="All India">All India (Across States)</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="mpYear">Year to Predict</label>
+          <select id="mpYear">
+            <option value="2026">2026 (Immediate)</option>
+            <option value="2027" selected>2027 (Next Year)</option>
+            <option value="2028">2028 (2 Years Ahead)</option>
+            <option value="2029">2029 (3 Years Ahead)</option>
+            <option value="2030">2030 (Future)</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="mpPool">Total Police Available</label>
+          <div class="input-with-stepper">
+            <input type="number" id="mpPool" value="500" min="50" max="10000" step="50">
+            <span class="unit-label">Officers</span>
+          </div>
+        </div>
+        <div class="control-group">
+          <label for="mpStrategy">Crime to Focus On</label>
+          <select id="mpStrategy">
+            <option value="balanced" selected>⚖️ All Crime Types (General Safety)</option>
+            <option value="violent">🚨 Violent Crimes (Murder &amp; Assault)</option>
+            <option value="property">💼 Theft &amp; Market Robberies</option>
+            <option value="riots">🛡️ Riots &amp; Street Clashes</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="mpBase">Minimum Police per Area</label>
+          <input type="number" id="mpBase" value="5" min="1" max="25" step="1">
+        </div>
+        <button id="mpOptimizeBtn" class="btn-primary" type="button">
+          Calculate Police Needed ➔
+        </button>
+      </div>
+
+      <!-- Strategy Info Banner -->
+      <div class="strategy-banner" id="mpStrategyBanner">
+        <span class="strategy-badge" id="mpStrategyTag">All Crime Types (General Safety)</span>
+        <span class="strategy-text" id="mpStrategyDesc">Balances police presence across violent crimes, property theft, and street disputes.</span>
+      </div>
+
+      <!-- Manpower KPI Metrics -->
+      <div class="manpower-kpis">
+        <div class="mp-kpi-card">
+          <span>Total Police Assigned</span>
+          <b id="mpTotalDeployed">—</b>
+          <small id="mpEntityCount">— Districts covered</small>
+        </div>
+        <div class="mp-kpi-card highlight-danger">
+          <span>Top Danger Areas</span>
+          <b id="mpCriticalCount">—</b>
+          <small>Need urgent extra police presence</small>
+        </div>
+        <div class="mp-kpi-card highlight-success">
+          <span>Safety Improvement</span>
+          <b id="mpMitigationGain">—</b>
+          <small>Safer than dividing police equally</small>
+        </div>
+        <div class="mp-kpi-card">
+          <span>Predicted Crimes</span>
+          <b id="mpProjectedCrimes">—</b>
+          <small id="mpThreatTotal">Total Danger Score: —</small>
+        </div>
+      </div>
+
+      <!-- Visualization & Hotspot Directives Grid -->
+      <div class="manpower-grid">
+        <!-- Deployment Chart Panel -->
+        <div class="mp-chart-box">
+          <div class="box-head">
+            <h3>Police Officers to Send vs. Danger Level</h3>
+            <span class="subtext">Showing top areas that need the most police assistance</span>
+          </div>
+          <div class="chart-wrap" style="height: 320px;">
+            <canvas id="manpowerChart"></canvas>
+          </div>
+        </div>
+
+        <!-- High-Priority Hotspot Cards -->
+        <div class="mp-hotspots-box">
+          <div class="box-head">
+            <h3>Action Plan for Highest Risk Areas</h3>
+            <span class="subtext">Specific instructions for where police teams should focus</span>
+          </div>
+          <div class="hotspots-list" id="mpHotspotsList">
+            <!-- Dynamically populated hotspot cards -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Full Ranked Allocation Table -->
+      <div class="mp-table-box">
+        <div class="box-head">
+          <h3>Full District-by-District Police Assignment Plan</h3>
+          <span class="subtext">Complete list showing recommended police count and instructions for each district</span>
+        </div>
+        <div class="table-responsive">
+          <table class="mp-table">
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>District / Area</th>
+                <th>Risk Level</th>
+                <th>Predicted Crimes</th>
+                <th>Danger Score</th>
+                <th>Police to Send</th>
+                <th>Share of Police</th>
+                <th>Main Problem</th>
+                <th>Recommended Police Action</th>
+              </tr>
+            </thead>
+            <tbody id="mpTableBody">
+              <!-- Dynamically populated table rows -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+            <tbody id="mpTableBody">
+              <!-- Dynamically populated table rows -->
+            </tbody>
+          </table>
+        </div>
+      </div>
     </section>
 
     <!-- Footer -->

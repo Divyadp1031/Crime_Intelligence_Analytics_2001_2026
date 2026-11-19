@@ -10,8 +10,14 @@ from flask import Flask, jsonify, render_template, request
 from analytics import (
     CATEGORIES,
     DATAFRAME,
+    STRATEGIES,
+    TRAVEL_PROFILES,
+    allocate_manpower,
     category_breakdown,
+    compare_travel_safety,
     forecast,
+    get_district_risk_analysis,
+    get_india_risk_map,
     series_for,
     summary,
 )
@@ -149,6 +155,101 @@ def places():
         for location, count in top_rows.items()
     ]
     return jsonify({"items": items})
+
+
+@app.route("/api/map/risk", methods=["GET"])
+def api_india_risk_map():
+    """
+    Return state-level risk tier predictions (High, Medium, Low) across India
+    for the selected crime category and analysis year.
+    """
+    category = request.args.get("category", "total")
+    year = request.args.get("year", 2026)
+
+    result = get_india_risk_map(category=category, year=year)
+    return jsonify(result)
+
+
+@app.route("/api/district/risk", methods=["GET"])
+def api_district_risk():
+    """
+    Return deep district-level crime risk prediction, most common crime category,
+    and tailored incident advice (e.g. for stolen items, women safety, violence, etc.).
+    """
+    state = request.args.get("state", "TAMIL NADU")
+    district = request.args.get("district", "CHENNAI")
+    category = request.args.get("category", "theft")
+    year = request.args.get("year", 2026)
+
+    result = get_district_risk_analysis(
+        state=state,
+        district=district,
+        category=category,
+        year=year,
+    )
+    return jsonify(result)
+
+
+@app.route("/api/travel/compare", methods=["GET", "POST"])
+def api_travel_compare():
+    """
+    Compare travel safety indicators between two districts or states,
+    providing simple safety scores (0-100), winner verdict, and travel tips.
+    """
+    if request.method == "POST" and request.is_json:
+        data = request.get_json() or {}
+        state_a = data.get("state_a", "TAMIL NADU")
+        district_a = data.get("district_a", "CHENNAI")
+        state_b = data.get("state_b", "TAMIL NADU")
+        district_b = data.get("district_b", "COIMBATORE")
+        profile = data.get("profile", "general")
+    else:
+        state_a = request.args.get("state_a", "TAMIL NADU")
+        district_a = request.args.get("district_a", "CHENNAI")
+        state_b = request.args.get("state_b", "TAMIL NADU")
+        district_b = request.args.get("district_b", "COIMBATORE")
+        profile = request.args.get("profile", "general")
+
+    result = compare_travel_safety(
+        state_a=state_a,
+        district_a=district_a,
+        state_b=state_b,
+        district_b=district_b,
+        profile_key=profile,
+    )
+    status_code = 400 if "error" in result else 200
+    return jsonify(result), status_code
+
+
+@app.route("/api/manpower/optimize", methods=["GET", "POST"])
+def api_manpower():
+    """
+    Predict district/state future crime trajectories and calculate
+    optimized tactical police manpower deployment.
+    """
+    if request.method == "POST" and request.is_json:
+        data = request.get_json() or {}
+        state = data.get("state", "All India")
+        target_year = data.get("year", 2027)
+        total_manpower = data.get("manpower", 500)
+        strategy = data.get("strategy", "balanced")
+        min_per_district = data.get("min_per_district", 5)
+    else:
+        state = request.args.get("state", "All India")
+        target_year = request.args.get("year", 2027)
+        total_manpower = request.args.get("manpower", 500)
+        strategy = request.args.get("strategy", "balanced")
+        min_per_district = request.args.get("min_per_district", 5)
+
+    result = allocate_manpower(
+        state=state,
+        target_year=target_year,
+        total_manpower=total_manpower,
+        strategy_key=strategy,
+        min_per_entity=min_per_district,
+    )
+    status_code = 400 if "error" in result else 200
+    return jsonify(result), status_code
 
 
 # =============================================================================
