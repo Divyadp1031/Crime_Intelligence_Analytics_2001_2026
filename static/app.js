@@ -5,7 +5,9 @@
 let trendChartInstance = null;
 let categoryChartInstance = null;
 let forecastChartInstance = null;
-
+let crimeMapInstance = null;
+let crimeGeoLayer = null;
+let hasFittedCrimeMap = false;
 // =============================================================================
 // 2. DOM Helpers & Formatting Utilities
 // =============================================================================
@@ -302,6 +304,132 @@ async function updateDistricts() {
     .join('');
 }
 
+// Initialize India interactive map
+function initializeCrimeMap() {
+
+  if (crimeMapInstance) return;
+
+ crimeMapInstance = L.map("crimeMap", {
+    zoomControl: true,
+    dragging: true,
+    scrollWheelZoom: true,
+    touchZoom: true,
+    doubleClickZoom: true
+}).setView([20.5937, 78.9629], 5);
+ 
+L.tileLayer(
+  "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  {
+    attribution: '&copy; OpenStreetMap contributors',
+    maxZoom: 19
+  }
+).addTo(crimeMapInstance);
+
+}
+
+
+// Load district crime data and display hotspots
+async function loadCrimeMap() {
+
+  const year = getEl("mapYear").value;
+  const state = getEl("state").value;
+  const category = getEl("category").value;
+
+  const params = new URLSearchParams({
+    year: year,
+    state: state,
+    category: category
+  });
+
+  const data = await fetchJSON(
+    `/api/crime-map?${params}`
+  );
+
+  if (crimeGeoLayer) {
+    crimeMapInstance.removeLayer(crimeGeoLayer);
+  }
+
+  const values = data.features
+    .map(f => f.properties.crime_count)
+    .filter(v => v > 0)
+    .sort((a, b) => a - b);
+
+  const quantile = (p) => {
+    if (!values.length) return 0;
+    return values[Math.floor((values.length - 1) * p)];
+  };
+
+  const lowLimit = quantile(0.33);
+  const highLimit = quantile(0.66);
+
+  function getColor(value) {
+
+    if (value === 0) return "#b8c2cc";
+    if (value <= lowLimit) return "#2eae70";
+    if (value <= highLimit) return "#f0a33a";
+
+    return "#dc4545";
+  }
+
+  crimeGeoLayer = L.geoJSON(data, {
+
+    style: function(feature) {
+
+      const count = feature.properties.crime_count;
+
+      return {
+        fillColor: getColor(count),
+        weight: 1,
+        opacity: 1,
+        color: "#ffffff",
+        fillOpacity: 0.75
+      };
+    },
+
+    onEachFeature: function(feature, layer) {
+
+      const p = feature.properties;
+
+      layer.bindTooltip(
+        `${p.district}, ${p.state}`
+      );
+
+      layer.bindPopup(`
+        <b>${p.district}</b><br>
+        State: ${p.state}<br>
+        Year: ${p.year}<br>
+        Category: ${p.category}<br>
+        Recorded crimes: ${formatNumber(p.crime_count)}
+      `);
+
+      layer.on("mouseover", function() {
+        layer.setStyle({
+          weight: 3,
+          color: "#222"
+        });
+      });
+
+      layer.on("mouseout", function() {
+        crimeGeoLayer.resetStyle(layer);
+      });
+    }
+
+  }).addTo(crimeMapInstance);
+
+if (
+    !hasFittedCrimeMap &&
+    crimeGeoLayer.getLayers().length &&
+    crimeGeoLayer.getBounds().isValid()
+) {
+    crimeMapInstance.fitBounds(
+        crimeGeoLayer.getBounds(),
+        { padding: [15, 15] }
+    );
+
+    hasFittedCrimeMap = true;
+}
+}
+
 /**
  * Refresh all dashboard widgets and charts according to current filter inputs
  */
@@ -322,6 +450,8 @@ async function refreshDashboard() {
     renderCategoryChart(breakdownData.items);
     renderForecast(forecastData);
     await loadPlaces();
+    initializeCrimeMap();
+await loadCrimeMap();
   } catch (error) {
     console.error('Error refreshing dashboard:', error);
     alert(error.message);
@@ -344,7 +474,18 @@ async function initDashboard() {
     .map((year) => `<option>${year}</option>`)
     .join('');
   getEl('rankingYear').innerHTML = `<option value="all">All available years</option>${yearOptions}`;
+// Populate map years using official historical data only
+const officialYears = options.years.filter(
+  year => Number(year) <= 2014
+);
 
+getEl("mapYear").innerHTML = officialYears
+  .map(year => `<option value="${year}">${year}</option>`)
+  .join("");
+
+getEl("mapYear").value = officialYears.includes(2014)
+  ? 2014
+  : officialYears[officialYears.length - 1];
   // Update Data Coverage Badge
   const firstYear = options.years[0];
   const lastYear = options.years[options.years.length - 1];
@@ -371,3 +512,7 @@ initDashboard().catch((error) => {
   console.error('Initialization error:', error);
   alert(error.message);
 });
+getEl("mapYear").addEventListener(
+  "change",
+  loadCrimeMap
+);

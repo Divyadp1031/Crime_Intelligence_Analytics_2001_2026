@@ -569,3 +569,64 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+/* Interactive India Crime Map */
+
+#crimeMap {
+  width: 100%;
+  height: 560px;
+  border-radius: 12px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.map-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 18px 0;
+}
+
+.map-controls label {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.map-legend {
+  display: flex;
+  gap: 22px;
+  margin-top: 18px;
+  flex-wrap: wrap;
+}
+
+.map-legend span {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 13px;
+}
+
+.map-legend i {
+  width: 13px;
+  height: 13px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.map-legend .low {
+  background: #2eae70;
+}
+
+.map-legend .medium {
+  background: #f0a33a;
+}
+
+.map-legend .high {
+  background: #dc4545;
+}
+
+@media(max-width: 650px) {
+  #crimeMap {
+    height: 400px;
+  }
+}

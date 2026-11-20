@@ -33,7 +33,8 @@
       <a class="nav" href="#trends">⌁ &nbsp; Yearly trends</a>
       <a class="nav" href="#forecast">◷ &nbsp; Forecasting</a>
       <a class="nav" href="#places">⌖ &nbsp; State &amp; district ranking</a>
-    </nav>
+     <a class="nav" href="#crimeMap">📍 &nbsp; Crime Hotspot</a>
+</nav>
 
     <div class="side-note">
       <b>Data coverage</b>
@@ -132,6 +133,12 @@
         </div>
         <div class="insight" id="trendInsight">Loading yearly trend…</div>
       </article>
+      <link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
       <!-- Category Breakdown Chart Panel -->
       <article class="panel">
@@ -181,6 +188,41 @@
       </div>
       <p class="disclaimer" id="forecastNote">Forecast results are estimates, not guaranteed outcomes.</p>
     </section>
+
+<!-- Interactive Crime Hotspot Map -->
+<section id="crimeMap" class="panel">
+
+  <div class="panel-head">
+    <div>
+      <h2>India Crime Hotspot Map</h2>
+      <p>Explore district-wise recorded crime patterns</p>
+    </div>
+    <span class="tag">GIS ANALYTICS</span>
+  </div>
+
+  <div class="map-controls">
+    <label for="mapYear">Select Year</label>
+
+    <select id="mapYear" class="small-select">
+      <option value="2014">2014</option>
+    </select>
+  </div>
+
+  <div id="crimeMap"></div>
+
+  <div class="map-legend">
+    <span><i class="low"></i> Low</span>
+    <span><i class="medium"></i> Medium</span>
+    <span><i class="high"></i> High</span>
+  </div>
+
+  <p class="hint">
+    Colors represent relative recorded crime counts for
+    the selected year and category, not population-adjusted
+    crime rates.
+  </p>
+
+</section>
 
     <!-- Ranking Section -->
     <section id="places" class="panel">
