@@ -34,6 +34,7 @@
       <a class="nav" href="#forecast">◷ &nbsp; Forecasting</a>
       <a class="nav" href="#places">⌖ &nbsp; State &amp; district ranking</a>
       <a class="nav" href="#risk-map">🗺️ &nbsp; India Crime Risk Map</a>
+      <a class="nav" href="#age-analysis">👥 &nbsp; Age Category Analysis</a>
       <a class="nav" href="#travel">🛡️ &nbsp; Safe Travel Advisor</a>
       <a class="nav" href="#manpower">👮 &nbsp; Man Power Allocation</a>
     </nav>
@@ -457,6 +458,103 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================= -->
+    <!-- Age Category & Victim Vulnerability Analysis Section                      -->
+    <!-- ========================================================================= -->
+    <section id="age-analysis" class="panel age-panel">
+      <div class="panel-head">
+        <div>
+          <h2>👥 Age Category Analysis (Who Suffers More?)</h2>
+          <p>Find out which age groups suffer the most in your district and view their risk breakdown</p>
+        </div>
+        <span class="tag cyan-tag">DEMOGRAPHIC ANALYSIS</span>
+      </div>
+
+      <!-- Controls Filter Strip -->
+      <div class="age-controls-bar">
+        <div class="control-group">
+          <label for="ageState">State / UT</label>
+          <select id="ageState">
+            <!-- Dynamically populated from states -->
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="ageDistrict">District to Analyze</label>
+          <select id="ageDistrict">
+            <!-- Dynamically populated from districts -->
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="ageCategory">Crime Category to Check</label>
+          <select id="ageCategory">
+            <option value="total" selected>📊 All Reported Crimes</option>
+            <option value="theft">💼 Theft &amp; Pickpocketing</option>
+            <option value="rape">🛡️ Women Safety (Rape &amp; Assault)</option>
+            <option value="murder">🔪 Violent Crimes &amp; Murder</option>
+            <option value="robbery">🚨 Robbery &amp; Armed Heists</option>
+            <option value="riots">⚔️ Riots &amp; Public Clashes</option>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label for="ageYear">Analysis / Forecast Year</label>
+          <select id="ageYear">
+            <option value="2026" selected>2026 (Latest Projected)</option>
+            <option value="2027">2027 (Next Year Forecast)</option>
+            <option value="2028">2028 (2 Years Ahead Forecast)</option>
+            <option value="2025">2025</option>
+            <option value="2024">2024</option>
+          </select>
+        </div>
+
+        <button id="ageCheckBtn" class="btn-check-age">Analyze Age Groups</button>
+      </div>
+
+      <!-- Most Affected Age Group Banner -->
+      <div class="age-highlight-banner" id="ageHighlightBanner">
+        <div class="age-banner-left">
+          <span class="age-pill">⚠️ MOST VULNERABLE DEMOGRAPHIC</span>
+          <h3 id="ageMostAffectedTitle">Young Adults (18–30 Years) Suffer the Most</h3>
+          <p id="ageMostAffectedSummary">In <b>Chennai (Tamil Nadu)</b>, Young Adults represent <b>48.0% of all recorded victims</b> (11,076 estimated victims/year).</p>
+        </div>
+        <div class="age-banner-right">
+          <div class="age-total-badge">
+            <small>Total Affected Victims</small>
+            <b id="ageTotalVictims">—</b>
+          </div>
+        </div>
+      </div>
+
+      <!-- Results Grid: Chart on Left, 4 Age Cards on Right -->
+      <div class="age-results-grid">
+        <!-- Chart Box with Toggle (Bar vs Donut/Pie) -->
+        <div class="age-chart-box">
+          <div class="age-chart-head">
+            <div>
+              <h4>Victims by Age Group</h4>
+              <small id="ageChartSubtitle">Chennai, Tamil Nadu (2026)</small>
+            </div>
+            <!-- Interactive Chart Toggle: Bar vs Pie -->
+            <div class="chart-toggle-group">
+              <button type="button" class="chart-toggle-btn active" id="ageToggleBar" title="View as Bar Chart">📊 Bar</button>
+              <button type="button" class="chart-toggle-btn" id="ageTogglePie" title="View as Pie/Donut Chart">🍩 Pie</button>
+            </div>
+          </div>
+          <div class="chart-wrap age-canvas-wrap">
+            <canvas id="ageChart"></canvas>
+          </div>
+          <div class="hint" id="ageChartHint">💡 Young Adults face the highest exposure to public transit and street crimes.</div>
+        </div>
+
+        <!-- 4 Age Group Vulnerability Cards -->
+        <div class="age-cards-grid" id="ageCardsContainer">
+          <!-- Dynamically populated 4 cards: Children, Young Adults, Working Adults, Senior Citizens -->
         </div>
       </div>
     </section>

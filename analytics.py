@@ -867,6 +867,165 @@ def get_district_risk_analysis(
 
 
 # =============================================================================
+# 6c. Age Category & Victim Vulnerability Analysis Engine
+# =============================================================================
+
+AGE_GROUPS_CONFIG: List[Dict[str, Any]] = [
+    {
+        "key": "under_18",
+        "label": "Children & Minors (Under 18)",
+        "short_label": "Children (<18)",
+        "icon": "🧒",
+        "color": "#3498db",
+        "primary_threat": "School transit safety, kidnapping, and cyber exploitation",
+        "advice": "Use verified school transport, save Childline 1098, monitor online screen activity.",
+    },
+    {
+        "key": "18_30",
+        "label": "Young Adults (18 to 30)",
+        "short_label": "Young Adults (18–30)",
+        "icon": "🧑",
+        "color": "#e74c3c",
+        "primary_threat": "Street theft, smartphone snatching, transit corridor crimes, and cyber fraud",
+        "advice": "Keep valuables zipped in bags, avoid using phones near train/bus doors, verify UPI payment QR codes.",
+    },
+    {
+        "key": "30_50",
+        "label": "Working Adults (30 to 50)",
+        "short_label": "Working Adults (30–50)",
+        "icon": "👨‍💼",
+        "color": "#3659d9",
+        "primary_threat": "Vehicle theft, residential burglary, commercial extortion, and robbery",
+        "advice": "Equip vehicles with GPS immobilizers, secure home entrances, avoid leaving valuables in parked cars.",
+    },
+    {
+        "key": "above_50",
+        "label": "Senior Citizens (Above 50)",
+        "short_label": "Senior Citizens (50+)",
+        "icon": "👵",
+        "color": "#f39c12",
+        "primary_threat": "Chain snatching, doorstep deception scams, and unattended home break-ins",
+        "advice": "Save Senior Citizen Helpline 14567 and 112, verify unknown visitors before opening doors.",
+    },
+]
+
+CRIME_AGE_PROFILES: Dict[str, Dict[str, float]] = {
+    "theft": {"under_18": 0.06, "18_30": 0.49, "30_50": 0.33, "above_50": 0.12},
+    "rape": {"under_18": 0.254, "18_30": 0.647, "30_50": 0.097, "above_50": 0.002},
+    "murder": {"under_18": 0.057, "18_30": 0.357, "30_50": 0.423, "above_50": 0.163},
+    "robbery": {"under_18": 0.04, "18_30": 0.46, "30_50": 0.36, "above_50": 0.14},
+    "riots": {"under_18": 0.04, "18_30": 0.54, "30_50": 0.34, "above_50": 0.08},
+    "total": {"under_18": 0.07, "18_30": 0.48, "30_50": 0.335, "above_50": 0.115},
+}
+
+
+def get_age_group_analysis(
+    state: str = "TAMIL NADU",
+    district: str = "CHENNAI",
+    category: str = "total",
+    year: int = 2026,
+) -> Dict[str, Any]:
+    """
+    Calculate crime victim distribution and vulnerability across 4 standard age groups
+    (Children, Young Adults, Working Adults, Senior Citizens) for any selected district.
+
+    Args:
+        state: State or UT name.
+        district: District name.
+        category: Selected crime category ('total', 'theft', 'murder', 'rape', 'robbery', 'riots').
+        year: Analysis or forecast year.
+
+    Returns:
+        Structured payload containing age breakdown counts, percentage shares,
+        most affected group highlight, tailored advice, and Chart.js datasets.
+    """
+    cat_key = category if category in CATEGORIES else "total"
+    dist_analysis = get_district_risk_analysis(
+        state=state, district=district, category=cat_key, year=year
+    )
+
+    state_name = dist_analysis["state"]
+    district_name = dist_analysis["district"]
+    target_year = dist_analysis["year"]
+    category_label = dist_analysis["selected_category_label"]
+
+    base_count = dist_analysis["incident_assessment"]["count"]
+    if base_count <= 0:
+        base_count = dist_analysis["total_crimes"]
+
+    profile = CRIME_AGE_PROFILES.get(cat_key, CRIME_AGE_PROFILES["total"])
+
+    groups: List[Dict[str, Any]] = []
+    total_victims = max(1, base_count)
+
+    for cfg in AGE_GROUPS_CONFIG:
+        k = cfg["key"]
+        pct = profile.get(k, 0.25)
+        raw_val = int(round(base_count * pct))
+        share = round((raw_val / total_victims) * 100, 1)
+
+        if share >= 40.0:
+            risk_lvl = "Highest Impact"
+            badge = "tier-critical"
+        elif share >= 25.0:
+            risk_lvl = "High Impact"
+            badge = "tier-high"
+        elif share >= 12.0:
+            risk_lvl = "Moderate Impact"
+            badge = "tier-elevated"
+        else:
+            risk_lvl = "Baseline Impact"
+            badge = "tier-baseline"
+
+        groups.append({
+            "key": k,
+            "label": cfg["label"],
+            "short_label": cfg["short_label"],
+            "icon": cfg["icon"],
+            "count": raw_val,
+            "share_pct": share,
+            "risk_level": risk_lvl,
+            "badge_class": badge,
+            "color": cfg["color"],
+            "primary_threat": cfg["primary_threat"],
+            "advice": cfg["advice"],
+        })
+
+    # Identify the age group that suffers the most
+    most_affected = max(groups, key=lambda x: x["count"])
+
+    return {
+        "state": state_name,
+        "district": district_name,
+        "year": target_year,
+        "category": cat_key,
+        "category_label": category_label,
+        "total_victims": base_count,
+        "most_affected": {
+            "key": most_affected["key"],
+            "label": most_affected["label"],
+            "icon": most_affected["icon"],
+            "count": most_affected["count"],
+            "share_pct": most_affected["share_pct"],
+            "summary": (
+                f"In {district_name} ({state_name}), {most_affected['label']} suffer the most, "
+                f"representing {most_affected['share_pct']}% of all recorded victims "
+                f"({most_affected['count']:,} estimated victims/year)."
+            ),
+            "primary_threat": most_affected["primary_threat"],
+            "advice": most_affected["advice"],
+        },
+        "age_groups": groups,
+        "chart_data": {
+            "labels": [g["short_label"] for g in groups],
+            "values": [g["count"] for g in groups],
+            "shares": [g["share_pct"] for g in groups],
+            "colors": [g["color"] for g in groups],
+        },
+    }
+
+
+# =============================================================================
 # 7. Safe Travel & Area Comparison Engine
 # =============================================================================
 

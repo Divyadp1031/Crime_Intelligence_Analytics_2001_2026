@@ -16,6 +16,7 @@ from analytics import (
     category_breakdown,
     compare_travel_safety,
     forecast,
+    get_age_group_analysis,
     get_district_risk_analysis,
     get_india_risk_map,
     series_for,
@@ -182,6 +183,26 @@ def api_district_risk():
     year = request.args.get("year", 2026)
 
     result = get_district_risk_analysis(
+        state=state,
+        district=district,
+        category=category,
+        year=year,
+    )
+    return jsonify(result)
+
+
+@app.route("/api/age/analysis", methods=["GET"])
+def api_age_analysis():
+    """
+    Return demographic age-category breakdown of crime victims for a district,
+    identifying which age groups suffer the most and providing chart data.
+    """
+    state = request.args.get("state", "TAMIL NADU")
+    district = request.args.get("district", "CHENNAI")
+    category = request.args.get("category", "total")
+    year = request.args.get("year", 2026)
+
+    result = get_age_group_analysis(
         state=state,
         district=district,
         category=category,

@@ -11,6 +11,9 @@ let mapRiskData = null;
 let activeMapStateCode = null;
 let indiaSvgLoaded = false;
 let districtRiskData = null;
+let ageChartInstance = null;
+let ageChartType = 'bar';
+let ageAnalysisData = null;
 
 // =============================================================================
 // 2. DOM Helpers & Formatting Utilities
@@ -412,6 +415,17 @@ async function loadIndiaSVGMap() {
             updateDistrictRiskDropdown().then(() => fetchDistrictRiskAnalysis());
           }
         }
+
+        // Sync with Age Category Analysis
+        if (stateInfo && getEl('ageState')) {
+          const matchAgeOption = Array.from(getEl('ageState').options).find(
+            (opt) => opt.value.toUpperCase() === stateInfo.state.toUpperCase()
+          );
+          if (matchAgeOption) {
+            getEl('ageState').value = matchAgeOption.value;
+            updateAgeDistricts().then(() => fetchAgeAnalysis());
+          }
+        }
       });
     });
   } catch (err) {
@@ -739,6 +753,191 @@ function renderDistrictRiskAnalysis(data) {
         }
       });
     });
+  }
+}
+
+// =============================================================================
+// 4a-3. Age Category & Victim Vulnerability Analysis
+// =============================================================================
+
+/**
+ * Update district dropdown options for the Age Analysis section
+ * @param {string} [targetDistrict] - Optional district to preselect
+ */
+async function updateAgeDistricts(targetDistrict = null) {
+  const stateEl = getEl('ageState');
+  const districtEl = getEl('ageDistrict');
+  if (!stateEl || !districtEl) return;
+
+  const state = stateEl.value;
+  try {
+    const data = await fetchJSON(`/api/options?state=${encodeURIComponent(state)}`);
+    const validDistricts = data.districts.filter((d) => d !== 'All districts');
+    districtEl.innerHTML = validDistricts
+      .map((district) => `<option value="${district}">${district}</option>`)
+      .join('');
+
+    if (targetDistrict && validDistricts.includes(targetDistrict.toUpperCase())) {
+      districtEl.value = targetDistrict.toUpperCase();
+    } else if (validDistricts.length > 0) {
+      districtEl.value = validDistricts[0];
+    }
+  } catch (err) {
+    console.error('Error updating age districts dropdown:', err);
+  }
+}
+
+/**
+ * Fetch demographic age category breakdown from server
+ */
+async function fetchAgeAnalysis() {
+  const stateEl = getEl('ageState');
+  const districtEl = getEl('ageDistrict');
+  const categoryEl = getEl('ageCategory');
+  const yearEl = getEl('ageYear');
+
+  if (!stateEl || !districtEl) return;
+
+  const state = stateEl.value;
+  const district = districtEl.value;
+  const category = categoryEl ? categoryEl.value : 'total';
+  const year = yearEl ? yearEl.value : '2026';
+
+  try {
+    const url = `/api/age/analysis?state=${encodeURIComponent(state)}&district=${encodeURIComponent(district)}&category=${encodeURIComponent(category)}&year=${encodeURIComponent(year)}`;
+    const data = await fetchJSON(url);
+    renderAgeAnalysis(data);
+  } catch (err) {
+    console.error('Error fetching age analysis:', err);
+  }
+}
+
+/**
+ * Render age category analysis charts, cards, and most affected highlight
+ * @param {object} data - Age analysis API response payload
+ */
+function renderAgeAnalysis(data) {
+  ageAnalysisData = data;
+
+  // 1. Most Affected Demographic Banner
+  const bannerTitle = getEl('ageMostAffectedTitle');
+  const bannerSummary = getEl('ageMostAffectedSummary');
+  const bannerTotal = getEl('ageTotalVictims');
+
+  if (bannerTitle) {
+    bannerTitle.textContent = `${data.most_affected.icon} ${data.most_affected.label} Suffer the Most`;
+  }
+  if (bannerSummary) {
+    bannerSummary.innerHTML = `In <b>${data.district} (${data.state})</b>, ${data.most_affected.label.toLowerCase()} represent <b>${data.most_affected.share_pct}% of all recorded victims</b> (${formatNumber(data.most_affected.count)} estimated victims/year).`;
+  }
+  if (bannerTotal) {
+    bannerTotal.textContent = `${formatNumber(data.total_victims)} Cases`;
+  }
+
+  // 2. Chart Subtitle and Hint
+  const chartSub = getEl('ageChartSubtitle');
+  if (chartSub) {
+    chartSub.textContent = `${data.district}, ${data.state} (${data.year}) · ${data.category_label}`;
+  }
+  const chartHint = getEl('ageChartHint');
+  if (chartHint) {
+    chartHint.textContent = `💡 ${data.most_affected.label} face the highest risk: ${data.most_affected.primary_threat}.`;
+  }
+
+  // 3. Render Chart.js (Bar or Doughnut/Pie)
+  const ctx = getEl('ageChart')?.getContext('2d');
+  if (ctx) {
+    if (ageChartInstance) {
+      ageChartInstance.destroy();
+    }
+
+    const isPie = ageChartType === 'doughnut';
+
+    ageChartInstance = new Chart(ctx, {
+      type: ageChartType,
+      data: {
+        labels: data.chart_data.labels,
+        datasets: [
+          {
+            label: 'Estimated Victims',
+            data: data.chart_data.values,
+            backgroundColor: data.chart_data.colors,
+            borderRadius: isPie ? 0 : 4,
+            borderWidth: isPie ? 2 : 0,
+            borderColor: '#ffffff',
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            display: isPie,
+            position: 'bottom',
+            labels: { font: { size: 11, family: 'DM Sans' }, boxWidth: 12 },
+          },
+          tooltip: {
+            callbacks: {
+              label: function (context) {
+                const idx = context.dataIndex;
+                const share = data.chart_data.shares[idx];
+                const count = data.chart_data.values[idx];
+                return ` ${formatNumber(count)} victims (${share}% of total)`;
+              },
+            },
+          },
+        },
+        scales: isPie
+          ? { x: { display: false }, y: { display: false } }
+          : {
+              x: {
+                grid: { display: false },
+                ticks: { color: '#8792a5', font: { size: 10 } },
+              },
+              y: {
+                grid: { color: '#edf0f5' },
+                ticks: { color: '#8792a5', font: { size: 10 } },
+                title: {
+                  display: true,
+                  text: 'Victims / Year',
+                  font: { size: 10, weight: 'bold' },
+                  color: '#8792a5',
+                },
+              },
+            },
+      },
+    });
+  }
+
+  // 4. Render 4 Age Cards Grid
+  const cardsContainer = getEl('ageCardsContainer');
+  if (cardsContainer && data.age_groups) {
+    cardsContainer.innerHTML = data.age_groups
+      .map(
+        (group) => `
+        <div class="age-card">
+          <div class="age-card-top">
+            <div class="age-card-left">
+              <span class="age-card-icon">${group.icon}</span>
+              <h5 class="age-card-title">${group.label}</h5>
+            </div>
+            <span class="tier-badge ${group.badge_class}">${group.risk_level}</span>
+          </div>
+          <div class="age-card-metric">
+            <span class="age-card-count" style="color: ${group.color};">${formatNumber(group.count)}</span>
+            <span class="age-card-share">(${group.share_pct}% of victims)</span>
+          </div>
+          <div class="age-card-threat">
+            <b>Main Threat:</b> ${group.primary_threat}
+          </div>
+          <div class="age-card-advice">
+            <b>Safety Advice:</b> ${group.advice}
+          </div>
+        </div>
+      `
+      )
+      .join('');
   }
 }
 
@@ -1251,6 +1450,18 @@ async function initDashboard() {
     await fetchDistrictRiskAnalysis();
   }
 
+  // Populate Age Category Analysis State Selector
+  if (getEl('ageState')) {
+    getEl('ageState').innerHTML = individualStates
+      .map((state) => `<option value="${state}">${state}</option>`)
+      .join('');
+    if (individualStates.includes('TAMIL NADU')) {
+      getEl('ageState').value = 'TAMIL NADU';
+    }
+    await updateAgeDistricts('CHENNAI');
+    await fetchAgeAnalysis();
+  }
+
   // Populate dependent districts and trigger initial render
   await updateDistricts();
   await refreshDashboard();
@@ -1292,6 +1503,46 @@ if (getEl('districtRiskIncident')) {
 }
 if (getEl('districtRiskYear')) {
   getEl('districtRiskYear').addEventListener('change', fetchDistrictRiskAnalysis);
+}
+
+// Age Category Analysis Listeners
+if (getEl('ageCheckBtn')) {
+  getEl('ageCheckBtn').addEventListener('click', fetchAgeAnalysis);
+}
+if (getEl('ageState')) {
+  getEl('ageState').addEventListener('change', async () => {
+    await updateAgeDistricts();
+    fetchAgeAnalysis();
+  });
+}
+if (getEl('ageDistrict')) {
+  getEl('ageDistrict').addEventListener('change', fetchAgeAnalysis);
+}
+if (getEl('ageCategory')) {
+  getEl('ageCategory').addEventListener('change', fetchAgeAnalysis);
+}
+if (getEl('ageYear')) {
+  getEl('ageYear').addEventListener('change', fetchAgeAnalysis);
+}
+
+// Chart Toggle Listeners (Bar vs Pie)
+if (getEl('ageToggleBar')) {
+  getEl('ageToggleBar').addEventListener('click', () => {
+    if (ageChartType === 'bar') return;
+    ageChartType = 'bar';
+    getEl('ageToggleBar').classList.add('active');
+    getEl('ageTogglePie')?.classList.remove('active');
+    if (ageAnalysisData) renderAgeAnalysis(ageAnalysisData);
+  });
+}
+if (getEl('ageTogglePie')) {
+  getEl('ageTogglePie').addEventListener('click', () => {
+    if (ageChartType === 'doughnut') return;
+    ageChartType = 'doughnut';
+    getEl('ageTogglePie').classList.add('active');
+    getEl('ageToggleBar')?.classList.remove('active');
+    if (ageAnalysisData) renderAgeAnalysis(ageAnalysisData);
+  });
 }
 
 // Travel Safety Comparison Listeners

@@ -1207,6 +1207,271 @@ body {
 }
 
 /* =============================================================================
+   11c. Age Category & Victim Vulnerability Analysis
+   ============================================================================= */
+.age-panel {
+  border-top: 3px solid #00b4d8;
+}
+
+.tag.cyan-tag {
+  background-color: #e0f7fa;
+  color: #007791;
+}
+
+.age-controls-bar {
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+  padding: 14px 16px;
+  background: #f8fafc;
+  border: 1px solid var(--line);
+  border-radius: var(--border-radius-md);
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.btn-check-age {
+  padding: 10px 18px;
+  background-color: #0096c7;
+  color: #ffffff;
+  border: none;
+  border-radius: var(--border-radius-sm);
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background-color 0.15s ease, transform 0.1s ease;
+  height: 38px;
+}
+
+.btn-check-age:hover {
+  background-color: #028090;
+  transform: translateY(-1px);
+}
+
+.age-highlight-banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 18px;
+  background: linear-gradient(135deg, #fef2f2 0%, #fffbfb 100%);
+  border: 1px solid #fecaca;
+  border-left: 4px solid #e74c3c;
+  border-radius: var(--border-radius-md);
+  margin-bottom: 18px;
+}
+
+.age-pill {
+  display: inline-block;
+  padding: 3px 8px;
+  background: #e74c3c;
+  color: #ffffff;
+  border-radius: 4px;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.age-banner-left h3 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  color: #b91c1c;
+  margin: 0 0 4px;
+}
+
+.age-banner-left p {
+  font-size: 12px;
+  color: #4b5563;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.age-total-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  background: #ffffff;
+  padding: 8px 14px;
+  border-radius: var(--border-radius-sm);
+  border: 1px solid #fca5a5;
+  min-width: 130px;
+}
+
+.age-total-badge small {
+  font-size: 10px;
+  color: var(--muted);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.age-total-badge b {
+  font-family: 'Manrope', sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.age-results-grid {
+  display: grid;
+  grid-template-columns: 1.15fr 1.35fr;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.age-chart-box {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--border-radius-md);
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+.age-chart-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #edf1f7;
+}
+
+.age-chart-head h4 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--ink);
+  margin: 0;
+}
+
+.age-chart-head small {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.chart-toggle-group {
+  display: flex;
+  gap: 4px;
+  background: #f1f4f9;
+  padding: 3px;
+  border-radius: 6px;
+}
+
+.chart-toggle-btn {
+  padding: 4px 10px;
+  border: none;
+  background: transparent;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #5a6679;
+  cursor: pointer;
+  transition: all 0.12s ease;
+}
+
+.chart-toggle-btn.active {
+  background: #ffffff;
+  color: var(--ink);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.age-canvas-wrap {
+  min-height: 290px;
+  max-height: 310px;
+  position: relative;
+  width: 100%;
+}
+
+.age-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.age-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--border-radius-md);
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.age-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-subtle);
+}
+
+.age-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 6px;
+}
+
+.age-card-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.age-card-icon {
+  font-size: 22px;
+  line-height: 1;
+}
+
+.age-card-title {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--ink);
+  margin: 0;
+}
+
+.age-card-metric {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.age-card-count {
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.age-card-share {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.age-card-threat {
+  font-size: 11px;
+  color: #435168;
+  margin-bottom: 8px;
+  line-height: 1.4;
+  background: #f8fafc;
+  padding: 6px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #3659d9;
+}
+
+.age-card-advice {
+  font-size: 10px;
+  color: #64748b;
+  line-height: 1.4;
+}
+
+/* =============================================================================
    12. Safe Travel & Area Comparison Engine
    ============================================================================= */
 .travel-panel {
@@ -1886,6 +2151,19 @@ footer {
 
   .district-results-grid {
     grid-template-columns: 1fr;
+  }
+
+  .age-results-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .age-cards-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .age-highlight-banner {
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .primary-crime-banner {
