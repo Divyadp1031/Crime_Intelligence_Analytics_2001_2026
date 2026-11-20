@@ -15,6 +15,7 @@ A structured Flask intelligence dashboard focused on annual National Crime Recor
 - **Machine Learning Forecasting**: Linear regression trend forecasting for 3 or 5 years with chronological holdout validation (MAE and RMSE metrics).
 - **Safe Travel & Area Comparison Engine**: Side-by-side safety comparison between any two districts or states with a normalized 0–100 Safety Score, winner verdict, category bar chart, and practical travel advice.
 - **Predictive Police Manpower & Resource Allocation Engine**: Multi-category risk forecasting, Crime Harm / Threat Index scoring, and constrained optimization to dynamically allocate police manpower across districts/states with risk mitigation efficiency gains.
+- **Llama AI Crime Intelligence Copilot (Floating Bottom Right)**: Conversational assistant powered by Llama that answers natural language questions about state/district crime hotspots (e.g. "which area in Tamil Nadu is highest for theft?"), emergency incident advice (stolen belongings, e-FIR, CEIR), and travel safety comparisons.
 - **Responsive Dashboard**: Optimized for desktop, tablet, and mobile viewing.
 
 ---
@@ -24,6 +25,7 @@ A structured Flask intelligence dashboard focused on annual National Crime Recor
 ```text
 .
 ├── app.py                     # Flask web server and REST API endpoints
+├── agent.py                   # Llama AI Crime Intelligence Copilot engine
 ├── analytics.py               # Data processing, aggregation, and ML forecasting engine
 ├── requirements.txt           # Python package dependencies
 ├── README.md                  # Project documentation
@@ -88,6 +90,7 @@ A structured Flask intelligence dashboard focused on annual National Crime Recor
 | `/api/district/risk` | `GET` | `state`, `district`, `category`, `year` | Returns deep district-level risk prediction, #1 most common crime, category risk matrix (High/Med/Low), tailored incident advice (e-FIR, CEIR), and state district ranks. |
 | `/api/travel/compare` | `GET` / `POST` | `state_a`, `district_a`, `state_b`, `district_b`, `profile` | Compares safety scores (0–100), winner verdict, crime breakdown, and travel tips between 2 areas. |
 | `/api/manpower/optimize` | `GET` / `POST` | `state`, `year`, `manpower`, `strategy`, `min_per_district` | Calculates risk-based predictive police manpower allocations, risk tiers, and tactical directives. |
+| `/api/agent/chat` | `GET` / `POST` | `message` | Conversational Llama AI Copilot answering natural language hotspot, risk, and emergency guidance queries. |
 
 ---
 

@@ -21,6 +21,7 @@ from analytics import (
     series_for,
     summary,
 )
+from agent import process_agent_query
 
 # Initialize Flask application
 app = Flask(__name__)
@@ -250,6 +251,22 @@ def api_manpower():
     )
     status_code = 400 if "error" in result else 200
     return jsonify(result), status_code
+
+
+@app.route("/api/agent/chat", methods=["GET", "POST"])
+def api_agent_chat():
+    """
+    Conversational AI agent endpoint powered by Llama & our analytics engine.
+    Answers natural language queries about crime hotspots, safety, and incidents.
+    """
+    if request.method == "POST":
+        data = request.get_json() or {}
+        message = data.get("message", "")
+    else:
+        message = request.args.get("message", "")
+
+    result = process_agent_query(message)
+    return jsonify(result)
 
 
 # =============================================================================

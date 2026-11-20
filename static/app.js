@@ -1308,6 +1308,174 @@ getEl('travelStateB').addEventListener('change', async () => {
 getEl('travelDistrictA').addEventListener('change', fetchTravelComparison);
 getEl('travelDistrictB').addEventListener('change', fetchTravelComparison);
 
+// =============================================================================
+// 7. Llama AI Crime Intelligence Copilot
+// =============================================================================
+
+/**
+ * Simple markdown formatter for AI chat responses
+ * @param {string} md - Markdown text
+ * @returns {string} Clean HTML string
+ */
+function formatCopilotMarkdown(md) {
+  if (!md) return '';
+  let html = md
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/^#### (.*$)/gim, '<h4>$1</h4>')
+    .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+    .replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>')
+    .replace(/\*(.*?)\*/gim, '<i>$1</i>')
+    .replace(/^\* (.*$)/gim, '<li>$1</li>');
+
+  html = html.replace(/(<li>.*<\/li>)/gims, '<ul>$1</ul>');
+  html = html.replace(/\n\n/g, '<br><br>').replace(/\n/g, '<br>');
+  return html;
+}
+
+/**
+ * Send user query to CrimeLens Llama AI Copilot and render response
+ * @param {string} [text] - Message query
+ */
+async function sendCopilotMessage(text) {
+  const query = (text || getEl('copilotInput').value || '').trim();
+  if (!query) return;
+
+  const messagesContainer = getEl('copilotMessages');
+  const inputEl = getEl('copilotInput');
+
+  // 1. Append User Message
+  const userMsgEl = document.createElement('div');
+  userMsgEl.className = 'copilot-msg user-msg';
+  userMsgEl.innerHTML = `
+    <div class="msg-avatar">👤</div>
+    <div class="msg-body">${query.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</div>
+  `;
+  messagesContainer.appendChild(userMsgEl);
+  if (inputEl) inputEl.value = '';
+  messagesContainer.scrollTop = messagesContainer.scrollHeight;
+
+  // 2. Append Typing Indicator
+  const typingEl = document.createElement('div');
+  typingEl.className = 'copilot-msg bot-msg typing-msg';
+  typingEl.innerHTML = `
+    <div class="msg-avatar">🦙</div>
+    <div class="msg-body bot-typing">
+      <span class="typing-dot"></span>
+      <span class="typing-dot"></span>
+      <span class="typing-dot"></span>
+    </div>
+  `;
+  messagesContainer.appendChild(typingEl);
+  messagesContainer.scrollTop = messagesContainer.scrollHeight;
+
+  try {
+    const res = await fetch('/api/agent/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: query }),
+    });
+    const data = await res.json();
+
+    // Remove typing indicator
+    typingEl.remove();
+
+    // 3. Append Bot Message
+    const botMsgEl = document.createElement('div');
+    botMsgEl.className = 'copilot-msg bot-msg';
+    botMsgEl.innerHTML = `
+      <div class="msg-avatar">🦙</div>
+      <div class="msg-body">${formatCopilotMarkdown(data.reply)}</div>
+    `;
+    messagesContainer.appendChild(botMsgEl);
+
+    // 4. Update suggestion chips if followups exist
+    if (data.suggested_followups && data.suggested_followups.length > 0) {
+      const suggestionsContainer = document.querySelector('.copilot-suggestions');
+      if (suggestionsContainer) {
+        suggestionsContainer.innerHTML = data.suggested_followups
+          .slice(0, 4)
+          .map((f) => `<button class="prompt-chip" data-query="${f}">${f}</button>`)
+          .join('');
+        bindCopilotPromptChips();
+      }
+    }
+
+    messagesContainer.scrollTop = messagesContainer.scrollHeight;
+  } catch (err) {
+    typingEl.remove();
+    const errorMsgEl = document.createElement('div');
+    errorMsgEl.className = 'copilot-msg bot-msg';
+    errorMsgEl.innerHTML = `
+      <div class="msg-avatar">🦙</div>
+      <div class="msg-body" style="color: #c0392b;">Sorry, I encountered an error connecting to the Llama AI engine: ${err.message}</div>
+    `;
+    messagesContainer.appendChild(errorMsgEl);
+    messagesContainer.scrollTop = messagesContainer.scrollHeight;
+  }
+}
+
+function bindCopilotPromptChips() {
+  document.querySelectorAll('.copilot-suggestions .prompt-chip').forEach((chip) => {
+    chip.addEventListener('click', () => {
+      const q = chip.dataset.query;
+      sendCopilotMessage(q);
+    });
+  });
+}
+
+function initAICopilot() {
+  const fab = getEl('aiCopilotFab');
+  const win = getEl('aiCopilotWindow');
+  const closeBtn = getEl('copilotCloseBtn');
+  const clearBtn = getEl('copilotClearBtn');
+  const form = getEl('copilotForm');
+
+  if (fab && win) {
+    fab.addEventListener('click', () => {
+      if (win.style.display === 'none' || !win.style.display) {
+        win.style.display = 'flex';
+        getEl('copilotInput')?.focus();
+      } else {
+        win.style.display = 'none';
+      }
+    });
+  }
+
+  if (closeBtn && win) {
+    closeBtn.addEventListener('click', () => {
+      win.style.display = 'none';
+    });
+  }
+
+  if (clearBtn) {
+    clearBtn.addEventListener('click', () => {
+      const messagesContainer = getEl('copilotMessages');
+      if (messagesContainer) {
+        messagesContainer.innerHTML = `
+          <div class="copilot-msg bot-msg">
+            <div class="msg-avatar">🦙</div>
+            <div class="msg-body">
+              Chat cleared. Ask me any crime intelligence question! 👮‍♂️<br><br>
+              <i>Try: "Which area in Tamil Nadu is high for theft?"</i>
+            </div>
+          </div>
+        `;
+      }
+    });
+  }
+
+  if (form) {
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      sendCopilotMessage();
+    });
+  }
+
+  bindCopilotPromptChips();
+}
+
 // Manpower Optimization Listeners
 getEl('mpOptimizeBtn').addEventListener('click', fetchManpowerPlan);
 getEl('mpStrategy').addEventListener('change', fetchManpowerPlan);
@@ -1318,3 +1486,6 @@ initDashboard().catch((error) => {
   console.error('Initialization error:', error);
   alert(error.message);
 });
+
+// Initialize Llama AI Copilot
+initAICopilot();

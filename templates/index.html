@@ -767,13 +767,6 @@
         </div>
       </div>
     </section>
-            <tbody id="mpTableBody">
-              <!-- Dynamically populated table rows -->
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </section>
 
     <!-- Footer -->
     <footer>
@@ -781,6 +774,64 @@
       Forecasts should not be treated as certainty or as a substitute for professional judgment.
     </footer>
   </main>
+
+  <!-- ========================================================================= -->
+  <!-- Llama AI Crime Intelligence Copilot (Floating Bottom Right)              -->
+  <!-- ========================================================================= -->
+  <!-- Floating Action Button (FAB) -->
+  <div class="ai-copilot-fab" id="aiCopilotFab" title="Ask CrimeLens AI Copilot (Powered by Llama)">
+    <div class="fab-pulse"></div>
+    <span class="fab-icon">🤖</span>
+    <span class="fab-badge">Llama AI</span>
+  </div>
+
+  <!-- Floating Chat Window (Bottom Right) -->
+  <div class="ai-copilot-window" id="aiCopilotWindow" style="display: none;" aria-label="AI Crime Copilot">
+    <div class="copilot-header">
+      <div class="copilot-header-info">
+        <div class="copilot-avatar">🦙</div>
+        <div>
+          <h4>CrimeLens AI Copilot</h4>
+          <span class="copilot-status"><span class="status-dot"></span> Powered by Llama</span>
+        </div>
+      </div>
+      <div class="copilot-header-actions">
+        <button class="copilot-btn" id="copilotClearBtn" title="Clear Chat">🔄</button>
+        <button class="copilot-btn" id="copilotCloseBtn" title="Close Chat">✕</button>
+      </div>
+    </div>
+
+    <!-- Quick Suggestion Prompt Chips -->
+    <div class="copilot-suggestions">
+      <button class="prompt-chip" data-query="Which area in Tamil Nadu is highest for theft?">📍 Theft in Tamil Nadu</button>
+      <button class="prompt-chip" data-query="Is Coimbatore safer than Chennai?">🛡️ Chennai vs Coimbatore</button>
+      <button class="prompt-chip" data-query="If my phone is stolen in Chennai, what should I do?">📱 Stolen Item Advice</button>
+      <button class="prompt-chip" data-query="Which state in India has highest crime?">🗺️ Highest Crime States</button>
+    </div>
+
+    <!-- Chat Message Stream -->
+    <div class="copilot-messages" id="copilotMessages">
+      <div class="copilot-msg bot-msg">
+        <div class="msg-avatar">🦙</div>
+        <div class="msg-body">
+          Hello! I am your <b>CrimeLens AI Copilot</b> (powered by Llama). 👮‍♂️<br><br>
+          Ask me any question about crime hotspots, safety comparisons, or what to do if an incident happens.<br><br>
+          <i>Try: "Which area in Tamil Nadu is high for theft?"</i>
+        </div>
+      </div>
+    </div>
+
+    <!-- Chat Input Form -->
+    <form class="copilot-input-area" id="copilotForm">
+      <input type="text" id="copilotInput" placeholder="Ask about crime in any area (e.g. Tamil Nadu theft)..." autocomplete="off" />
+      <button type="submit" id="copilotSendBtn" aria-label="Send message">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="22" y1="2" x2="11" y2="13"></line>
+          <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+        </svg>
+      </button>
+    </form>
+  </div>
 
   <!-- Application Script -->
   <script src="{{ url_for('static', filename='app.js') }}"></script>
