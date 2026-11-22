@@ -33,7 +33,8 @@
       <a class="nav" href="#trends">⌁ &nbsp; Yearly trends</a>
       <a class="nav" href="#forecast">◷ &nbsp; Forecasting</a>
       <a class="nav" href="#places">⌖ &nbsp; State &amp; district ranking</a>
-     <a class="nav" href="#crimeMap">📍 &nbsp; Crime Hotspot</a>
+     <a class="nav" href="#crimeMapSection">📍 &nbsp; Crime Hotspot</a>
+   <a class="nav" href="#womenSafety">♀ &nbsp; Women Safety</a>
 </nav>
 
     <div class="side-note">
@@ -190,7 +191,7 @@
     </section>
 
 <!-- Interactive Crime Hotspot Map -->
-<section id="crimeMap" class="panel">
+<section id="crimeMapSection" class="panel"></section>
 
   <div class="panel-head">
     <div>
@@ -223,7 +224,51 @@
   </p>
 
 </section>
+<!-- Women Safety Analysis -->
+<section id="womenSafety" class="panel">
 
+  <div class="panel-head">
+    <div>
+      <h2>Women Safety Crime Analysis</h2>
+      <p>Analysis of recorded rape cases across Indian states and districts</p>
+    </div>
+    <span class="tag">WOMEN SAFETY</span>
+  </div>
+  <div class="map-controls">
+  <label for="womenYear">Select Year:</label>
+  <select id="womenYear" class="small-select">
+    <option value="all">All Years</option>
+  </select>
+</div>
+<div class="women-data-source">
+    Data Source:
+    <span id="womenDataSource">Mixed data sources</span>
+</div>
+  <div class="stats-grid">
+    <div class="stat-card">
+      <p>Total Recorded Rape Cases</p>
+      <h2 id="womenTotalCases">Loading...</h2>
+    </div>
+  </div>
+
+  <div class="chart-grid">
+    <div class="chart-card">
+      <h3>Year-wise Recorded Cases</h3>
+      <canvas id="womenYearChart"></canvas>
+    </div>
+
+    <div class="chart-card">
+     <h3 id="womenStateTitle">Top 10 States – All Years</h3>
+      <canvas id="womenStateChart"></canvas>
+    </div>
+
+    <div class="chart-card">
+     <h3 id="womenDistrictTitle">Top 10 Districts – All Years</h3>
+      <canvas id="womenDistrictChart"></canvas>
+    </div>
+  </div>
+
+</section>
     <!-- Ranking Section -->
     <section id="places" class="panel">
       <div class="panel-head">
@@ -237,7 +282,6 @@
       </div>
       <div class="rank-list" id="rankList"></div>
     </section>
-
     <!-- Footer -->
     <footer>
       CrimeLens · Decision-support analytics only. Recorded crime counts are not population-adjusted crime rates.

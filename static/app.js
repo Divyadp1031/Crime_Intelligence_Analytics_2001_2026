@@ -8,6 +8,42 @@ let forecastChartInstance = null;
 let crimeMapInstance = null;
 let crimeGeoLayer = null;
 let hasFittedCrimeMap = false;
+let womenYearChartInstance = null;
+let womenStateChartInstance = null;
+let womenDistrictChartInstance = null;
+
+const barValueLabels = {
+    id: 'barValueLabels',
+
+    afterDatasetsDraw(chart) {
+        if (chart.config.type !== 'bar') return;
+
+        const ctx = chart.ctx;
+
+        ctx.save();
+        ctx.font = '12px Arial';
+        ctx.fillStyle = '#333333';
+        ctx.textAlign = 'left';
+        ctx.textBaseline = 'middle';
+
+        chart.data.datasets.forEach((dataset, datasetIndex) => {
+            const meta = chart.getDatasetMeta(datasetIndex);
+
+            meta.data.forEach((bar, index) => {
+                const value = dataset.data[index];
+
+                ctx.fillText(
+                    Number(value).toLocaleString('en-IN'),
+                    bar.x + 8,
+                    bar.y
+                );
+            });
+        });
+
+        ctx.restore();
+    }
+};
+
 // =============================================================================
 // 2. DOM Helpers & Formatting Utilities
 // =============================================================================
@@ -45,7 +81,6 @@ const getFilterParams = () => {
 async function fetchJSON(url) {
   const response = await fetch(url);
   const data = await response.json();
-
   if (!response.ok) {
     throw new Error(data.error || 'Failed to load analytics data from server');
   }
@@ -288,6 +323,137 @@ async function loadPlaces() {
     .join('');
 }
 
+async function loadWomenSafety() {
+  try {
+    const selectedYear = getEl('womenYear').value;
+
+    const response = await fetch(
+      `/api/women-safety?year=${selectedYear}`
+    );
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      throw new Error(data.error || 'Unable to load women safety data');
+    }
+     // Update chart titles
+        const period = selectedYear === 'all'
+            ? 'All Years'
+            : selectedYear;
+            // Update data source indicator
+let sourceLabel;
+
+if (selectedYear === 'all') {
+    sourceLabel = 'Mixed: Official NCRB + Synthetic Demo Data';
+} else if (Number(selectedYear) <= 2014) {
+    sourceLabel = 'Official NCRB Historical Data';
+} else {
+    sourceLabel = 'Synthetic Demonstration Data';
+}
+
+getEl('womenDataSource').textContent = sourceLabel;
+getEl('womenStateTitle').textContent =
+    `Top 10 States – ${period}`;
+
+getEl('womenDistrictTitle').textContent =
+    `Top 10 Districts – ${period}`;
+    // Total recorded cases
+    getEl('womenTotalCases').textContent =
+      data.total_cases.toLocaleString('en-IN');
+
+    // Year-wise chart
+    if (womenYearChartInstance) womenYearChartInstance.destroy();
+
+    womenYearChartInstance = new Chart(
+      getEl('womenYearChart'),
+      {
+        type: 'line',
+        data: {
+          labels: data.yearly_analysis.map(item => item.year),
+          datasets: [{
+            label: 'Recorded rape cases',
+            data: data.yearly_analysis.map(item => item.rape),
+            borderColor: '#e05b83',
+            backgroundColor: 'rgba(224, 91, 131, 0.15)',
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false
+        }
+      }
+    );
+
+    // State-wise chart
+    if (womenStateChartInstance) womenStateChartInstance.destroy();
+
+    const topStates = data.state_analysis.slice(0, 10);
+
+    womenStateChartInstance = new Chart(
+      getEl('womenStateChart'),
+      {
+        type: 'bar',
+        data: {
+          labels: topStates.map(item => item.state),
+          datasets: [{
+            label: 'Recorded cases',
+            data: topStates.map(item => item.rape),
+            backgroundColor: '#6c8ee3'
+          }]
+        },
+        plugins: [barValueLabels],
+        options: {
+    indexAxis: 'y',
+    responsive: true,
+    maintainAspectRatio: false,
+    layout: {
+        padding: {
+            right: 55
+        }
+    }
+}
+      }
+    );
+
+    // District-wise chart
+    if (womenDistrictChartInstance) womenDistrictChartInstance.destroy();
+
+    const topDistricts = data.district_analysis.slice(0, 10);
+
+   womenDistrictChartInstance = new Chart(
+    getEl('womenDistrictChart'),
+    {
+        type: 'bar',
+        data: {
+            labels: topDistricts.map(
+                item => `${item.district}, ${item.state}`
+            ),
+            datasets: [{
+                label: 'Recorded cases',
+                data: topDistricts.map(item => item.rape),
+                backgroundColor: '#e6a45c'
+            }]
+        },
+        plugins: [barValueLabels],
+        options: {
+            indexAxis: 'y',
+            responsive: true,
+            maintainAspectRatio: false,
+            layout: {
+                padding: {
+                    right: 55
+                }
+            }
+        }
+    }
+);
+  } catch (error) {
+    console.error('Women Safety Error:', error);
+  }
+}
+
 // =============================================================================
 // 5. Controller & Initialization
 // =============================================================================
@@ -452,6 +618,7 @@ async function refreshDashboard() {
     await loadPlaces();
     initializeCrimeMap();
 await loadCrimeMap();
+await loadWomenSafety();
   } catch (error) {
     console.error('Error refreshing dashboard:', error);
     alert(error.message);
@@ -474,6 +641,14 @@ async function initDashboard() {
     .map((year) => `<option>${year}</option>`)
     .join('');
   getEl('rankingYear').innerHTML = `<option value="all">All available years</option>${yearOptions}`;
+  // Populate Women Safety Year Selector
+getEl('womenYear').innerHTML =
+  '<option value="all">All Years</option>' +
+  options.years
+    .map(year => `<option value="${year}">${year}</option>`)
+    .join('');
+
+getEl('womenYear').value = 'all';
 // Populate map years using official historical data only
 const officialYears = options.years.filter(
   year => Number(year) <= 2014
@@ -506,7 +681,10 @@ getEl('state').addEventListener('change', async () => {
 
 getEl('apply').addEventListener('click', refreshDashboard);
 getEl('rankingYear').addEventListener('change', loadPlaces);
-
+getEl('womenYear').addEventListener(
+  'change',
+  loadWomenSafety
+);
 // Bootstrap
 initDashboard().catch((error) => {
   console.error('Initialization error:', error);

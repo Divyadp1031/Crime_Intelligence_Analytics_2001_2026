@@ -15,6 +15,7 @@ from analytics import (
     forecast,
     series_for,
     summary,
+    district_risk_assessment,
 )
 
 # Initialize Flask application
@@ -166,6 +167,7 @@ def places():
     return jsonify({"items": items})
 
 
+
 # =============================================================================
 # Main Application Launcher
 # =============================================================================
@@ -245,6 +247,68 @@ def api_crime_map():
         "year": year,
         "category": category
     })
+ 
+@app.route("/api/women-safety")
+def women_safety():
+    try:
+        df = DATAFRAME.copy()
+
+        selected_year = request.args.get("year", "all").lower()
+
+        # Filter by selected year when a specific year is requested
+        if selected_year != "all":
+            year = int(selected_year)
+            df = df[df["year"] == year]
+
+            if df.empty:
+                return jsonify({
+                    "error": "No data available for this year"
+                }), 404
+        else:
+            year = "all"
+
+        # Total recorded cases
+        total_cases = int(df["rape"].sum())
+
+        # State-wise analysis
+        state_data = (
+            df.groupby("state")["rape"]
+            .sum()
+            .sort_values(ascending=False)
+            .reset_index()
+        )
+
+        # District-wise analysis: Top 10
+        district_data = (
+            df.groupby(["state", "district"])["rape"]
+            .sum()
+            .sort_values(ascending=False)
+            .head(10)
+            .reset_index()
+        )
+
+        # Year-wise trend
+        yearly_data = (
+            df.groupby("year")["rape"]
+            .sum()
+            .sort_index()
+            .reset_index()
+        )
+
+        return jsonify({
+            "selected_year": year,
+            "total_cases": total_cases,
+            "state_analysis": state_data.to_dict(orient="records"),
+            "district_analysis": district_data.to_dict(orient="records"),
+            "yearly_analysis": yearly_data.to_dict(orient="records")
+        })
+
+    except ValueError:
+        return jsonify({"error": "Invalid year"}), 400
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 if __name__ == "__main__":
     print("\nREGISTERED FLASK ROUTES:")
 

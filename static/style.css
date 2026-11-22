@@ -573,11 +573,13 @@ footer {
 /* Interactive India Crime Map */
 
 #crimeMap {
+  position: relative;
+  z-index: 1;
+  isolation: isolate;
   width: 100%;
   height: 560px;
   border-radius: 12px;
   overflow: hidden;
-  z-index: 1;
 }
 
 .map-controls {
@@ -585,11 +587,20 @@ footer {
   align-items: center;
   gap: 12px;
   margin: 18px 0;
+  position: relative;
+  z-index: 1000;
 }
 
 .map-controls label {
-  font-size: 13px;
-  font-weight: 600;
+  position: relative;
+  z-index: 1001;
+}
+
+.map-controls select {
+  position: relative;
+  z-index: 1001;
+  background: #ffffff;
+  color: #333333;
 }
 
 .map-legend {
@@ -629,4 +640,80 @@ footer {
   #crimeMap {
     height: 400px;
   }
+}
+#crimeMapSection {
+  position: relative;
+  z-index: 0;
+}
+
+#crimeMapSection .map-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 18px 0;
+  position: relative;
+  z-index: 2;
+}
+
+#crimeMapSection .map-controls label,
+#crimeMapSection .map-controls select {
+  position: relative;
+  z-index: 2;
+}
+
+#crimeMapSection #crimeMap {
+  position: relative;
+  z-index: 1;
+  isolation: isolate;
+  width: 100%;
+  height: 560px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+#womenSafety {
+    position: relative;
+    overflow: visible;
+}
+
+#womenSafety .map-controls {
+    position: relative;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 20px 0;
+}
+
+#womenSafety .map-controls select {
+    position: relative;
+    z-index: 101;
+    pointer-events: auto;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: #333333;
+}
+/* Women Safety Chart Layout */
+#womenSafety .chart-card {
+    position: relative;
+    height: 380px;
+    min-width: 0;
+}
+
+#womenSafety .chart-card canvas {
+    width: 100% !important;
+    height: 300px !important;
+}
+.women-data-source {
+    margin: 10px 0 20px;
+    padding: 10px 14px;
+    background: #f1f5f9;
+    border-left: 4px solid #5579d8;
+    border-radius: 6px;
+    color: #475569;
+    font-size: 13px;
+}
+
+#womenDataSource {
+    font-weight: 600;
+    color: #263b68;
 }

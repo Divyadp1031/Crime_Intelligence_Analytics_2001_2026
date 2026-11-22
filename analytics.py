@@ -374,3 +374,154 @@ def forecast(
             "reporting practices, policy changes or other external factors."
         ),
     }
+
+# =============================================================================
+# 6. District Crime Risk Level Classification
+# =============================================================================
+
+def district_risk_assessment(
+    year: Optional[int] = None,
+    state: str = "All India"
+) -> Dict[str, Any]:
+
+    # Use the latest available year if no year is selected
+    if year is None:
+        year = int(DATAFRAME["year"].max())
+
+    # Get crime records for the selected year
+    current = DATAFRAME[DATAFRAME["year"] == int(year)].copy()
+
+    if current.empty:
+        return {
+            "year": int(year),
+            "districts": [],
+            "summary": {}
+        }
+
+    # Aggregate crime counts for every district in India
+    current = (
+        current.groupby(["state", "district"], as_index=False)
+        .agg({
+            "total": "sum",
+            "murder": "sum",
+            "rape": "sum",
+            "theft": "sum",
+            "robbery": "sum",
+            "riots": "sum"
+        })
+    )
+
+    # Calculate crime severity using configurable project weights
+    current["severity"] = (
+        current["murder"] * 5 +
+        current["rape"] * 5 +
+        current["robbery"] * 2 +
+        current["riots"] * 2 +
+        current["theft"] * 1
+    )
+
+    # Get previous year's crime counts
+    previous = DATAFRAME[
+        DATAFRAME["year"] == int(year) - 1
+    ].groupby(["state", "district"])["total"].sum()
+
+    current["previous_crimes"] = [
+        previous.get((row.state, row.district), np.nan)
+        for row in current.itertuples()
+    ]
+
+    # Calculate year-on-year percentage change
+    current["growth_pct"] = np.where(
+        current["previous_crimes"] > 0,
+        (
+            (current["total"] - current["previous_crimes"])
+            / current["previous_crimes"]
+        ) * 100,
+        np.nan
+    )
+
+    # Convert each factor into a national percentile score
+    current["frequency_score"] = (
+        current["total"].rank(pct=True) * 100
+    )
+
+    current["severity_score"] = (
+        current["severity"].rank(pct=True) * 100
+    )
+
+    # Positive growth contributes to trend risk.
+    # Missing previous-year data receives a neutral score.
+    positive_growth = current["growth_pct"].clip(lower=0)
+
+    current["trend_score"] = (
+        positive_growth.rank(pct=True) * 100
+    )
+
+    current.loc[
+        current["growth_pct"].isna(), "trend_score"
+    ] = 50
+
+    # Calculate final risk score
+    current["risk_score"] = (
+        current["frequency_score"] * 0.50 +
+        current["severity_score"] * 0.30 +
+        current["trend_score"] * 0.20
+    ).round(2)
+
+    # Assign risk categories
+    def classify_risk(score):
+        if score <= 25:
+            return "Low"
+        elif score <= 50:
+            return "Medium"
+        elif score <= 75:
+            return "High"
+        return "Critical"
+
+    current["risk_level"] = current["risk_score"].apply(
+        classify_risk
+    )
+
+    # Filter the selected state after national scoring
+    if state != "All India":
+        current = current[current["state"] == state.upper()]
+
+    districts = []
+
+    for row in current.to_dict("records"):
+        districts.append({
+            "state": row["state"],
+            "district": row["district"],
+            "total_crimes": int(row["total"]),
+            "risk_score": float(row["risk_score"]),
+            "risk_level": row["risk_level"],
+            "crime_growth_pct": (
+                round(float(row["growth_pct"]), 2)
+                if pd.notna(row["growth_pct"]) else None
+            ),
+            "year": int(year),
+            "data_type": (
+                "Historical NCRB data"
+                if int(year) <= 2014
+                else "Synthetic demonstration data"
+            )
+        })
+
+    # Count districts in each risk category
+    summary = {
+        level: sum(
+            1 for item in districts
+            if item["risk_level"] == level
+        )
+        for level in ["Low", "Medium", "High", "Critical"]
+    }
+
+    return {
+        "year": int(year),
+        "districts": sorted(
+            districts,
+            key=lambda item: item["risk_score"],
+            reverse=True
+        ),
+        "summary": summary
+    }
