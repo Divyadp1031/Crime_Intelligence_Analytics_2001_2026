@@ -35,6 +35,7 @@
       <a class="nav" href="#places">⌖ &nbsp; State &amp; district ranking</a>
      <a class="nav" href="#crimeMapSection">📍 &nbsp; Crime Hotspot</a>
    <a class="nav" href="#womenSafety">♀ &nbsp; Women Safety</a>
+      <a class="nav" href="#preventionAnalysis">◈ &nbsp; Data-Driven Prevention Analysis</a>
 </nav>
 
     <div class="side-note">
@@ -281,6 +282,112 @@
         </select>
       </div>
       <div class="rank-list" id="rankList"></div>
+    </section>
+
+    <!-- Data-Driven Prevention Analysis Section -->
+    <section id="preventionAnalysis" class="panel" aria-label="Data-Driven Prevention Analysis">
+      <div class="panel-head">
+        <div>
+          <h2>Data-Driven Prevention Analysis</h2>
+          <p>Compare crime patterns across two non-overlapping periods and review general prevention suggestions</p>
+        </div>
+        <span class="tag">PREVENTION ANALYTICS</span>
+      </div>
+
+      <div class="prevention-controls">
+        <div class="prevention-field">
+          <label for="prevStart">Previous Start Year</label>
+          <select id="prevStart"></select>
+        </div>
+        <div class="prevention-field">
+          <label for="prevEnd">Previous End Year</label>
+          <select id="prevEnd"></select>
+        </div>
+        <div class="prevention-field">
+          <label for="recentStart">Recent Start Year</label>
+          <select id="recentStart"></select>
+        </div>
+        <div class="prevention-field">
+          <label for="recentEnd">Recent End Year</label>
+          <select id="recentEnd"></select>
+        </div>
+        <div class="prevention-field">
+          <label for="preventionState">State / UT</label>
+          <select id="preventionState"></select>
+        </div>
+        <div class="prevention-field">
+          <label for="preventionDistrict">District</label>
+          <select id="preventionDistrict" disabled>
+            <option value="All districts">All districts</option>
+          </select>
+        </div>
+        <div class="prevention-action">
+          <button id="preventionAnalyzeBtn" type="button">Analyze</button>
+        </div>
+      </div>
+
+      <div id="preventionError" class="prevention-error" role="alert" hidden></div>
+
+      <div class="prevention-source-bar">
+        <div class="prevention-sources-group">
+          <div class="prevention-source-item">
+            <span id="prevSourceLabel" class="prevention-source-label">Previous Period Source:</span>
+            <span id="prevDataSource" class="source-badge">Loading…</span>
+          </div>
+          <div class="prevention-source-item">
+            <span id="recentSourceLabel" class="prevention-source-label">Recent Period Source:</span>
+            <span id="recentDataSource" class="source-badge">Loading…</span>
+          </div>
+        </div>
+        <div id="preventionCoverageNote" class="prevention-coverage-note"></div>
+      </div>
+
+      <div class="prevention-table-wrap">
+        <table class="prevention-table">
+          <thead>
+            <tr>
+              <th>Crime Category</th>
+              <th id="prevPeriodHeader">Previous Period Avg / Yr</th>
+              <th id="recentPeriodHeader">Recent Period Avg / Yr</th>
+              <th>
+                <span class="th-with-info">
+                  <span>Change (%)</span>
+                  <span class="info-tooltip-wrap" id="changeInfoWrap">
+                    <button
+                      type="button"
+                      id="changeInfoBtn"
+                      class="info-icon-btn"
+                      aria-label="Explain percentage change calculation"
+                      aria-expanded="false"
+                    >i</button>
+                    <span class="info-tooltip" role="tooltip">
+                      <strong>How Change (%) is read:</strong><br>
+                      <b>Positive (+%):</b> Average increased (&gt; +5% = Increased).<br>
+                      <b>Negative (-%):</b> Average decreased (&lt; -5% = Decreased).<br>
+                      <b>±5% range:</b> Within -5% to +5% = Relatively Stable.<br>
+                      <b>Newly Recorded:</b> Previous average was 0 and recent &gt; 0.
+                    </span>
+                  </span>
+                </span>
+              </th>
+              <th>Trend Status</th>
+            </tr>
+          </thead>
+          <tbody id="preventionResultsBody">
+            <tr>
+              <td colspan="5" class="prevention-empty">Select periods and click Analyze to compare crime trends.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="prevention-rec-section">
+        <h3>General Prevention Suggestions</h3>
+        <div id="preventionRecommendations" class="prevention-rec-grid"></div>
+        <p id="preventionDisclaimer" class="prevention-disclaimer">
+          General decision-support suggestions only. These recommendations do not guarantee crime reduction.
+        </p>
+      </div>
     </section>
     <!-- Footer -->
     <footer>

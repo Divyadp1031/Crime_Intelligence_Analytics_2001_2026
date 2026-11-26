@@ -11,6 +11,7 @@ let hasFittedCrimeMap = false;
 let womenYearChartInstance = null;
 let womenStateChartInstance = null;
 let womenDistrictChartInstance = null;
+let isPreventionLoading = false;
 
 const barValueLabels = {
     id: 'barValueLabels',
@@ -650,17 +651,19 @@ getEl('womenYear').innerHTML =
 
 getEl('womenYear').value = 'all';
 // Populate map years using official historical data only
-const officialYears = options.years.filter(
-  year => Number(year) <= 2014
-);
 
-getEl("mapYear").innerHTML = officialYears
+
+// Populate map years using all available dataset years
+const mapYears = options.years;
+
+getEl("mapYear").innerHTML = mapYears
   .map(year => `<option value="${year}">${year}</option>`)
   .join("");
 
-getEl("mapYear").value = officialYears.includes(2014)
+// Keep 2014 as the default year
+getEl("mapYear").value = mapYears.includes(2014)
   ? 2014
-  : officialYears[officialYears.length - 1];
+  : mapYears[mapYears.length - 1];
   // Update Data Coverage Badge
   const firstYear = options.years[0];
   const lastYear = options.years[options.years.length - 1];
@@ -670,6 +673,301 @@ getEl("mapYear").value = officialYears.includes(2014)
   // Populate dependent districts and trigger initial render
   await updateDistricts();
   await refreshDashboard();
+
+  // Initialize Data-Driven Prevention Analysis controls reusing loaded options
+  initPreventionControls(options);
+  await loadPreventionAnalysis();
+}
+
+// =============================================================================
+// 5B. Data-Driven Prevention Analysis
+// =============================================================================
+
+/**
+ * Populate period year selectors and state selector using existing /api/options data.
+ * @param {object} options - Options payload from /api/options
+ */
+function initPreventionControls(options) {
+  const years = options.years || [];
+  const yearOptionsHtml = years
+    .map((year) => `<option value="${year}">${year}</option>`)
+    .join('');
+
+  getEl('prevStart').innerHTML = yearOptionsHtml;
+  getEl('prevEnd').innerHTML = yearOptionsHtml;
+  getEl('recentStart').innerHTML = yearOptionsHtml;
+  getEl('recentEnd').innerHTML = yearOptionsHtml;
+
+  // Choose sensible non-overlapping defaults (2019–2021 vs 2022–2024 when available)
+  const hasDefaultRange =
+    years.includes(2019) && years.includes(2021) && years.includes(2022) && years.includes(2024);
+
+  if (hasDefaultRange) {
+    getEl('prevStart').value = '2019';
+    getEl('prevEnd').value = '2021';
+    getEl('recentStart').value = '2022';
+    getEl('recentEnd').value = '2024';
+  } else if (years.length >= 2) {
+    const half = Math.floor(years.length / 2);
+    getEl('prevStart').value = String(years[0]);
+    getEl('prevEnd').value = String(years[half - 1]);
+    getEl('recentStart').value = String(years[half]);
+    getEl('recentEnd').value = String(years[half * 2 - 1]);
+  }
+
+  getEl('preventionState').innerHTML = (options.states || ['All India'])
+    .map((state) => `<option value="${state}">${state}</option>`)
+    .join('');
+
+  const districtSelect = getEl('preventionDistrict');
+  districtSelect.innerHTML = '<option value="All districts">All districts</option>';
+  districtSelect.disabled = true;
+}
+
+/**
+ * Update the Prevention Analysis district dropdown when its state changes.
+ */
+async function updatePreventionDistricts() {
+  const state = getEl('preventionState').value;
+  const districtSelect = getEl('preventionDistrict');
+
+  if (!state || state === 'All India') {
+    districtSelect.innerHTML = '<option value="All districts">All districts</option>';
+    districtSelect.disabled = true;
+    return;
+  }
+
+  districtSelect.disabled = true;
+  try {
+    const data = await fetchJSON(`/api/options?state=${encodeURIComponent(state)}`);
+    districtSelect.innerHTML = (data.districts || ['All districts'])
+      .map((district) => `<option value="${district}">${district}</option>`)
+      .join('');
+    districtSelect.disabled = false;
+  } catch (error) {
+    districtSelect.innerHTML = '<option value="All districts">All districts</option>';
+    showPreventionError(error.message || 'Failed to load districts for the selected state.');
+  }
+}
+
+/**
+ * Display or clear an inline error message in the Prevention Analysis panel.
+ * @param {string} message - Error message (empty string hides the banner)
+ */
+function showPreventionError(message) {
+  const errorBox = getEl('preventionError');
+  if (!errorBox) return;
+
+  if (message) {
+    errorBox.textContent = message;
+    errorBox.hidden = false;
+  } else {
+    errorBox.textContent = '';
+    errorBox.hidden = true;
+  }
+}
+
+/**
+ * Map trend status labels to CSS badge modifier classes.
+ * @param {string} status - Trend status string
+ * @returns {string} CSS class name
+ */
+function getTrendBadgeClass(status) {
+  switch (status) {
+    case 'Increased':
+      return 'trend-badge trend-increased';
+    case 'Decreased':
+      return 'trend-badge trend-decreased';
+    case 'Relatively Stable':
+      return 'trend-badge trend-stable';
+    case 'Newly Recorded':
+      return 'trend-badge trend-new';
+    case 'No Recorded Cases':
+      return 'trend-badge trend-none';
+    default:
+      return 'trend-badge trend-insufficient';
+  }
+}
+
+/**
+ * Format average case counts safely without masking missing data as zero.
+ * @param {number|null} value - Average case count
+ * @returns {string}
+ */
+function formatAverageCases(value) {
+  if (value === null || value === undefined) return 'No data';
+  return Number(value).toLocaleString('en-IN', {
+    minimumFractionDigits: Number.isInteger(value) ? 0 : 1,
+    maximumFractionDigits: 2,
+  });
+}
+
+/**
+ * Format percentage change values safely.
+ * @param {number|null} pct - Percentage change
+ * @param {string} status - Trend status
+ * @returns {string}
+ */
+function formatPercentChange(pct, status) {
+  if (pct === null || pct === undefined) {
+    if (status === 'Newly Recorded') return 'New (from 0)';
+    if (status === 'No Recorded Cases') return '0%';
+    return '—';
+  }
+  const sign = pct > 0 ? '+' : '';
+  return `${sign}${pct.toFixed(2)}%`;
+}
+
+/**
+ * Render the Prevention Analysis API payload into the dashboard section.
+ * @param {object} data - Response from /api/prevention-analysis
+ */
+function renderPreventionAnalysis(data) {
+  const prev = data.periods.previous;
+  const recent = data.periods.recent;
+
+  // Separate data source indicators for previous and recent periods
+  getEl('prevSourceLabel').textContent = `Previous (${prev.start_year}–${prev.end_year}) Source:`;
+  const prevSourceBadge = getEl('prevDataSource');
+  prevSourceBadge.textContent = prev.source.label;
+  prevSourceBadge.className = `source-badge source-${prev.source.type}`;
+
+  getEl('recentSourceLabel').textContent = `Recent (${recent.start_year}–${recent.end_year}) Source:`;
+  const recentSourceBadge = getEl('recentDataSource');
+  recentSourceBadge.textContent = recent.source.label;
+  recentSourceBadge.className = `source-badge source-${recent.source.type}`;
+
+  // Period coverage & missing years note
+  const missingParts = [];
+  if (prev.missing_years.length) {
+    missingParts.push(`Previous missing years: ${prev.missing_years.join(', ')}`);
+  }
+  if (recent.missing_years.length) {
+    missingParts.push(`Recent missing years: ${recent.missing_years.join(', ')}`);
+  }
+  const locationLabel =
+    data.filters.district !== 'All districts'
+      ? `${data.filters.district}, ${data.filters.state}`
+      : data.filters.state;
+
+  getEl('preventionCoverageNote').textContent = missingParts.length
+    ? `${locationLabel} · ${missingParts.join(' | ')} (averages use only years with recorded entries)`
+    : `${locationLabel} · All selected years have recorded entries (${prev.observed_year_count} vs ${recent.observed_year_count} years)`;
+
+  // Update table headers with active year ranges
+  getEl('prevPeriodHeader').textContent = `Previous (${prev.start_year}–${prev.end_year}) Avg/Yr`;
+  getEl('recentPeriodHeader').textContent = `Recent (${recent.start_year}–${recent.end_year}) Avg/Yr`;
+
+  // Render category comparison rows
+  const tbody = getEl('preventionResultsBody');
+  tbody.innerHTML = data.categories
+    .map((item) => {
+      const pctText = formatPercentChange(item.percentage_change, item.trend_status);
+      const badgeClass = getTrendBadgeClass(item.trend_status);
+      return `
+        <tr>
+          <td class="prevention-cat-name">${item.category}</td>
+          <td>${formatAverageCases(item.previous_avg)}</td>
+          <td>${formatAverageCases(item.recent_avg)}</td>
+          <td class="prevention-pct">${pctText}</td>
+          <td><span class="${badgeClass}">${item.trend_status}</span></td>
+        </tr>
+      `;
+    })
+    .join('');
+
+  // Render prevention recommendations
+  const recContainer = getEl('preventionRecommendations');
+  recContainer.innerHTML = data.recommendations
+    .map((rec) => {
+      return `
+        <article class="prevention-rec-card">
+          <div class="prevention-rec-head">
+            <strong>${rec.category}</strong>
+            <span class="prevention-priority">${rec.trend_status}</span>
+          </div>
+          <p>${rec.suggestion}</p>
+        </article>
+      `;
+    })
+    .join('');
+
+  getEl('preventionDisclaimer').textContent = data.disclaimer;
+}
+
+/**
+ * Validate period inputs and fetch comparison results from /api/prevention-analysis.
+ */
+async function loadPreventionAnalysis() {
+  if (isPreventionLoading) return;
+
+  const prevStart = Number(getEl('prevStart').value);
+  const prevEnd = Number(getEl('prevEnd').value);
+  const recentStart = Number(getEl('recentStart').value);
+  const recentEnd = Number(getEl('recentEnd').value);
+  const state = getEl('preventionState').value || 'All India';
+  const district = getEl('preventionDistrict').value || 'All districts';
+
+  if ([prevStart, prevEnd, recentStart, recentEnd].some(Number.isNaN)) {
+    showPreventionError('Please select valid start and end years for both periods.');
+    return;
+  }
+
+  if (prevStart > prevEnd) {
+    showPreventionError('Previous period start year cannot be after its end year.');
+    return;
+  }
+
+  if (recentStart > recentEnd) {
+    showPreventionError('Recent period start year cannot be after its end year.');
+    return;
+  }
+
+  if (prevEnd >= recentStart) {
+    showPreventionError(
+      'Selected periods must not overlap, and the previous period must end before the recent period starts.'
+    );
+    return;
+  }
+
+  const prevSpan = prevEnd - prevStart + 1;
+  const recentSpan = recentEnd - recentStart + 1;
+  if (prevSpan !== recentSpan) {
+    showPreventionError(
+      `Both comparison periods must have the same number of years (previous: ${prevSpan}, recent: ${recentSpan}).`
+    );
+    return;
+  }
+
+  showPreventionError('');
+  isPreventionLoading = true;
+  const analyzeBtn = getEl('preventionAnalyzeBtn');
+  if (analyzeBtn) {
+    analyzeBtn.disabled = true;
+    analyzeBtn.textContent = 'Analyzing…';
+  }
+
+  try {
+    const params = new URLSearchParams({
+      prev_start: String(prevStart),
+      prev_end: String(prevEnd),
+      recent_start: String(recentStart),
+      recent_end: String(recentEnd),
+      state: state,
+      district: district,
+    });
+
+    const data = await fetchJSON(`/api/prevention-analysis?${params}`);
+    renderPreventionAnalysis(data);
+  } catch (error) {
+    showPreventionError(error.message || 'Unable to load prevention analysis.');
+  } finally {
+    isPreventionLoading = false;
+    if (analyzeBtn) {
+      analyzeBtn.disabled = false;
+      analyzeBtn.textContent = 'Analyze';
+    }
+  }
 }
 
 // =============================================================================
@@ -685,6 +983,25 @@ getEl('womenYear').addEventListener(
   'change',
   loadWomenSafety
 );
+getEl('preventionState').addEventListener('change', updatePreventionDistricts);
+getEl('preventionAnalyzeBtn').addEventListener('click', loadPreventionAnalysis);
+
+const changeInfoBtn = getEl('changeInfoBtn');
+const changeInfoWrap = getEl('changeInfoWrap');
+if (changeInfoBtn && changeInfoWrap) {
+  changeInfoBtn.addEventListener('click', (event) => {
+    event.stopPropagation();
+    const isOpen = changeInfoWrap.classList.toggle('is-open');
+    changeInfoBtn.setAttribute('aria-expanded', String(isOpen));
+  });
+
+  document.addEventListener('click', (event) => {
+    if (!changeInfoWrap.contains(event.target)) {
+      changeInfoWrap.classList.remove('is-open');
+      changeInfoBtn.setAttribute('aria-expanded', 'false');
+    }
+  });
+}
 // Bootstrap
 initDashboard().catch((error) => {
   console.error('Initialization error:', error);
